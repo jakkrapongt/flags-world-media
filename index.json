@@ -5,6 +5,9 @@
     "circle-badge",
     "color-pin",
     "drop",
+    "flat-circle",
+    "flat-rectangle",
+    "flat-square",
     "heart",
     "leaf-badge",
     "rounded-badge",
@@ -339,6 +342,228 @@
         "united-states-flag-drop-128.png",
         "united-states-flag-drop-512.png",
         "united-states-flag-drop-64.png"
+      ]
+    },
+    "flat-circle": {
+      "au": [
+        "australia-flag-flat-circle-128.png",
+        "australia-flag-flat-circle-512.png",
+        "australia-flag-flat-circle-64.png",
+        "australia-flag-flat-circle.svg"
+      ],
+      "br": [
+        "brazil-flag-flat-circle-128.png",
+        "brazil-flag-flat-circle-512.png",
+        "brazil-flag-flat-circle-64.png",
+        "brazil-flag-flat-circle.svg"
+      ],
+      "ca": [
+        "canada-flag-flat-circle-128.png",
+        "canada-flag-flat-circle-512.png",
+        "canada-flag-flat-circle-64.png",
+        "canada-flag-flat-circle.svg"
+      ],
+      "fr": [
+        "france-flag-flat-circle-128.png",
+        "france-flag-flat-circle-512.png",
+        "france-flag-flat-circle-64.png",
+        "france-flag-flat-circle.svg"
+      ],
+      "de": [
+        "germany-flag-flat-circle-128.png",
+        "germany-flag-flat-circle-512.png",
+        "germany-flag-flat-circle-64.png",
+        "germany-flag-flat-circle.svg"
+      ],
+      "in": [
+        "india-flag-flat-circle-128.png",
+        "india-flag-flat-circle-512.png",
+        "india-flag-flat-circle-64.png",
+        "india-flag-flat-circle.svg"
+      ],
+      "jp": [
+        "japan-flag-flat-circle-128.png",
+        "japan-flag-flat-circle-512.png",
+        "japan-flag-flat-circle-64.png",
+        "japan-flag-flat-circle.svg"
+      ],
+      "kr": [
+        "south-korea-flag-flat-circle-128.png",
+        "south-korea-flag-flat-circle-512.png",
+        "south-korea-flag-flat-circle-64.png",
+        "south-korea-flag-flat-circle.svg"
+      ],
+      "th": [
+        "thailand-flag-flat-circle-128.png",
+        "thailand-flag-flat-circle-512.png",
+        "thailand-flag-flat-circle-64.png",
+        "thailand-flag-flat-circle.svg"
+      ],
+      "tr": [
+        "turkey-flag-flat-circle-128.png",
+        "turkey-flag-flat-circle-512.png",
+        "turkey-flag-flat-circle-64.png",
+        "turkey-flag-flat-circle.svg"
+      ],
+      "gb": [
+        "united-kingdom-flag-flat-circle-128.png",
+        "united-kingdom-flag-flat-circle-512.png",
+        "united-kingdom-flag-flat-circle-64.png",
+        "united-kingdom-flag-flat-circle.svg"
+      ],
+      "us": [
+        "united-states-flag-flat-circle-128.png",
+        "united-states-flag-flat-circle-512.png",
+        "united-states-flag-flat-circle-64.png",
+        "united-states-flag-flat-circle.svg"
+      ]
+    },
+    "flat-rectangle": {
+      "au": [
+        "australia-flag-flat-rectangle-128.png",
+        "australia-flag-flat-rectangle-512.png",
+        "australia-flag-flat-rectangle-64.png",
+        "australia-flag-flat-rectangle.svg"
+      ],
+      "br": [
+        "brazil-flag-flat-rectangle-128.png",
+        "brazil-flag-flat-rectangle-512.png",
+        "brazil-flag-flat-rectangle-64.png",
+        "brazil-flag-flat-rectangle.svg"
+      ],
+      "ca": [
+        "canada-flag-flat-rectangle-128.png",
+        "canada-flag-flat-rectangle-512.png",
+        "canada-flag-flat-rectangle-64.png",
+        "canada-flag-flat-rectangle.svg"
+      ],
+      "fr": [
+        "france-flag-flat-rectangle-128.png",
+        "france-flag-flat-rectangle-512.png",
+        "france-flag-flat-rectangle-64.png",
+        "france-flag-flat-rectangle.svg"
+      ],
+      "de": [
+        "germany-flag-flat-rectangle-128.png",
+        "germany-flag-flat-rectangle-512.png",
+        "germany-flag-flat-rectangle-64.png",
+        "germany-flag-flat-rectangle.svg"
+      ],
+      "in": [
+        "india-flag-flat-rectangle-128.png",
+        "india-flag-flat-rectangle-512.png",
+        "india-flag-flat-rectangle-64.png",
+        "india-flag-flat-rectangle.svg"
+      ],
+      "jp": [
+        "japan-flag-flat-rectangle-128.png",
+        "japan-flag-flat-rectangle-512.png",
+        "japan-flag-flat-rectangle-64.png",
+        "japan-flag-flat-rectangle.svg"
+      ],
+      "kr": [
+        "south-korea-flag-flat-rectangle-128.png",
+        "south-korea-flag-flat-rectangle-512.png",
+        "south-korea-flag-flat-rectangle-64.png",
+        "south-korea-flag-flat-rectangle.svg"
+      ],
+      "th": [
+        "thailand-flag-flat-rectangle-128.png",
+        "thailand-flag-flat-rectangle-512.png",
+        "thailand-flag-flat-rectangle-64.png",
+        "thailand-flag-flat-rectangle.svg"
+      ],
+      "tr": [
+        "turkey-flag-flat-rectangle-128.png",
+        "turkey-flag-flat-rectangle-512.png",
+        "turkey-flag-flat-rectangle-64.png",
+        "turkey-flag-flat-rectangle.svg"
+      ],
+      "gb": [
+        "united-kingdom-flag-flat-rectangle-128.png",
+        "united-kingdom-flag-flat-rectangle-512.png",
+        "united-kingdom-flag-flat-rectangle-64.png",
+        "united-kingdom-flag-flat-rectangle.svg"
+      ],
+      "us": [
+        "united-states-flag-flat-rectangle-128.png",
+        "united-states-flag-flat-rectangle-512.png",
+        "united-states-flag-flat-rectangle-64.png",
+        "united-states-flag-flat-rectangle.svg"
+      ]
+    },
+    "flat-square": {
+      "au": [
+        "australia-flag-flat-square-128.png",
+        "australia-flag-flat-square-512.png",
+        "australia-flag-flat-square-64.png",
+        "australia-flag-flat-square.svg"
+      ],
+      "br": [
+        "brazil-flag-flat-square-128.png",
+        "brazil-flag-flat-square-512.png",
+        "brazil-flag-flat-square-64.png",
+        "brazil-flag-flat-square.svg"
+      ],
+      "ca": [
+        "canada-flag-flat-square-128.png",
+        "canada-flag-flat-square-512.png",
+        "canada-flag-flat-square-64.png",
+        "canada-flag-flat-square.svg"
+      ],
+      "fr": [
+        "france-flag-flat-square-128.png",
+        "france-flag-flat-square-512.png",
+        "france-flag-flat-square-64.png",
+        "france-flag-flat-square.svg"
+      ],
+      "de": [
+        "germany-flag-flat-square-128.png",
+        "germany-flag-flat-square-512.png",
+        "germany-flag-flat-square-64.png",
+        "germany-flag-flat-square.svg"
+      ],
+      "in": [
+        "india-flag-flat-square-128.png",
+        "india-flag-flat-square-512.png",
+        "india-flag-flat-square-64.png",
+        "india-flag-flat-square.svg"
+      ],
+      "jp": [
+        "japan-flag-flat-square-128.png",
+        "japan-flag-flat-square-512.png",
+        "japan-flag-flat-square-64.png",
+        "japan-flag-flat-square.svg"
+      ],
+      "kr": [
+        "south-korea-flag-flat-square-128.png",
+        "south-korea-flag-flat-square-512.png",
+        "south-korea-flag-flat-square-64.png",
+        "south-korea-flag-flat-square.svg"
+      ],
+      "th": [
+        "thailand-flag-flat-square-128.png",
+        "thailand-flag-flat-square-512.png",
+        "thailand-flag-flat-square-64.png",
+        "thailand-flag-flat-square.svg"
+      ],
+      "tr": [
+        "turkey-flag-flat-square-128.png",
+        "turkey-flag-flat-square-512.png",
+        "turkey-flag-flat-square-64.png",
+        "turkey-flag-flat-square.svg"
+      ],
+      "gb": [
+        "united-kingdom-flag-flat-square-128.png",
+        "united-kingdom-flag-flat-square-512.png",
+        "united-kingdom-flag-flat-square-64.png",
+        "united-kingdom-flag-flat-square.svg"
+      ],
+      "us": [
+        "united-states-flag-flat-square-128.png",
+        "united-states-flag-flat-square-512.png",
+        "united-states-flag-flat-square-64.png",
+        "united-states-flag-flat-square.svg"
       ]
     },
     "heart": {
