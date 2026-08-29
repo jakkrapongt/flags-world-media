@@ -12,18 +12,18 @@
     "square-pin"
   ],
   "countries": [
-    "australia",
-    "brazil",
-    "canada",
-    "france",
-    "germany",
-    "india",
-    "japan",
-    "south-korea",
-    "thailand",
-    "turkey",
-    "united-kingdom",
-    "united-states"
+    "au",
+    "br",
+    "ca",
+    "de",
+    "fr",
+    "gb",
+    "in",
+    "jp",
+    "kr",
+    "th",
+    "tr",
+    "us"
   ],
   "sizes": [
     64,
@@ -32,620 +32,620 @@
   ],
   "files": {
     "badge": {
-      "australia": [
+      "au": [
         "australia-flag-badge-128.png",
         "australia-flag-badge-512.png",
         "australia-flag-badge-64.png"
       ],
-      "brazil": [
+      "br": [
         "brazil-flag-badge-128.png",
         "brazil-flag-badge-512.png",
         "brazil-flag-badge-64.png"
       ],
-      "canada": [
+      "ca": [
         "canada-flag-badge-128.png",
         "canada-flag-badge-512.png",
         "canada-flag-badge-64.png"
       ],
-      "france": [
+      "fr": [
         "france-flag-badge-128.png",
         "france-flag-badge-512.png",
         "france-flag-badge-64.png"
       ],
-      "germany": [
+      "de": [
         "germany-flag-badge-128.png",
         "germany-flag-badge-512.png",
         "germany-flag-badge-64.png"
       ],
-      "india": [
+      "in": [
         "india-flag-badge-128.png",
         "india-flag-badge-512.png",
         "india-flag-badge-64.png"
       ],
-      "japan": [
+      "jp": [
         "japan-flag-badge-128.png",
         "japan-flag-badge-512.png",
         "japan-flag-badge-64.png"
       ],
-      "south-korea": [
+      "kr": [
         "south-korea-flag-badge-128.png",
         "south-korea-flag-badge-512.png",
         "south-korea-flag-badge-64.png"
       ],
-      "thailand": [
+      "th": [
         "thailand-flag-badge-128.png",
         "thailand-flag-badge-512.png",
         "thailand-flag-badge-64.png"
       ],
-      "turkey": [
+      "tr": [
         "turkey-flag-badge-128.png",
         "turkey-flag-badge-512.png",
         "turkey-flag-badge-64.png"
       ],
-      "united-kingdom": [
+      "gb": [
         "united-kingdom-flag-badge-128.png",
         "united-kingdom-flag-badge-512.png",
         "united-kingdom-flag-badge-64.png"
       ],
-      "united-states": [
+      "us": [
         "united-states-flag-badge-128.png",
         "united-states-flag-badge-512.png",
         "united-states-flag-badge-64.png"
       ]
     },
     "bubble-marker": {
-      "australia": [
+      "au": [
         "australia-flag-bubble-marker-128.png",
         "australia-flag-bubble-marker-512.png",
         "australia-flag-bubble-marker-64.png"
       ],
-      "brazil": [
+      "br": [
         "brazil-flag-bubble-marker-128.png",
         "brazil-flag-bubble-marker-512.png",
         "brazil-flag-bubble-marker-64.png"
       ],
-      "canada": [
+      "ca": [
         "canada-flag-bubble-marker-128.png",
         "canada-flag-bubble-marker-512.png",
         "canada-flag-bubble-marker-64.png"
       ],
-      "france": [
+      "fr": [
         "france-flag-bubble-marker-128.png",
         "france-flag-bubble-marker-512.png",
         "france-flag-bubble-marker-64.png"
       ],
-      "germany": [
+      "de": [
         "germany-flag-bubble-marker-128.png",
         "germany-flag-bubble-marker-512.png",
         "germany-flag-bubble-marker-64.png"
       ],
-      "india": [
+      "in": [
         "india-flag-bubble-marker-128.png",
         "india-flag-bubble-marker-512.png",
         "india-flag-bubble-marker-64.png"
       ],
-      "japan": [
+      "jp": [
         "japan-flag-bubble-marker-128.png",
         "japan-flag-bubble-marker-512.png",
         "japan-flag-bubble-marker-64.png"
       ],
-      "south-korea": [
+      "kr": [
         "south-korea-flag-bubble-marker-128.png",
         "south-korea-flag-bubble-marker-512.png",
         "south-korea-flag-bubble-marker-64.png"
       ],
-      "thailand": [
+      "th": [
         "thailand-flag-bubble-marker-128.png",
         "thailand-flag-bubble-marker-512.png",
         "thailand-flag-bubble-marker-64.png"
       ],
-      "turkey": [
+      "tr": [
         "turkey-flag-bubble-marker-128.png",
         "turkey-flag-bubble-marker-512.png",
         "turkey-flag-bubble-marker-64.png"
       ],
-      "united-kingdom": [
+      "gb": [
         "united-kingdom-flag-bubble-marker-128.png",
         "united-kingdom-flag-bubble-marker-512.png",
         "united-kingdom-flag-bubble-marker-64.png"
       ],
-      "united-states": [
+      "us": [
         "united-states-flag-bubble-marker-128.png",
         "united-states-flag-bubble-marker-512.png",
         "united-states-flag-bubble-marker-64.png"
       ]
     },
     "circle-badge": {
-      "australia": [
+      "au": [
         "australia-flag-circle-badge-128.png",
         "australia-flag-circle-badge-512.png",
         "australia-flag-circle-badge-64.png"
       ],
-      "brazil": [
+      "br": [
         "brazil-flag-circle-badge-128.png",
         "brazil-flag-circle-badge-512.png",
         "brazil-flag-circle-badge-64.png"
       ],
-      "canada": [
+      "ca": [
         "canada-flag-circle-badge-128.png",
         "canada-flag-circle-badge-512.png",
         "canada-flag-circle-badge-64.png"
       ],
-      "france": [
+      "fr": [
         "france-flag-circle-badge-128.png",
         "france-flag-circle-badge-512.png",
         "france-flag-circle-badge-64.png"
       ],
-      "germany": [
+      "de": [
         "germany-flag-circle-badge-128.png",
         "germany-flag-circle-badge-512.png",
         "germany-flag-circle-badge-64.png"
       ],
-      "india": [
+      "in": [
         "india-flag-circle-badge-128.png",
         "india-flag-circle-badge-512.png",
         "india-flag-circle-badge-64.png"
       ],
-      "japan": [
+      "jp": [
         "japan-flag-circle-badge-128.png",
         "japan-flag-circle-badge-512.png",
         "japan-flag-circle-badge-64.png"
       ],
-      "south-korea": [
+      "kr": [
         "south-korea-flag-circle-badge-128.png",
         "south-korea-flag-circle-badge-512.png",
         "south-korea-flag-circle-badge-64.png"
       ],
-      "thailand": [
+      "th": [
         "thailand-flag-circle-badge-128.png",
         "thailand-flag-circle-badge-512.png",
         "thailand-flag-circle-badge-64.png"
       ],
-      "turkey": [
+      "tr": [
         "turkey-flag-circle-badge-128.png",
         "turkey-flag-circle-badge-512.png",
         "turkey-flag-circle-badge-64.png"
       ],
-      "united-kingdom": [
+      "gb": [
         "united-kingdom-flag-circle-badge-128.png",
         "united-kingdom-flag-circle-badge-512.png",
         "united-kingdom-flag-circle-badge-64.png"
       ],
-      "united-states": [
+      "us": [
         "united-states-flag-circle-badge-128.png",
         "united-states-flag-circle-badge-512.png",
         "united-states-flag-circle-badge-64.png"
       ]
     },
     "color-pin": {
-      "australia": [
+      "au": [
         "australia-flag-color-pin-128.png",
         "australia-flag-color-pin-512.png",
         "australia-flag-color-pin-64.png"
       ],
-      "brazil": [
+      "br": [
         "brazil-flag-color-pin-128.png",
         "brazil-flag-color-pin-512.png",
         "brazil-flag-color-pin-64.png"
       ],
-      "canada": [
+      "ca": [
         "canada-flag-color-pin-128.png",
         "canada-flag-color-pin-512.png",
         "canada-flag-color-pin-64.png"
       ],
-      "france": [
+      "fr": [
         "france-flag-color-pin-128.png",
         "france-flag-color-pin-512.png",
         "france-flag-color-pin-64.png"
       ],
-      "germany": [
+      "de": [
         "germany-flag-color-pin-128.png",
         "germany-flag-color-pin-512.png",
         "germany-flag-color-pin-64.png"
       ],
-      "india": [
+      "in": [
         "india-flag-color-pin-128.png",
         "india-flag-color-pin-512.png",
         "india-flag-color-pin-64.png"
       ],
-      "japan": [
+      "jp": [
         "japan-flag-color-pin-128.png",
         "japan-flag-color-pin-512.png",
         "japan-flag-color-pin-64.png"
       ],
-      "south-korea": [
+      "kr": [
         "south-korea-flag-color-pin-128.png",
         "south-korea-flag-color-pin-512.png",
         "south-korea-flag-color-pin-64.png"
       ],
-      "thailand": [
+      "th": [
         "thailand-flag-color-pin-128.png",
         "thailand-flag-color-pin-512.png",
         "thailand-flag-color-pin-64.png"
       ],
-      "turkey": [
+      "tr": [
         "turkey-flag-color-pin-128.png",
         "turkey-flag-color-pin-512.png",
         "turkey-flag-color-pin-64.png"
       ],
-      "united-kingdom": [
+      "gb": [
         "united-kingdom-flag-color-pin-128.png",
         "united-kingdom-flag-color-pin-512.png",
         "united-kingdom-flag-color-pin-64.png"
       ],
-      "united-states": [
+      "us": [
         "united-states-flag-color-pin-128.png",
         "united-states-flag-color-pin-512.png",
         "united-states-flag-color-pin-64.png"
       ]
     },
     "drop": {
-      "australia": [
+      "au": [
         "australia-flag-drop-128.png",
         "australia-flag-drop-512.png",
         "australia-flag-drop-64.png"
       ],
-      "brazil": [
+      "br": [
         "brazil-flag-drop-128.png",
         "brazil-flag-drop-512.png",
         "brazil-flag-drop-64.png"
       ],
-      "canada": [
+      "ca": [
         "canada-flag-drop-128.png",
         "canada-flag-drop-512.png",
         "canada-flag-drop-64.png"
       ],
-      "france": [
+      "fr": [
         "france-flag-drop-128.png",
         "france-flag-drop-512.png",
         "france-flag-drop-64.png"
       ],
-      "germany": [
+      "de": [
         "germany-flag-drop-128.png",
         "germany-flag-drop-512.png",
         "germany-flag-drop-64.png"
       ],
-      "india": [
+      "in": [
         "india-flag-drop-128.png",
         "india-flag-drop-512.png",
         "india-flag-drop-64.png"
       ],
-      "japan": [
+      "jp": [
         "japan-flag-drop-128.png",
         "japan-flag-drop-512.png",
         "japan-flag-drop-64.png"
       ],
-      "south-korea": [
+      "kr": [
         "south-korea-flag-drop-128.png",
         "south-korea-flag-drop-512.png",
         "south-korea-flag-drop-64.png"
       ],
-      "thailand": [
+      "th": [
         "thailand-flag-drop-128.png",
         "thailand-flag-drop-512.png",
         "thailand-flag-drop-64.png"
       ],
-      "turkey": [
+      "tr": [
         "turkey-flag-drop-128.png",
         "turkey-flag-drop-512.png",
         "turkey-flag-drop-64.png"
       ],
-      "united-kingdom": [
+      "gb": [
         "united-kingdom-flag-drop-128.png",
         "united-kingdom-flag-drop-512.png",
         "united-kingdom-flag-drop-64.png"
       ],
-      "united-states": [
+      "us": [
         "united-states-flag-drop-128.png",
         "united-states-flag-drop-512.png",
         "united-states-flag-drop-64.png"
       ]
     },
     "heart": {
-      "australia": [
+      "au": [
         "australia-flag-heart-128.png",
         "australia-flag-heart-512.png",
         "australia-flag-heart-64.png"
       ],
-      "brazil": [
+      "br": [
         "brazil-flag-heart-128.png",
         "brazil-flag-heart-512.png",
         "brazil-flag-heart-64.png"
       ],
-      "canada": [
+      "ca": [
         "canada-flag-heart-128.png",
         "canada-flag-heart-512.png",
         "canada-flag-heart-64.png"
       ],
-      "france": [
+      "fr": [
         "france-flag-heart-128.png",
         "france-flag-heart-512.png",
         "france-flag-heart-64.png"
       ],
-      "germany": [
+      "de": [
         "germany-flag-heart-128.png",
         "germany-flag-heart-512.png",
         "germany-flag-heart-64.png"
       ],
-      "india": [
+      "in": [
         "india-flag-heart-128.png",
         "india-flag-heart-512.png",
         "india-flag-heart-64.png"
       ],
-      "japan": [
+      "jp": [
         "japan-flag-heart-128.png",
         "japan-flag-heart-512.png",
         "japan-flag-heart-64.png"
       ],
-      "south-korea": [
+      "kr": [
         "south-korea-flag-heart-128.png",
         "south-korea-flag-heart-512.png",
         "south-korea-flag-heart-64.png"
       ],
-      "thailand": [
+      "th": [
         "thailand-flag-heart-128.png",
         "thailand-flag-heart-512.png",
         "thailand-flag-heart-64.png"
       ],
-      "turkey": [
+      "tr": [
         "turkey-flag-heart-128.png",
         "turkey-flag-heart-512.png",
         "turkey-flag-heart-64.png"
       ],
-      "united-kingdom": [
+      "gb": [
         "united-kingdom-flag-heart-128.png",
         "united-kingdom-flag-heart-512.png",
         "united-kingdom-flag-heart-64.png"
       ],
-      "united-states": [
+      "us": [
         "united-states-flag-heart-128.png",
         "united-states-flag-heart-512.png",
         "united-states-flag-heart-64.png"
       ]
     },
     "leaf-badge": {
-      "australia": [
+      "au": [
         "australia-flag-leaf-badge-128.png",
         "australia-flag-leaf-badge-512.png",
         "australia-flag-leaf-badge-64.png"
       ],
-      "brazil": [
+      "br": [
         "brazil-flag-leaf-badge-128.png",
         "brazil-flag-leaf-badge-512.png",
         "brazil-flag-leaf-badge-64.png"
       ],
-      "canada": [
+      "ca": [
         "canada-flag-leaf-badge-128.png",
         "canada-flag-leaf-badge-512.png",
         "canada-flag-leaf-badge-64.png"
       ],
-      "france": [
+      "fr": [
         "france-flag-leaf-badge-128.png",
         "france-flag-leaf-badge-512.png",
         "france-flag-leaf-badge-64.png"
       ],
-      "germany": [
+      "de": [
         "germany-flag-leaf-badge-128.png",
         "germany-flag-leaf-badge-512.png",
         "germany-flag-leaf-badge-64.png"
       ],
-      "india": [
+      "in": [
         "india-flag-leaf-badge-128.png",
         "india-flag-leaf-badge-512.png",
         "india-flag-leaf-badge-64.png"
       ],
-      "japan": [
+      "jp": [
         "japan-flag-leaf-badge-128.png",
         "japan-flag-leaf-badge-512.png",
         "japan-flag-leaf-badge-64.png"
       ],
-      "south-korea": [
+      "kr": [
         "south-korea-flag-leaf-badge-128.png",
         "south-korea-flag-leaf-badge-512.png",
         "south-korea-flag-leaf-badge-64.png"
       ],
-      "thailand": [
+      "th": [
         "thailand-flag-leaf-badge-128.png",
         "thailand-flag-leaf-badge-512.png",
         "thailand-flag-leaf-badge-64.png"
       ],
-      "turkey": [
+      "tr": [
         "turkey-flag-leaf-badge-128.png",
         "turkey-flag-leaf-badge-512.png",
         "turkey-flag-leaf-badge-64.png"
       ],
-      "united-kingdom": [
+      "gb": [
         "united-kingdom-flag-leaf-badge-128.png",
         "united-kingdom-flag-leaf-badge-512.png",
         "united-kingdom-flag-leaf-badge-64.png"
       ],
-      "united-states": [
+      "us": [
         "united-states-flag-leaf-badge-128.png",
         "united-states-flag-leaf-badge-512.png",
         "united-states-flag-leaf-badge-64.png"
       ]
     },
     "rounded-badge": {
-      "australia": [
+      "au": [
         "australia-flag-rounded-badge-128.png",
         "australia-flag-rounded-badge-512.png",
         "australia-flag-rounded-badge-64.png"
       ],
-      "brazil": [
+      "br": [
         "brazil-flag-rounded-badge-128.png",
         "brazil-flag-rounded-badge-512.png",
         "brazil-flag-rounded-badge-64.png"
       ],
-      "canada": [
+      "ca": [
         "canada-flag-rounded-badge-128.png",
         "canada-flag-rounded-badge-512.png",
         "canada-flag-rounded-badge-64.png"
       ],
-      "france": [
+      "fr": [
         "france-flag-rounded-badge-128.png",
         "france-flag-rounded-badge-512.png",
         "france-flag-rounded-badge-64.png"
       ],
-      "germany": [
+      "de": [
         "germany-flag-rounded-badge-128.png",
         "germany-flag-rounded-badge-512.png",
         "germany-flag-rounded-badge-64.png"
       ],
-      "india": [
+      "in": [
         "india-flag-rounded-badge-128.png",
         "india-flag-rounded-badge-512.png",
         "india-flag-rounded-badge-64.png"
       ],
-      "japan": [
+      "jp": [
         "japan-flag-rounded-badge-128.png",
         "japan-flag-rounded-badge-512.png",
         "japan-flag-rounded-badge-64.png"
       ],
-      "south-korea": [
+      "kr": [
         "south-korea-flag-rounded-badge-128.png",
         "south-korea-flag-rounded-badge-512.png",
         "south-korea-flag-rounded-badge-64.png"
       ],
-      "thailand": [
+      "th": [
         "thailand-flag-rounded-badge-128.png",
         "thailand-flag-rounded-badge-512.png",
         "thailand-flag-rounded-badge-64.png"
       ],
-      "turkey": [
+      "tr": [
         "turkey-flag-rounded-badge-128.png",
         "turkey-flag-rounded-badge-512.png",
         "turkey-flag-rounded-badge-64.png"
       ],
-      "united-kingdom": [
+      "gb": [
         "united-kingdom-flag-rounded-badge-128.png",
         "united-kingdom-flag-rounded-badge-512.png",
         "united-kingdom-flag-rounded-badge-64.png"
       ],
-      "united-states": [
+      "us": [
         "united-states-flag-rounded-badge-128.png",
         "united-states-flag-rounded-badge-512.png",
         "united-states-flag-rounded-badge-64.png"
       ]
     },
     "shield": {
-      "australia": [
+      "au": [
         "australia-flag-shield-128.png",
         "australia-flag-shield-512.png",
         "australia-flag-shield-64.png"
       ],
-      "brazil": [
+      "br": [
         "brazil-flag-shield-128.png",
         "brazil-flag-shield-512.png",
         "brazil-flag-shield-64.png"
       ],
-      "canada": [
+      "ca": [
         "canada-flag-shield-128.png",
         "canada-flag-shield-512.png",
         "canada-flag-shield-64.png"
       ],
-      "france": [
+      "fr": [
         "france-flag-shield-128.png",
         "france-flag-shield-512.png",
         "france-flag-shield-64.png"
       ],
-      "germany": [
+      "de": [
         "germany-flag-shield-128.png",
         "germany-flag-shield-512.png",
         "germany-flag-shield-64.png"
       ],
-      "india": [
+      "in": [
         "india-flag-shield-128.png",
         "india-flag-shield-512.png",
         "india-flag-shield-64.png"
       ],
-      "japan": [
+      "jp": [
         "japan-flag-shield-128.png",
         "japan-flag-shield-512.png",
         "japan-flag-shield-64.png"
       ],
-      "south-korea": [
+      "kr": [
         "south-korea-flag-shield-128.png",
         "south-korea-flag-shield-512.png",
         "south-korea-flag-shield-64.png"
       ],
-      "thailand": [
+      "th": [
         "thailand-flag-shield-128.png",
         "thailand-flag-shield-512.png",
         "thailand-flag-shield-64.png"
       ],
-      "turkey": [
+      "tr": [
         "turkey-flag-shield-128.png",
         "turkey-flag-shield-512.png",
         "turkey-flag-shield-64.png"
       ],
-      "united-kingdom": [
+      "gb": [
         "united-kingdom-flag-shield-128.png",
         "united-kingdom-flag-shield-512.png",
         "united-kingdom-flag-shield-64.png"
       ],
-      "united-states": [
+      "us": [
         "united-states-flag-shield-128.png",
         "united-states-flag-shield-512.png",
         "united-states-flag-shield-64.png"
       ]
     },
     "square-pin": {
-      "australia": [
+      "au": [
         "australia-flag-square-pin-128.png",
         "australia-flag-square-pin-512.png",
         "australia-flag-square-pin-64.png"
       ],
-      "brazil": [
+      "br": [
         "brazil-flag-square-pin-128.png",
         "brazil-flag-square-pin-512.png",
         "brazil-flag-square-pin-64.png"
       ],
-      "canada": [
+      "ca": [
         "canada-flag-square-pin-128.png",
         "canada-flag-square-pin-512.png",
         "canada-flag-square-pin-64.png"
       ],
-      "france": [
+      "fr": [
         "france-flag-square-pin-128.png",
         "france-flag-square-pin-512.png",
         "france-flag-square-pin-64.png"
       ],
-      "germany": [
+      "de": [
         "germany-flag-square-pin-128.png",
         "germany-flag-square-pin-512.png",
         "germany-flag-square-pin-64.png"
       ],
-      "india": [
+      "in": [
         "india-flag-square-pin-128.png",
         "india-flag-square-pin-512.png",
         "india-flag-square-pin-64.png"
       ],
-      "japan": [
+      "jp": [
         "japan-flag-square-pin-128.png",
         "japan-flag-square-pin-512.png",
         "japan-flag-square-pin-64.png"
       ],
-      "south-korea": [
+      "kr": [
         "south-korea-flag-square-pin-128.png",
         "south-korea-flag-square-pin-512.png",
         "south-korea-flag-square-pin-64.png"
       ],
-      "thailand": [
+      "th": [
         "thailand-flag-square-pin-128.png",
         "thailand-flag-square-pin-512.png",
         "thailand-flag-square-pin-64.png"
       ],
-      "turkey": [
+      "tr": [
         "turkey-flag-square-pin-128.png",
         "turkey-flag-square-pin-512.png",
         "turkey-flag-square-pin-64.png"
       ],
-      "united-kingdom": [
+      "gb": [
         "united-kingdom-flag-square-pin-128.png",
         "united-kingdom-flag-square-pin-512.png",
         "united-kingdom-flag-square-pin-64.png"
       ],
-      "united-states": [
+      "us": [
         "united-states-flag-square-pin-128.png",
         "united-states-flag-square-pin-512.png",
         "united-states-flag-square-pin-64.png"
