@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="532" viewBox="0 0 512 532">
+      <defs>
+        <clipPath id="sq"><rect x="10" y="6" width="492" height="492" rx="40" ry="40"/></clipPath>
+        <filter id="ds" x="-5%" y="-5%" width="115%" height="125%">
+          <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="black" flood-opacity="0.2"/>
+        </filter>
+      </defs>
+      <g filter="url(#ds)">
+        <g clip-path="url(#sq)">
+          <rect width="100%" height="100%" fill="white"/>
+          <svg viewBox="0 0 512 512" x="10" y="6" width="492" height="492" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <clipPath id="cd-a">
+      <path fill="#fff" d="M0-88h600v600H0z"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#cd-a)" transform="translate(0 75.1)scale(.853)">
+    <path fill="#007fff" d="M0-88h800v600H0z"/>
+    <path fill="#f7d618" d="M36 32h84l26-84 26 84h84l-68 52 26 84-68-52-68 52 26-84zM750-88 0 362v150h50L800 62V-88z"/>
+    <path fill="#ce1021" d="M800-88 0 392v120L800 32z"/>
+  </g>
+
+</svg>
+        </g>
+      </g>
+    </svg>

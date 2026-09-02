@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512">
+      <defs>
+        <clipPath id="fc"><rect x="24" y="24" width="464" height="464" rx="26" ry="26"/></clipPath>
+        <filter id="fs" x="-10%" y="-10%" width="120%" height="120%">
+          <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="black" flood-opacity="0.15"/>
+        </filter>
+      </defs>
+      <rect x="4" y="4" width="504" height="504" rx="34" ry="34" fill="rgb(133,65,89)"/>
+      <rect x="14" y="14" width="484" height="484" rx="30" ry="30" fill="#ffffff"/>
+      <g filter="url(#fs)">
+        <g clip-path="url(#fc)">
+          <rect width="100%" height="100%" fill="white"/>
+          <svg viewBox="0 0 512 512" x="24" y="24" width="464" height="464" preserveAspectRatio="xMidYMid slice">
+  <path fill="#1eb53a" d="M0 341.3h512V512H0z"/>
+  <path fill="#0099b5" d="M0 0h512v170.7H0z"/>
+  <path fill="#ce1126" d="M0 163.8h512v184.4H0z"/>
+  <path fill="#fff" d="M0 174h512v164H0z"/>
+  <circle cx="143.4" cy="81.9" r="61.4" fill="#fff"/>
+  <circle cx="163.8" cy="81.9" r="61.4" fill="#0099b5"/>
+  <g fill="#fff" transform="translate(278.5 131)scale(2.048)">
+    <g id="uz-e">
+      <g id="uz-d">
+        <g id="uz-c">
+          <g id="uz-b">
+            <path id="uz-a" d="M0-6-1.9-.3 1 .7"/>
+            <use xlink:href="#uz-a" width="100%" height="100%" transform="scale(-1 1)"/>
+          </g>
+          <use xlink:href="#uz-b" width="100%" height="100%" transform="rotate(72)"/>
+        </g>
+        <use xlink:href="#uz-b" width="100%" height="100%" transform="rotate(-72)"/>
+        <use xlink:href="#uz-c" width="100%" height="100%" transform="rotate(144)"/>
+      </g>
+      <use xlink:href="#uz-d" width="100%" height="100%" y="-24"/>
+      <use xlink:href="#uz-d" width="100%" height="100%" y="-48"/>
+    </g>
+    <use xlink:href="#uz-e" width="100%" height="100%" x="24"/>
+    <use xlink:href="#uz-e" width="100%" height="100%" x="48"/>
+    <use xlink:href="#uz-d" width="100%" height="100%" x="-48"/>
+    <use xlink:href="#uz-d" width="100%" height="100%" x="-24"/>
+    <use xlink:href="#uz-d" width="100%" height="100%" x="-24" y="-24"/>
+  </g>
+
+</svg>
+        </g>
+      </g>
+    </svg>

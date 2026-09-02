@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="532" viewBox="0 0 512 532">
+      <defs>
+        <clipPath id="sq"><rect x="10" y="6" width="492" height="492" rx="40" ry="40"/></clipPath>
+        <filter id="ds" x="-5%" y="-5%" width="115%" height="125%">
+          <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="black" flood-opacity="0.2"/>
+        </filter>
+      </defs>
+      <g filter="url(#ds)">
+        <g clip-path="url(#sq)">
+          <rect width="100%" height="100%" fill="white"/>
+          <svg viewBox="0 0 512 512" x="10" y="6" width="492" height="492" preserveAspectRatio="xMidYMid slice">
+  <path fill="#fff" d="M256 0h256v512H256z"/>
+  <path fill="#006233" d="M0 0h256v512H0z"/>
+  <path fill="#d21034" d="M367 192a128 128 0 1 0 0 128 102.4 102.4 0 1 1 0-128m4.2 64L256 218.4l71.7 98.2V195.4L256 293.6z"/>
+
+</svg>
+        </g>
+      </g>
+    </svg>

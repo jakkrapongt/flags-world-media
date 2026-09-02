@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" width="512" height="512">
+      <defs><clipPath id="sh"><path d="M72 66 L72 292 Q72 424 256 486 Q440 424 440 292 L440 66 L256 34 Z"/></clipPath></defs>
+      <g clip-path="url(#sh)">
+        <rect width="100%" height="100%" fill="white"/>
+        <svg viewBox="0 0 640 480" x="72" y="34" width="368" height="452" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <clipPath id="gm-a">
+      <path fill-opacity=".7" d="M0-48h640v480H0z"/>
+    </clipPath>
+  </defs>
+  <g fill-rule="evenodd" stroke-width="1pt" clip-path="url(#gm-a)" transform="translate(0 48)">
+    <path fill="red" d="M0-128h640V85.3H0z"/>
+    <path fill="#fff" d="M0 85.3h640V121H0z"/>
+    <path fill="#009" d="M0 120.9h640V263H0z"/>
+    <path fill="#fff" d="M0 263.1h640v35.6H0z"/>
+    <path fill="#090" d="M0 298.7h640V512H0z"/>
+  </g>
+
+</svg>
+      </g>
+    </svg>

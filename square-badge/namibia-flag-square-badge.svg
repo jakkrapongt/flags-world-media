@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512">
+      <defs>
+        <clipPath id="fc"><rect x="24" y="24" width="464" height="464" rx="26" ry="26"/></clipPath>
+        <filter id="fs" x="-10%" y="-10%" width="120%" height="120%">
+          <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="black" flood-opacity="0.15"/>
+        </filter>
+      </defs>
+      <rect x="4" y="4" width="504" height="504" rx="34" ry="34" fill="rgb(199,0,0)"/>
+      <rect x="14" y="14" width="484" height="484" rx="30" ry="30" fill="#ffffff"/>
+      <g filter="url(#fs)">
+        <g clip-path="url(#fc)">
+          <rect width="100%" height="100%" fill="white"/>
+          <svg viewBox="0 0 512 512" x="24" y="24" width="464" height="464" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <clipPath id="na-a">
+      <path fill-opacity=".7" d="M0 0h512v512H0z"/>
+    </clipPath>
+  </defs>
+  <g fill-rule="evenodd" clip-path="url(#na-a)">
+    <path fill="#fff" d="M0 0h512v512H0z"/>
+    <path fill="#3662a2" d="m-108.2.2.8 368.6L466.6 0z"/>
+    <path fill="#38a100" d="m630.7 511.5-1.4-383.2-579 383.5z"/>
+    <path fill="#c70000" d="m-107.9 396.6.5 115.4 125.3-.2 611.7-410.1L629 1.4 505.2.2z"/>
+    <path fill="#ffe700" d="m154 183.4-23.1-14-13.4 23.6-13-23.8L81 183l.6-27.1-27 .2 14-23.2L45 119.5l23.8-13L55 83l27 .6-.1-27.1 23.2 14 13.4-23.6 13 23.7L155.2 57l-.6 27 27-.1-14 23.2 23.6 13.3-23.8 13.1 13.7 23.4-27-.5z"/>
+    <path fill="#3662a2" d="M167.8 120c0 27.2-22.3 49.3-49.8 49.3s-49.7-22.1-49.7-49.4 22.3-49.3 49.8-49.3 49.7 22 49.7 49.3z"/>
+    <path fill="#ffe700" d="M157 120a39 39 0 1 1-77.9 0 39 39 0 0 1 77.9 0"/>
+  </g>
+
+</svg>
+        </g>
+      </g>
+    </svg>

@@ -9,13 +9,16 @@
     "flat-circle",
     "flat-heart",
     "flat-rectangle",
+    "flat-shield",
     "flat-square",
     "heart",
     "heart-badge",
     "leaf-badge",
     "rounded-badge",
     "shield",
-    "square-pin"
+    "square-badge",
+    "square-pin",
+    "square-shadow"
   ],
   "countries": [
     "ad",
@@ -15459,6 +15462,3522 @@
         "zimbabwe-flag-heart-badge-128.png",
         "zimbabwe-flag-heart-badge-512.png",
         "zimbabwe-flag-heart-badge-64.png"
+      ]
+    },
+    "flat-shield": {
+      "ad": [
+        "andorra-flag-flat-shield-128.png",
+        "andorra-flag-flat-shield-512.png",
+        "andorra-flag-flat-shield-64.png",
+        "andorra-flag-flat-shield.svg"
+      ],
+      "ae": [
+        "united-arab-emirates-flag-flat-shield-128.png",
+        "united-arab-emirates-flag-flat-shield-512.png",
+        "united-arab-emirates-flag-flat-shield-64.png",
+        "united-arab-emirates-flag-flat-shield.svg"
+      ],
+      "af": [
+        "afghanistan-flag-flat-shield-128.png",
+        "afghanistan-flag-flat-shield-512.png",
+        "afghanistan-flag-flat-shield-64.png",
+        "afghanistan-flag-flat-shield.svg"
+      ],
+      "ag": [
+        "antigua-and-barbuda-flag-flat-shield-128.png",
+        "antigua-and-barbuda-flag-flat-shield-512.png",
+        "antigua-and-barbuda-flag-flat-shield-64.png",
+        "antigua-and-barbuda-flag-flat-shield.svg"
+      ],
+      "al": [
+        "albania-flag-flat-shield-128.png",
+        "albania-flag-flat-shield-512.png",
+        "albania-flag-flat-shield-64.png",
+        "albania-flag-flat-shield.svg"
+      ],
+      "am": [
+        "armenia-flag-flat-shield-128.png",
+        "armenia-flag-flat-shield-512.png",
+        "armenia-flag-flat-shield-64.png",
+        "armenia-flag-flat-shield.svg"
+      ],
+      "ao": [
+        "angola-flag-flat-shield-128.png",
+        "angola-flag-flat-shield-512.png",
+        "angola-flag-flat-shield-64.png",
+        "angola-flag-flat-shield.svg"
+      ],
+      "ar": [
+        "argentina-flag-flat-shield-128.png",
+        "argentina-flag-flat-shield-512.png",
+        "argentina-flag-flat-shield-64.png",
+        "argentina-flag-flat-shield.svg"
+      ],
+      "at": [
+        "austria-flag-flat-shield-128.png",
+        "austria-flag-flat-shield-512.png",
+        "austria-flag-flat-shield-64.png",
+        "austria-flag-flat-shield.svg"
+      ],
+      "au": [
+        "australia-flag-flat-shield-128.png",
+        "australia-flag-flat-shield-512.png",
+        "australia-flag-flat-shield-64.png",
+        "australia-flag-flat-shield.svg"
+      ],
+      "az": [
+        "azerbaijan-flag-flat-shield-128.png",
+        "azerbaijan-flag-flat-shield-512.png",
+        "azerbaijan-flag-flat-shield-64.png",
+        "azerbaijan-flag-flat-shield.svg"
+      ],
+      "ba": [
+        "bosnia-and-herzegovina-flag-flat-shield-128.png",
+        "bosnia-and-herzegovina-flag-flat-shield-512.png",
+        "bosnia-and-herzegovina-flag-flat-shield-64.png",
+        "bosnia-and-herzegovina-flag-flat-shield.svg"
+      ],
+      "bb": [
+        "barbados-flag-flat-shield-128.png",
+        "barbados-flag-flat-shield-512.png",
+        "barbados-flag-flat-shield-64.png",
+        "barbados-flag-flat-shield.svg"
+      ],
+      "bd": [
+        "bangladesh-flag-flat-shield-128.png",
+        "bangladesh-flag-flat-shield-512.png",
+        "bangladesh-flag-flat-shield-64.png",
+        "bangladesh-flag-flat-shield.svg"
+      ],
+      "be": [
+        "belgium-flag-flat-shield-128.png",
+        "belgium-flag-flat-shield-512.png",
+        "belgium-flag-flat-shield-64.png",
+        "belgium-flag-flat-shield.svg"
+      ],
+      "bf": [
+        "burkina-faso-flag-flat-shield-128.png",
+        "burkina-faso-flag-flat-shield-512.png",
+        "burkina-faso-flag-flat-shield-64.png",
+        "burkina-faso-flag-flat-shield.svg"
+      ],
+      "bg": [
+        "bulgaria-flag-flat-shield-128.png",
+        "bulgaria-flag-flat-shield-512.png",
+        "bulgaria-flag-flat-shield-64.png",
+        "bulgaria-flag-flat-shield.svg"
+      ],
+      "bh": [
+        "bahrain-flag-flat-shield-128.png",
+        "bahrain-flag-flat-shield-512.png",
+        "bahrain-flag-flat-shield-64.png",
+        "bahrain-flag-flat-shield.svg"
+      ],
+      "bi": [
+        "burundi-flag-flat-shield-128.png",
+        "burundi-flag-flat-shield-512.png",
+        "burundi-flag-flat-shield-64.png",
+        "burundi-flag-flat-shield.svg"
+      ],
+      "bj": [
+        "benin-flag-flat-shield-128.png",
+        "benin-flag-flat-shield-512.png",
+        "benin-flag-flat-shield-64.png",
+        "benin-flag-flat-shield.svg"
+      ],
+      "bn": [
+        "brunei-flag-flat-shield-128.png",
+        "brunei-flag-flat-shield-512.png",
+        "brunei-flag-flat-shield-64.png",
+        "brunei-flag-flat-shield.svg"
+      ],
+      "bo": [
+        "bolivia-flag-flat-shield-128.png",
+        "bolivia-flag-flat-shield-512.png",
+        "bolivia-flag-flat-shield-64.png",
+        "bolivia-flag-flat-shield.svg"
+      ],
+      "br": [
+        "brazil-flag-flat-shield-128.png",
+        "brazil-flag-flat-shield-512.png",
+        "brazil-flag-flat-shield-64.png",
+        "brazil-flag-flat-shield.svg"
+      ],
+      "bs": [
+        "bahamas-flag-flat-shield-128.png",
+        "bahamas-flag-flat-shield-512.png",
+        "bahamas-flag-flat-shield-64.png",
+        "bahamas-flag-flat-shield.svg"
+      ],
+      "bt": [
+        "bhutan-flag-flat-shield-128.png",
+        "bhutan-flag-flat-shield-512.png",
+        "bhutan-flag-flat-shield-64.png",
+        "bhutan-flag-flat-shield.svg"
+      ],
+      "bw": [
+        "botswana-flag-flat-shield-128.png",
+        "botswana-flag-flat-shield-512.png",
+        "botswana-flag-flat-shield-64.png",
+        "botswana-flag-flat-shield.svg"
+      ],
+      "by": [
+        "belarus-flag-flat-shield-128.png",
+        "belarus-flag-flat-shield-512.png",
+        "belarus-flag-flat-shield-64.png",
+        "belarus-flag-flat-shield.svg"
+      ],
+      "bz": [
+        "belize-flag-flat-shield-128.png",
+        "belize-flag-flat-shield-512.png",
+        "belize-flag-flat-shield-64.png",
+        "belize-flag-flat-shield.svg"
+      ],
+      "ca": [
+        "canada-flag-flat-shield-128.png",
+        "canada-flag-flat-shield-512.png",
+        "canada-flag-flat-shield-64.png",
+        "canada-flag-flat-shield.svg"
+      ],
+      "cd": [
+        "dr-congo-flag-flat-shield-128.png",
+        "dr-congo-flag-flat-shield-512.png",
+        "dr-congo-flag-flat-shield-64.png",
+        "dr-congo-flag-flat-shield.svg"
+      ],
+      "cf": [
+        "central-african-republic-flag-flat-shield-128.png",
+        "central-african-republic-flag-flat-shield-512.png",
+        "central-african-republic-flag-flat-shield-64.png",
+        "central-african-republic-flag-flat-shield.svg"
+      ],
+      "cg": [
+        "republic-of-the-congo-flag-flat-shield-128.png",
+        "republic-of-the-congo-flag-flat-shield-512.png",
+        "republic-of-the-congo-flag-flat-shield-64.png",
+        "republic-of-the-congo-flag-flat-shield.svg"
+      ],
+      "ch": [
+        "switzerland-flag-flat-shield-128.png",
+        "switzerland-flag-flat-shield-512.png",
+        "switzerland-flag-flat-shield-64.png",
+        "switzerland-flag-flat-shield.svg"
+      ],
+      "ci": [
+        "ivory-coast-flag-flat-shield-128.png",
+        "ivory-coast-flag-flat-shield-512.png",
+        "ivory-coast-flag-flat-shield-64.png",
+        "ivory-coast-flag-flat-shield.svg"
+      ],
+      "cl": [
+        "chile-flag-flat-shield-128.png",
+        "chile-flag-flat-shield-512.png",
+        "chile-flag-flat-shield-64.png",
+        "chile-flag-flat-shield.svg"
+      ],
+      "cm": [
+        "cameroon-flag-flat-shield-128.png",
+        "cameroon-flag-flat-shield-512.png",
+        "cameroon-flag-flat-shield-64.png",
+        "cameroon-flag-flat-shield.svg"
+      ],
+      "cn": [
+        "china-flag-flat-shield-128.png",
+        "china-flag-flat-shield-512.png",
+        "china-flag-flat-shield-64.png",
+        "china-flag-flat-shield.svg"
+      ],
+      "co": [
+        "colombia-flag-flat-shield-128.png",
+        "colombia-flag-flat-shield-512.png",
+        "colombia-flag-flat-shield-64.png",
+        "colombia-flag-flat-shield.svg"
+      ],
+      "cr": [
+        "costa-rica-flag-flat-shield-128.png",
+        "costa-rica-flag-flat-shield-512.png",
+        "costa-rica-flag-flat-shield-64.png",
+        "costa-rica-flag-flat-shield.svg"
+      ],
+      "cu": [
+        "cuba-flag-flat-shield-128.png",
+        "cuba-flag-flat-shield-512.png",
+        "cuba-flag-flat-shield-64.png",
+        "cuba-flag-flat-shield.svg"
+      ],
+      "cv": [
+        "cape-verde-flag-flat-shield-128.png",
+        "cape-verde-flag-flat-shield-512.png",
+        "cape-verde-flag-flat-shield-64.png",
+        "cape-verde-flag-flat-shield.svg"
+      ],
+      "cy": [
+        "cyprus-flag-flat-shield-128.png",
+        "cyprus-flag-flat-shield-512.png",
+        "cyprus-flag-flat-shield-64.png",
+        "cyprus-flag-flat-shield.svg"
+      ],
+      "cz": [
+        "czechia-flag-flat-shield-128.png",
+        "czechia-flag-flat-shield-512.png",
+        "czechia-flag-flat-shield-64.png",
+        "czechia-flag-flat-shield.svg"
+      ],
+      "de": [
+        "germany-flag-flat-shield-128.png",
+        "germany-flag-flat-shield-512.png",
+        "germany-flag-flat-shield-64.png",
+        "germany-flag-flat-shield.svg"
+      ],
+      "dj": [
+        "djibouti-flag-flat-shield-128.png",
+        "djibouti-flag-flat-shield-512.png",
+        "djibouti-flag-flat-shield-64.png",
+        "djibouti-flag-flat-shield.svg"
+      ],
+      "dk": [
+        "denmark-flag-flat-shield-128.png",
+        "denmark-flag-flat-shield-512.png",
+        "denmark-flag-flat-shield-64.png",
+        "denmark-flag-flat-shield.svg"
+      ],
+      "dm": [
+        "dominica-flag-flat-shield-128.png",
+        "dominica-flag-flat-shield-512.png",
+        "dominica-flag-flat-shield-64.png",
+        "dominica-flag-flat-shield.svg"
+      ],
+      "do": [
+        "dominican-republic-flag-flat-shield-128.png",
+        "dominican-republic-flag-flat-shield-512.png",
+        "dominican-republic-flag-flat-shield-64.png",
+        "dominican-republic-flag-flat-shield.svg"
+      ],
+      "dz": [
+        "algeria-flag-flat-shield-128.png",
+        "algeria-flag-flat-shield-512.png",
+        "algeria-flag-flat-shield-64.png",
+        "algeria-flag-flat-shield.svg"
+      ],
+      "ec": [
+        "ecuador-flag-flat-shield-128.png",
+        "ecuador-flag-flat-shield-512.png",
+        "ecuador-flag-flat-shield-64.png",
+        "ecuador-flag-flat-shield.svg"
+      ],
+      "ee": [
+        "estonia-flag-flat-shield-128.png",
+        "estonia-flag-flat-shield-512.png",
+        "estonia-flag-flat-shield-64.png",
+        "estonia-flag-flat-shield.svg"
+      ],
+      "eg": [
+        "egypt-flag-flat-shield-128.png",
+        "egypt-flag-flat-shield-512.png",
+        "egypt-flag-flat-shield-64.png",
+        "egypt-flag-flat-shield.svg"
+      ],
+      "er": [
+        "eritrea-flag-flat-shield-128.png",
+        "eritrea-flag-flat-shield-512.png",
+        "eritrea-flag-flat-shield-64.png",
+        "eritrea-flag-flat-shield.svg"
+      ],
+      "es": [
+        "spain-flag-flat-shield-128.png",
+        "spain-flag-flat-shield-512.png",
+        "spain-flag-flat-shield-64.png",
+        "spain-flag-flat-shield.svg"
+      ],
+      "et": [
+        "ethiopia-flag-flat-shield-128.png",
+        "ethiopia-flag-flat-shield-512.png",
+        "ethiopia-flag-flat-shield-64.png",
+        "ethiopia-flag-flat-shield.svg"
+      ],
+      "fi": [
+        "finland-flag-flat-shield-128.png",
+        "finland-flag-flat-shield-512.png",
+        "finland-flag-flat-shield-64.png",
+        "finland-flag-flat-shield.svg"
+      ],
+      "fj": [
+        "fiji-flag-flat-shield-128.png",
+        "fiji-flag-flat-shield-512.png",
+        "fiji-flag-flat-shield-64.png",
+        "fiji-flag-flat-shield.svg"
+      ],
+      "fm": [
+        "micronesia-flag-flat-shield-128.png",
+        "micronesia-flag-flat-shield-512.png",
+        "micronesia-flag-flat-shield-64.png",
+        "micronesia-flag-flat-shield.svg"
+      ],
+      "fr": [
+        "france-flag-flat-shield-128.png",
+        "france-flag-flat-shield-512.png",
+        "france-flag-flat-shield-64.png",
+        "france-flag-flat-shield.svg"
+      ],
+      "ga": [
+        "gabon-flag-flat-shield-128.png",
+        "gabon-flag-flat-shield-512.png",
+        "gabon-flag-flat-shield-64.png",
+        "gabon-flag-flat-shield.svg"
+      ],
+      "gb": [
+        "united-kingdom-flag-flat-shield-128.png",
+        "united-kingdom-flag-flat-shield-512.png",
+        "united-kingdom-flag-flat-shield-64.png",
+        "united-kingdom-flag-flat-shield.svg"
+      ],
+      "gd": [
+        "grenada-flag-flat-shield-128.png",
+        "grenada-flag-flat-shield-512.png",
+        "grenada-flag-flat-shield-64.png",
+        "grenada-flag-flat-shield.svg"
+      ],
+      "ge": [
+        "georgia-flag-flat-shield-128.png",
+        "georgia-flag-flat-shield-512.png",
+        "georgia-flag-flat-shield-64.png",
+        "georgia-flag-flat-shield.svg"
+      ],
+      "gh": [
+        "ghana-flag-flat-shield-128.png",
+        "ghana-flag-flat-shield-512.png",
+        "ghana-flag-flat-shield-64.png",
+        "ghana-flag-flat-shield.svg"
+      ],
+      "gm": [
+        "gambia-flag-flat-shield-128.png",
+        "gambia-flag-flat-shield-512.png",
+        "gambia-flag-flat-shield-64.png",
+        "gambia-flag-flat-shield.svg"
+      ],
+      "gn": [
+        "guinea-flag-flat-shield-128.png",
+        "guinea-flag-flat-shield-512.png",
+        "guinea-flag-flat-shield-64.png",
+        "guinea-flag-flat-shield.svg"
+      ],
+      "gq": [
+        "equatorial-guinea-flag-flat-shield-128.png",
+        "equatorial-guinea-flag-flat-shield-512.png",
+        "equatorial-guinea-flag-flat-shield-64.png",
+        "equatorial-guinea-flag-flat-shield.svg"
+      ],
+      "gr": [
+        "greece-flag-flat-shield-128.png",
+        "greece-flag-flat-shield-512.png",
+        "greece-flag-flat-shield-64.png",
+        "greece-flag-flat-shield.svg"
+      ],
+      "gt": [
+        "guatemala-flag-flat-shield-128.png",
+        "guatemala-flag-flat-shield-512.png",
+        "guatemala-flag-flat-shield-64.png",
+        "guatemala-flag-flat-shield.svg"
+      ],
+      "gw": [
+        "guinea-bissau-flag-flat-shield-128.png",
+        "guinea-bissau-flag-flat-shield-512.png",
+        "guinea-bissau-flag-flat-shield-64.png",
+        "guinea-bissau-flag-flat-shield.svg"
+      ],
+      "gy": [
+        "guyana-flag-flat-shield-128.png",
+        "guyana-flag-flat-shield-512.png",
+        "guyana-flag-flat-shield-64.png",
+        "guyana-flag-flat-shield.svg"
+      ],
+      "hn": [
+        "honduras-flag-flat-shield-128.png",
+        "honduras-flag-flat-shield-512.png",
+        "honduras-flag-flat-shield-64.png",
+        "honduras-flag-flat-shield.svg"
+      ],
+      "hr": [
+        "croatia-flag-flat-shield-128.png",
+        "croatia-flag-flat-shield-512.png",
+        "croatia-flag-flat-shield-64.png",
+        "croatia-flag-flat-shield.svg"
+      ],
+      "ht": [
+        "haiti-flag-flat-shield-128.png",
+        "haiti-flag-flat-shield-512.png",
+        "haiti-flag-flat-shield-64.png",
+        "haiti-flag-flat-shield.svg"
+      ],
+      "hu": [
+        "hungary-flag-flat-shield-128.png",
+        "hungary-flag-flat-shield-512.png",
+        "hungary-flag-flat-shield-64.png",
+        "hungary-flag-flat-shield.svg"
+      ],
+      "id": [
+        "indonesia-flag-flat-shield-128.png",
+        "indonesia-flag-flat-shield-512.png",
+        "indonesia-flag-flat-shield-64.png",
+        "indonesia-flag-flat-shield.svg"
+      ],
+      "ie": [
+        "ireland-flag-flat-shield-128.png",
+        "ireland-flag-flat-shield-512.png",
+        "ireland-flag-flat-shield-64.png",
+        "ireland-flag-flat-shield.svg"
+      ],
+      "il": [
+        "israel-flag-flat-shield-128.png",
+        "israel-flag-flat-shield-512.png",
+        "israel-flag-flat-shield-64.png",
+        "israel-flag-flat-shield.svg"
+      ],
+      "in": [
+        "india-flag-flat-shield-128.png",
+        "india-flag-flat-shield-512.png",
+        "india-flag-flat-shield-64.png",
+        "india-flag-flat-shield.svg"
+      ],
+      "iq": [
+        "iraq-flag-flat-shield-128.png",
+        "iraq-flag-flat-shield-512.png",
+        "iraq-flag-flat-shield-64.png",
+        "iraq-flag-flat-shield.svg"
+      ],
+      "ir": [
+        "iran-flag-flat-shield-128.png",
+        "iran-flag-flat-shield-512.png",
+        "iran-flag-flat-shield-64.png",
+        "iran-flag-flat-shield.svg"
+      ],
+      "is": [
+        "iceland-flag-flat-shield-128.png",
+        "iceland-flag-flat-shield-512.png",
+        "iceland-flag-flat-shield-64.png",
+        "iceland-flag-flat-shield.svg"
+      ],
+      "it": [
+        "italy-flag-flat-shield-128.png",
+        "italy-flag-flat-shield-512.png",
+        "italy-flag-flat-shield-64.png",
+        "italy-flag-flat-shield.svg"
+      ],
+      "jm": [
+        "jamaica-flag-flat-shield-128.png",
+        "jamaica-flag-flat-shield-512.png",
+        "jamaica-flag-flat-shield-64.png",
+        "jamaica-flag-flat-shield.svg"
+      ],
+      "jo": [
+        "jordan-flag-flat-shield-128.png",
+        "jordan-flag-flat-shield-512.png",
+        "jordan-flag-flat-shield-64.png",
+        "jordan-flag-flat-shield.svg"
+      ],
+      "jp": [
+        "japan-flag-flat-shield-128.png",
+        "japan-flag-flat-shield-512.png",
+        "japan-flag-flat-shield-64.png",
+        "japan-flag-flat-shield.svg"
+      ],
+      "ke": [
+        "kenya-flag-flat-shield-128.png",
+        "kenya-flag-flat-shield-512.png",
+        "kenya-flag-flat-shield-64.png",
+        "kenya-flag-flat-shield.svg"
+      ],
+      "kg": [
+        "kyrgyzstan-flag-flat-shield-128.png",
+        "kyrgyzstan-flag-flat-shield-512.png",
+        "kyrgyzstan-flag-flat-shield-64.png",
+        "kyrgyzstan-flag-flat-shield.svg"
+      ],
+      "kh": [
+        "cambodia-flag-flat-shield-128.png",
+        "cambodia-flag-flat-shield-512.png",
+        "cambodia-flag-flat-shield-64.png",
+        "cambodia-flag-flat-shield.svg"
+      ],
+      "ki": [
+        "kiribati-flag-flat-shield-128.png",
+        "kiribati-flag-flat-shield-512.png",
+        "kiribati-flag-flat-shield-64.png",
+        "kiribati-flag-flat-shield.svg"
+      ],
+      "km": [
+        "comoros-flag-flat-shield-128.png",
+        "comoros-flag-flat-shield-512.png",
+        "comoros-flag-flat-shield-64.png",
+        "comoros-flag-flat-shield.svg"
+      ],
+      "kn": [
+        "saint-kitts-and-nevis-flag-flat-shield-128.png",
+        "saint-kitts-and-nevis-flag-flat-shield-512.png",
+        "saint-kitts-and-nevis-flag-flat-shield-64.png",
+        "saint-kitts-and-nevis-flag-flat-shield.svg"
+      ],
+      "kp": [
+        "north-korea-flag-flat-shield-128.png",
+        "north-korea-flag-flat-shield-512.png",
+        "north-korea-flag-flat-shield-64.png",
+        "north-korea-flag-flat-shield.svg"
+      ],
+      "kr": [
+        "south-korea-flag-flat-shield-128.png",
+        "south-korea-flag-flat-shield-512.png",
+        "south-korea-flag-flat-shield-64.png",
+        "south-korea-flag-flat-shield.svg"
+      ],
+      "kw": [
+        "kuwait-flag-flat-shield-128.png",
+        "kuwait-flag-flat-shield-512.png",
+        "kuwait-flag-flat-shield-64.png",
+        "kuwait-flag-flat-shield.svg"
+      ],
+      "kz": [
+        "kazakhstan-flag-flat-shield-128.png",
+        "kazakhstan-flag-flat-shield-512.png",
+        "kazakhstan-flag-flat-shield-64.png",
+        "kazakhstan-flag-flat-shield.svg"
+      ],
+      "la": [
+        "laos-flag-flat-shield-128.png",
+        "laos-flag-flat-shield-512.png",
+        "laos-flag-flat-shield-64.png",
+        "laos-flag-flat-shield.svg"
+      ],
+      "lb": [
+        "lebanon-flag-flat-shield-128.png",
+        "lebanon-flag-flat-shield-512.png",
+        "lebanon-flag-flat-shield-64.png",
+        "lebanon-flag-flat-shield.svg"
+      ],
+      "lc": [
+        "saint-lucia-flag-flat-shield-128.png",
+        "saint-lucia-flag-flat-shield-512.png",
+        "saint-lucia-flag-flat-shield-64.png",
+        "saint-lucia-flag-flat-shield.svg"
+      ],
+      "li": [
+        "liechtenstein-flag-flat-shield-128.png",
+        "liechtenstein-flag-flat-shield-512.png",
+        "liechtenstein-flag-flat-shield-64.png",
+        "liechtenstein-flag-flat-shield.svg"
+      ],
+      "lk": [
+        "sri-lanka-flag-flat-shield-128.png",
+        "sri-lanka-flag-flat-shield-512.png",
+        "sri-lanka-flag-flat-shield-64.png",
+        "sri-lanka-flag-flat-shield.svg"
+      ],
+      "lr": [
+        "liberia-flag-flat-shield-128.png",
+        "liberia-flag-flat-shield-512.png",
+        "liberia-flag-flat-shield-64.png",
+        "liberia-flag-flat-shield.svg"
+      ],
+      "ls": [
+        "lesotho-flag-flat-shield-128.png",
+        "lesotho-flag-flat-shield-512.png",
+        "lesotho-flag-flat-shield-64.png",
+        "lesotho-flag-flat-shield.svg"
+      ],
+      "lt": [
+        "lithuania-flag-flat-shield-128.png",
+        "lithuania-flag-flat-shield-512.png",
+        "lithuania-flag-flat-shield-64.png",
+        "lithuania-flag-flat-shield.svg"
+      ],
+      "lu": [
+        "luxembourg-flag-flat-shield-128.png",
+        "luxembourg-flag-flat-shield-512.png",
+        "luxembourg-flag-flat-shield-64.png",
+        "luxembourg-flag-flat-shield.svg"
+      ],
+      "lv": [
+        "latvia-flag-flat-shield-128.png",
+        "latvia-flag-flat-shield-512.png",
+        "latvia-flag-flat-shield-64.png",
+        "latvia-flag-flat-shield.svg"
+      ],
+      "ly": [
+        "libya-flag-flat-shield-128.png",
+        "libya-flag-flat-shield-512.png",
+        "libya-flag-flat-shield-64.png",
+        "libya-flag-flat-shield.svg"
+      ],
+      "ma": [
+        "morocco-flag-flat-shield-128.png",
+        "morocco-flag-flat-shield-512.png",
+        "morocco-flag-flat-shield-64.png",
+        "morocco-flag-flat-shield.svg"
+      ],
+      "mc": [
+        "monaco-flag-flat-shield-128.png",
+        "monaco-flag-flat-shield-512.png",
+        "monaco-flag-flat-shield-64.png",
+        "monaco-flag-flat-shield.svg"
+      ],
+      "md": [
+        "moldova-flag-flat-shield-128.png",
+        "moldova-flag-flat-shield-512.png",
+        "moldova-flag-flat-shield-64.png",
+        "moldova-flag-flat-shield.svg"
+      ],
+      "me": [
+        "montenegro-flag-flat-shield-128.png",
+        "montenegro-flag-flat-shield-512.png",
+        "montenegro-flag-flat-shield-64.png",
+        "montenegro-flag-flat-shield.svg"
+      ],
+      "mg": [
+        "madagascar-flag-flat-shield-128.png",
+        "madagascar-flag-flat-shield-512.png",
+        "madagascar-flag-flat-shield-64.png",
+        "madagascar-flag-flat-shield.svg"
+      ],
+      "mh": [
+        "marshall-islands-flag-flat-shield-128.png",
+        "marshall-islands-flag-flat-shield-512.png",
+        "marshall-islands-flag-flat-shield-64.png",
+        "marshall-islands-flag-flat-shield.svg"
+      ],
+      "mk": [
+        "north-macedonia-flag-flat-shield-128.png",
+        "north-macedonia-flag-flat-shield-512.png",
+        "north-macedonia-flag-flat-shield-64.png",
+        "north-macedonia-flag-flat-shield.svg"
+      ],
+      "ml": [
+        "mali-flag-flat-shield-128.png",
+        "mali-flag-flat-shield-512.png",
+        "mali-flag-flat-shield-64.png",
+        "mali-flag-flat-shield.svg"
+      ],
+      "mm": [
+        "myanmar-flag-flat-shield-128.png",
+        "myanmar-flag-flat-shield-512.png",
+        "myanmar-flag-flat-shield-64.png",
+        "myanmar-flag-flat-shield.svg"
+      ],
+      "mn": [
+        "mongolia-flag-flat-shield-128.png",
+        "mongolia-flag-flat-shield-512.png",
+        "mongolia-flag-flat-shield-64.png",
+        "mongolia-flag-flat-shield.svg"
+      ],
+      "mr": [
+        "mauritania-flag-flat-shield-128.png",
+        "mauritania-flag-flat-shield-512.png",
+        "mauritania-flag-flat-shield-64.png",
+        "mauritania-flag-flat-shield.svg"
+      ],
+      "mt": [
+        "malta-flag-flat-shield-128.png",
+        "malta-flag-flat-shield-512.png",
+        "malta-flag-flat-shield-64.png",
+        "malta-flag-flat-shield.svg"
+      ],
+      "mu": [
+        "mauritius-flag-flat-shield-128.png",
+        "mauritius-flag-flat-shield-512.png",
+        "mauritius-flag-flat-shield-64.png",
+        "mauritius-flag-flat-shield.svg"
+      ],
+      "mv": [
+        "maldives-flag-flat-shield-128.png",
+        "maldives-flag-flat-shield-512.png",
+        "maldives-flag-flat-shield-64.png",
+        "maldives-flag-flat-shield.svg"
+      ],
+      "mw": [
+        "malawi-flag-flat-shield-128.png",
+        "malawi-flag-flat-shield-512.png",
+        "malawi-flag-flat-shield-64.png",
+        "malawi-flag-flat-shield.svg"
+      ],
+      "mx": [
+        "mexico-flag-flat-shield-128.png",
+        "mexico-flag-flat-shield-512.png",
+        "mexico-flag-flat-shield-64.png",
+        "mexico-flag-flat-shield.svg"
+      ],
+      "my": [
+        "malaysia-flag-flat-shield-128.png",
+        "malaysia-flag-flat-shield-512.png",
+        "malaysia-flag-flat-shield-64.png",
+        "malaysia-flag-flat-shield.svg"
+      ],
+      "mz": [
+        "mozambique-flag-flat-shield-128.png",
+        "mozambique-flag-flat-shield-512.png",
+        "mozambique-flag-flat-shield-64.png",
+        "mozambique-flag-flat-shield.svg"
+      ],
+      "na": [
+        "namibia-flag-flat-shield-128.png",
+        "namibia-flag-flat-shield-512.png",
+        "namibia-flag-flat-shield-64.png",
+        "namibia-flag-flat-shield.svg"
+      ],
+      "ne": [
+        "niger-flag-flat-shield-128.png",
+        "niger-flag-flat-shield-512.png",
+        "niger-flag-flat-shield-64.png",
+        "niger-flag-flat-shield.svg"
+      ],
+      "ng": [
+        "nigeria-flag-flat-shield-128.png",
+        "nigeria-flag-flat-shield-512.png",
+        "nigeria-flag-flat-shield-64.png",
+        "nigeria-flag-flat-shield.svg"
+      ],
+      "ni": [
+        "nicaragua-flag-flat-shield-128.png",
+        "nicaragua-flag-flat-shield-512.png",
+        "nicaragua-flag-flat-shield-64.png",
+        "nicaragua-flag-flat-shield.svg"
+      ],
+      "nl": [
+        "netherlands-flag-flat-shield-128.png",
+        "netherlands-flag-flat-shield-512.png",
+        "netherlands-flag-flat-shield-64.png",
+        "netherlands-flag-flat-shield.svg"
+      ],
+      "no": [
+        "norway-flag-flat-shield-128.png",
+        "norway-flag-flat-shield-512.png",
+        "norway-flag-flat-shield-64.png",
+        "norway-flag-flat-shield.svg"
+      ],
+      "np": [
+        "nepal-flag-flat-shield-128.png",
+        "nepal-flag-flat-shield-512.png",
+        "nepal-flag-flat-shield-64.png",
+        "nepal-flag-flat-shield.svg"
+      ],
+      "nr": [
+        "nauru-flag-flat-shield-128.png",
+        "nauru-flag-flat-shield-512.png",
+        "nauru-flag-flat-shield-64.png",
+        "nauru-flag-flat-shield.svg"
+      ],
+      "nz": [
+        "new-zealand-flag-flat-shield-128.png",
+        "new-zealand-flag-flat-shield-512.png",
+        "new-zealand-flag-flat-shield-64.png",
+        "new-zealand-flag-flat-shield.svg"
+      ],
+      "om": [
+        "oman-flag-flat-shield-128.png",
+        "oman-flag-flat-shield-512.png",
+        "oman-flag-flat-shield-64.png",
+        "oman-flag-flat-shield.svg"
+      ],
+      "pa": [
+        "panama-flag-flat-shield-128.png",
+        "panama-flag-flat-shield-512.png",
+        "panama-flag-flat-shield-64.png",
+        "panama-flag-flat-shield.svg"
+      ],
+      "pe": [
+        "peru-flag-flat-shield-128.png",
+        "peru-flag-flat-shield-512.png",
+        "peru-flag-flat-shield-64.png",
+        "peru-flag-flat-shield.svg"
+      ],
+      "pg": [
+        "papua-new-guinea-flag-flat-shield-128.png",
+        "papua-new-guinea-flag-flat-shield-512.png",
+        "papua-new-guinea-flag-flat-shield-64.png",
+        "papua-new-guinea-flag-flat-shield.svg"
+      ],
+      "ph": [
+        "philippines-flag-flat-shield-128.png",
+        "philippines-flag-flat-shield-512.png",
+        "philippines-flag-flat-shield-64.png",
+        "philippines-flag-flat-shield.svg"
+      ],
+      "pk": [
+        "pakistan-flag-flat-shield-128.png",
+        "pakistan-flag-flat-shield-512.png",
+        "pakistan-flag-flat-shield-64.png",
+        "pakistan-flag-flat-shield.svg"
+      ],
+      "pl": [
+        "poland-flag-flat-shield-128.png",
+        "poland-flag-flat-shield-512.png",
+        "poland-flag-flat-shield-64.png",
+        "poland-flag-flat-shield.svg"
+      ],
+      "pt": [
+        "portugal-flag-flat-shield-128.png",
+        "portugal-flag-flat-shield-512.png",
+        "portugal-flag-flat-shield-64.png",
+        "portugal-flag-flat-shield.svg"
+      ],
+      "pw": [
+        "palau-flag-flat-shield-128.png",
+        "palau-flag-flat-shield-512.png",
+        "palau-flag-flat-shield-64.png",
+        "palau-flag-flat-shield.svg"
+      ],
+      "py": [
+        "paraguay-flag-flat-shield-128.png",
+        "paraguay-flag-flat-shield-512.png",
+        "paraguay-flag-flat-shield-64.png",
+        "paraguay-flag-flat-shield.svg"
+      ],
+      "qa": [
+        "qatar-flag-flat-shield-128.png",
+        "qatar-flag-flat-shield-512.png",
+        "qatar-flag-flat-shield-64.png",
+        "qatar-flag-flat-shield.svg"
+      ],
+      "ro": [
+        "romania-flag-flat-shield-128.png",
+        "romania-flag-flat-shield-512.png",
+        "romania-flag-flat-shield-64.png",
+        "romania-flag-flat-shield.svg"
+      ],
+      "rs": [
+        "serbia-flag-flat-shield-128.png",
+        "serbia-flag-flat-shield-512.png",
+        "serbia-flag-flat-shield-64.png",
+        "serbia-flag-flat-shield.svg"
+      ],
+      "ru": [
+        "russia-flag-flat-shield-128.png",
+        "russia-flag-flat-shield-512.png",
+        "russia-flag-flat-shield-64.png",
+        "russia-flag-flat-shield.svg"
+      ],
+      "rw": [
+        "rwanda-flag-flat-shield-128.png",
+        "rwanda-flag-flat-shield-512.png",
+        "rwanda-flag-flat-shield-64.png",
+        "rwanda-flag-flat-shield.svg"
+      ],
+      "sa": [
+        "saudi-arabia-flag-flat-shield-128.png",
+        "saudi-arabia-flag-flat-shield-512.png",
+        "saudi-arabia-flag-flat-shield-64.png",
+        "saudi-arabia-flag-flat-shield.svg"
+      ],
+      "sb": [
+        "solomon-islands-flag-flat-shield-128.png",
+        "solomon-islands-flag-flat-shield-512.png",
+        "solomon-islands-flag-flat-shield-64.png",
+        "solomon-islands-flag-flat-shield.svg"
+      ],
+      "sc": [
+        "seychelles-flag-flat-shield-128.png",
+        "seychelles-flag-flat-shield-512.png",
+        "seychelles-flag-flat-shield-64.png",
+        "seychelles-flag-flat-shield.svg"
+      ],
+      "sd": [
+        "sudan-flag-flat-shield-128.png",
+        "sudan-flag-flat-shield-512.png",
+        "sudan-flag-flat-shield-64.png",
+        "sudan-flag-flat-shield.svg"
+      ],
+      "se": [
+        "sweden-flag-flat-shield-128.png",
+        "sweden-flag-flat-shield-512.png",
+        "sweden-flag-flat-shield-64.png",
+        "sweden-flag-flat-shield.svg"
+      ],
+      "sg": [
+        "singapore-flag-flat-shield-128.png",
+        "singapore-flag-flat-shield-512.png",
+        "singapore-flag-flat-shield-64.png",
+        "singapore-flag-flat-shield.svg"
+      ],
+      "si": [
+        "slovenia-flag-flat-shield-128.png",
+        "slovenia-flag-flat-shield-512.png",
+        "slovenia-flag-flat-shield-64.png",
+        "slovenia-flag-flat-shield.svg"
+      ],
+      "sk": [
+        "slovakia-flag-flat-shield-128.png",
+        "slovakia-flag-flat-shield-512.png",
+        "slovakia-flag-flat-shield-64.png",
+        "slovakia-flag-flat-shield.svg"
+      ],
+      "sl": [
+        "sierra-leone-flag-flat-shield-128.png",
+        "sierra-leone-flag-flat-shield-512.png",
+        "sierra-leone-flag-flat-shield-64.png",
+        "sierra-leone-flag-flat-shield.svg"
+      ],
+      "sm": [
+        "san-marino-flag-flat-shield-128.png",
+        "san-marino-flag-flat-shield-512.png",
+        "san-marino-flag-flat-shield-64.png",
+        "san-marino-flag-flat-shield.svg"
+      ],
+      "sn": [
+        "senegal-flag-flat-shield-128.png",
+        "senegal-flag-flat-shield-512.png",
+        "senegal-flag-flat-shield-64.png",
+        "senegal-flag-flat-shield.svg"
+      ],
+      "so": [
+        "somalia-flag-flat-shield-128.png",
+        "somalia-flag-flat-shield-512.png",
+        "somalia-flag-flat-shield-64.png",
+        "somalia-flag-flat-shield.svg"
+      ],
+      "sr": [
+        "suriname-flag-flat-shield-128.png",
+        "suriname-flag-flat-shield-512.png",
+        "suriname-flag-flat-shield-64.png",
+        "suriname-flag-flat-shield.svg"
+      ],
+      "ss": [
+        "south-sudan-flag-flat-shield-128.png",
+        "south-sudan-flag-flat-shield-512.png",
+        "south-sudan-flag-flat-shield-64.png",
+        "south-sudan-flag-flat-shield.svg"
+      ],
+      "st": [
+        "s-o-tom-and-pr-ncipe-flag-flat-shield-128.png",
+        "s-o-tom-and-pr-ncipe-flag-flat-shield-512.png",
+        "s-o-tom-and-pr-ncipe-flag-flat-shield-64.png",
+        "s-o-tom-and-pr-ncipe-flag-flat-shield.svg"
+      ],
+      "sv": [
+        "el-salvador-flag-flat-shield-128.png",
+        "el-salvador-flag-flat-shield-512.png",
+        "el-salvador-flag-flat-shield-64.png",
+        "el-salvador-flag-flat-shield.svg"
+      ],
+      "sy": [
+        "syria-flag-flat-shield-128.png",
+        "syria-flag-flat-shield-512.png",
+        "syria-flag-flat-shield-64.png",
+        "syria-flag-flat-shield.svg"
+      ],
+      "sz": [
+        "eswatini-flag-flat-shield-128.png",
+        "eswatini-flag-flat-shield-512.png",
+        "eswatini-flag-flat-shield-64.png",
+        "eswatini-flag-flat-shield.svg"
+      ],
+      "td": [
+        "chad-flag-flat-shield-128.png",
+        "chad-flag-flat-shield-512.png",
+        "chad-flag-flat-shield-64.png",
+        "chad-flag-flat-shield.svg"
+      ],
+      "tg": [
+        "togo-flag-flat-shield-128.png",
+        "togo-flag-flat-shield-512.png",
+        "togo-flag-flat-shield-64.png",
+        "togo-flag-flat-shield.svg"
+      ],
+      "th": [
+        "thailand-flag-flat-shield-128.png",
+        "thailand-flag-flat-shield-512.png",
+        "thailand-flag-flat-shield-64.png",
+        "thailand-flag-flat-shield.svg"
+      ],
+      "tj": [
+        "tajikistan-flag-flat-shield-128.png",
+        "tajikistan-flag-flat-shield-512.png",
+        "tajikistan-flag-flat-shield-64.png",
+        "tajikistan-flag-flat-shield.svg"
+      ],
+      "tl": [
+        "timor-leste-flag-flat-shield-128.png",
+        "timor-leste-flag-flat-shield-512.png",
+        "timor-leste-flag-flat-shield-64.png",
+        "timor-leste-flag-flat-shield.svg"
+      ],
+      "tm": [
+        "turkmenistan-flag-flat-shield-128.png",
+        "turkmenistan-flag-flat-shield-512.png",
+        "turkmenistan-flag-flat-shield-64.png",
+        "turkmenistan-flag-flat-shield.svg"
+      ],
+      "tn": [
+        "tunisia-flag-flat-shield-128.png",
+        "tunisia-flag-flat-shield-512.png",
+        "tunisia-flag-flat-shield-64.png",
+        "tunisia-flag-flat-shield.svg"
+      ],
+      "to": [
+        "tonga-flag-flat-shield-128.png",
+        "tonga-flag-flat-shield-512.png",
+        "tonga-flag-flat-shield-64.png",
+        "tonga-flag-flat-shield.svg"
+      ],
+      "tr": [
+        "turkey-flag-flat-shield-128.png",
+        "turkey-flag-flat-shield-512.png",
+        "turkey-flag-flat-shield-64.png",
+        "turkey-flag-flat-shield.svg"
+      ],
+      "tt": [
+        "trinidad-and-tobago-flag-flat-shield-128.png",
+        "trinidad-and-tobago-flag-flat-shield-512.png",
+        "trinidad-and-tobago-flag-flat-shield-64.png",
+        "trinidad-and-tobago-flag-flat-shield.svg"
+      ],
+      "tv": [
+        "tuvalu-flag-flat-shield-128.png",
+        "tuvalu-flag-flat-shield-512.png",
+        "tuvalu-flag-flat-shield-64.png",
+        "tuvalu-flag-flat-shield.svg"
+      ],
+      "tz": [
+        "tanzania-flag-flat-shield-128.png",
+        "tanzania-flag-flat-shield-512.png",
+        "tanzania-flag-flat-shield-64.png",
+        "tanzania-flag-flat-shield.svg"
+      ],
+      "ua": [
+        "ukraine-flag-flat-shield-128.png",
+        "ukraine-flag-flat-shield-512.png",
+        "ukraine-flag-flat-shield-64.png",
+        "ukraine-flag-flat-shield.svg"
+      ],
+      "ug": [
+        "uganda-flag-flat-shield-128.png",
+        "uganda-flag-flat-shield-512.png",
+        "uganda-flag-flat-shield-64.png",
+        "uganda-flag-flat-shield.svg"
+      ],
+      "us": [
+        "united-states-flag-flat-shield-128.png",
+        "united-states-flag-flat-shield-512.png",
+        "united-states-flag-flat-shield-64.png",
+        "united-states-flag-flat-shield.svg"
+      ],
+      "uy": [
+        "uruguay-flag-flat-shield-128.png",
+        "uruguay-flag-flat-shield-512.png",
+        "uruguay-flag-flat-shield-64.png",
+        "uruguay-flag-flat-shield.svg"
+      ],
+      "uz": [
+        "uzbekistan-flag-flat-shield-128.png",
+        "uzbekistan-flag-flat-shield-512.png",
+        "uzbekistan-flag-flat-shield-64.png",
+        "uzbekistan-flag-flat-shield.svg"
+      ],
+      "va": [
+        "vatican-city-flag-flat-shield-128.png",
+        "vatican-city-flag-flat-shield-512.png",
+        "vatican-city-flag-flat-shield-64.png",
+        "vatican-city-flag-flat-shield.svg"
+      ],
+      "vc": [
+        "saint-vincent-and-the-grenadines-flag-flat-shield-128.png",
+        "saint-vincent-and-the-grenadines-flag-flat-shield-512.png",
+        "saint-vincent-and-the-grenadines-flag-flat-shield-64.png",
+        "saint-vincent-and-the-grenadines-flag-flat-shield.svg"
+      ],
+      "ve": [
+        "venezuela-flag-flat-shield-128.png",
+        "venezuela-flag-flat-shield-512.png",
+        "venezuela-flag-flat-shield-64.png",
+        "venezuela-flag-flat-shield.svg"
+      ],
+      "vn": [
+        "vietnam-flag-flat-shield-128.png",
+        "vietnam-flag-flat-shield-512.png",
+        "vietnam-flag-flat-shield-64.png",
+        "vietnam-flag-flat-shield.svg"
+      ],
+      "vu": [
+        "vanuatu-flag-flat-shield-128.png",
+        "vanuatu-flag-flat-shield-512.png",
+        "vanuatu-flag-flat-shield-64.png",
+        "vanuatu-flag-flat-shield.svg"
+      ],
+      "ws": [
+        "samoa-flag-flat-shield-128.png",
+        "samoa-flag-flat-shield-512.png",
+        "samoa-flag-flat-shield-64.png",
+        "samoa-flag-flat-shield.svg"
+      ],
+      "xk": [
+        "kosovo-flag-flat-shield-128.png",
+        "kosovo-flag-flat-shield-512.png",
+        "kosovo-flag-flat-shield-64.png",
+        "kosovo-flag-flat-shield.svg"
+      ],
+      "ye": [
+        "yemen-flag-flat-shield-128.png",
+        "yemen-flag-flat-shield-512.png",
+        "yemen-flag-flat-shield-64.png",
+        "yemen-flag-flat-shield.svg"
+      ],
+      "za": [
+        "south-africa-flag-flat-shield-128.png",
+        "south-africa-flag-flat-shield-512.png",
+        "south-africa-flag-flat-shield-64.png",
+        "south-africa-flag-flat-shield.svg"
+      ],
+      "zm": [
+        "zambia-flag-flat-shield-128.png",
+        "zambia-flag-flat-shield-512.png",
+        "zambia-flag-flat-shield-64.png",
+        "zambia-flag-flat-shield.svg"
+      ],
+      "zw": [
+        "zimbabwe-flag-flat-shield-128.png",
+        "zimbabwe-flag-flat-shield-512.png",
+        "zimbabwe-flag-flat-shield-64.png",
+        "zimbabwe-flag-flat-shield.svg"
+      ]
+    },
+    "square-badge": {
+      "ad": [
+        "andorra-flag-square-badge-128.png",
+        "andorra-flag-square-badge-512.png",
+        "andorra-flag-square-badge-64.png",
+        "andorra-flag-square-badge.svg"
+      ],
+      "ae": [
+        "united-arab-emirates-flag-square-badge-128.png",
+        "united-arab-emirates-flag-square-badge-512.png",
+        "united-arab-emirates-flag-square-badge-64.png",
+        "united-arab-emirates-flag-square-badge.svg"
+      ],
+      "af": [
+        "afghanistan-flag-square-badge-128.png",
+        "afghanistan-flag-square-badge-512.png",
+        "afghanistan-flag-square-badge-64.png",
+        "afghanistan-flag-square-badge.svg"
+      ],
+      "ag": [
+        "antigua-and-barbuda-flag-square-badge-128.png",
+        "antigua-and-barbuda-flag-square-badge-512.png",
+        "antigua-and-barbuda-flag-square-badge-64.png",
+        "antigua-and-barbuda-flag-square-badge.svg"
+      ],
+      "al": [
+        "albania-flag-square-badge-128.png",
+        "albania-flag-square-badge-512.png",
+        "albania-flag-square-badge-64.png",
+        "albania-flag-square-badge.svg"
+      ],
+      "am": [
+        "armenia-flag-square-badge-128.png",
+        "armenia-flag-square-badge-512.png",
+        "armenia-flag-square-badge-64.png",
+        "armenia-flag-square-badge.svg"
+      ],
+      "ao": [
+        "angola-flag-square-badge-128.png",
+        "angola-flag-square-badge-512.png",
+        "angola-flag-square-badge-64.png",
+        "angola-flag-square-badge.svg"
+      ],
+      "ar": [
+        "argentina-flag-square-badge-128.png",
+        "argentina-flag-square-badge-512.png",
+        "argentina-flag-square-badge-64.png",
+        "argentina-flag-square-badge.svg"
+      ],
+      "at": [
+        "austria-flag-square-badge-128.png",
+        "austria-flag-square-badge-512.png",
+        "austria-flag-square-badge-64.png",
+        "austria-flag-square-badge.svg"
+      ],
+      "au": [
+        "australia-flag-square-badge-128.png",
+        "australia-flag-square-badge-512.png",
+        "australia-flag-square-badge-64.png",
+        "australia-flag-square-badge.svg"
+      ],
+      "az": [
+        "azerbaijan-flag-square-badge-128.png",
+        "azerbaijan-flag-square-badge-512.png",
+        "azerbaijan-flag-square-badge-64.png",
+        "azerbaijan-flag-square-badge.svg"
+      ],
+      "ba": [
+        "bosnia-and-herzegovina-flag-square-badge-128.png",
+        "bosnia-and-herzegovina-flag-square-badge-512.png",
+        "bosnia-and-herzegovina-flag-square-badge-64.png",
+        "bosnia-and-herzegovina-flag-square-badge.svg"
+      ],
+      "bb": [
+        "barbados-flag-square-badge-128.png",
+        "barbados-flag-square-badge-512.png",
+        "barbados-flag-square-badge-64.png",
+        "barbados-flag-square-badge.svg"
+      ],
+      "bd": [
+        "bangladesh-flag-square-badge-128.png",
+        "bangladesh-flag-square-badge-512.png",
+        "bangladesh-flag-square-badge-64.png",
+        "bangladesh-flag-square-badge.svg"
+      ],
+      "be": [
+        "belgium-flag-square-badge-128.png",
+        "belgium-flag-square-badge-512.png",
+        "belgium-flag-square-badge-64.png",
+        "belgium-flag-square-badge.svg"
+      ],
+      "bf": [
+        "burkina-faso-flag-square-badge-128.png",
+        "burkina-faso-flag-square-badge-512.png",
+        "burkina-faso-flag-square-badge-64.png",
+        "burkina-faso-flag-square-badge.svg"
+      ],
+      "bg": [
+        "bulgaria-flag-square-badge-128.png",
+        "bulgaria-flag-square-badge-512.png",
+        "bulgaria-flag-square-badge-64.png",
+        "bulgaria-flag-square-badge.svg"
+      ],
+      "bh": [
+        "bahrain-flag-square-badge-128.png",
+        "bahrain-flag-square-badge-512.png",
+        "bahrain-flag-square-badge-64.png",
+        "bahrain-flag-square-badge.svg"
+      ],
+      "bi": [
+        "burundi-flag-square-badge-128.png",
+        "burundi-flag-square-badge-512.png",
+        "burundi-flag-square-badge-64.png",
+        "burundi-flag-square-badge.svg"
+      ],
+      "bj": [
+        "benin-flag-square-badge-128.png",
+        "benin-flag-square-badge-512.png",
+        "benin-flag-square-badge-64.png",
+        "benin-flag-square-badge.svg"
+      ],
+      "bn": [
+        "brunei-flag-square-badge-128.png",
+        "brunei-flag-square-badge-512.png",
+        "brunei-flag-square-badge-64.png",
+        "brunei-flag-square-badge.svg"
+      ],
+      "bo": [
+        "bolivia-flag-square-badge-128.png",
+        "bolivia-flag-square-badge-512.png",
+        "bolivia-flag-square-badge-64.png",
+        "bolivia-flag-square-badge.svg"
+      ],
+      "br": [
+        "brazil-flag-square-badge-128.png",
+        "brazil-flag-square-badge-512.png",
+        "brazil-flag-square-badge-64.png",
+        "brazil-flag-square-badge.svg"
+      ],
+      "bs": [
+        "bahamas-flag-square-badge-128.png",
+        "bahamas-flag-square-badge-512.png",
+        "bahamas-flag-square-badge-64.png",
+        "bahamas-flag-square-badge.svg"
+      ],
+      "bt": [
+        "bhutan-flag-square-badge-128.png",
+        "bhutan-flag-square-badge-512.png",
+        "bhutan-flag-square-badge-64.png",
+        "bhutan-flag-square-badge.svg"
+      ],
+      "bw": [
+        "botswana-flag-square-badge-128.png",
+        "botswana-flag-square-badge-512.png",
+        "botswana-flag-square-badge-64.png",
+        "botswana-flag-square-badge.svg"
+      ],
+      "by": [
+        "belarus-flag-square-badge-128.png",
+        "belarus-flag-square-badge-512.png",
+        "belarus-flag-square-badge-64.png",
+        "belarus-flag-square-badge.svg"
+      ],
+      "bz": [
+        "belize-flag-square-badge-128.png",
+        "belize-flag-square-badge-512.png",
+        "belize-flag-square-badge-64.png",
+        "belize-flag-square-badge.svg"
+      ],
+      "ca": [
+        "canada-flag-square-badge-128.png",
+        "canada-flag-square-badge-512.png",
+        "canada-flag-square-badge-64.png",
+        "canada-flag-square-badge.svg"
+      ],
+      "cd": [
+        "dr-congo-flag-square-badge-128.png",
+        "dr-congo-flag-square-badge-512.png",
+        "dr-congo-flag-square-badge-64.png",
+        "dr-congo-flag-square-badge.svg"
+      ],
+      "cf": [
+        "central-african-republic-flag-square-badge-128.png",
+        "central-african-republic-flag-square-badge-512.png",
+        "central-african-republic-flag-square-badge-64.png",
+        "central-african-republic-flag-square-badge.svg"
+      ],
+      "cg": [
+        "republic-of-the-congo-flag-square-badge-128.png",
+        "republic-of-the-congo-flag-square-badge-512.png",
+        "republic-of-the-congo-flag-square-badge-64.png",
+        "republic-of-the-congo-flag-square-badge.svg"
+      ],
+      "ch": [
+        "switzerland-flag-square-badge-128.png",
+        "switzerland-flag-square-badge-512.png",
+        "switzerland-flag-square-badge-64.png",
+        "switzerland-flag-square-badge.svg"
+      ],
+      "ci": [
+        "ivory-coast-flag-square-badge-128.png",
+        "ivory-coast-flag-square-badge-512.png",
+        "ivory-coast-flag-square-badge-64.png",
+        "ivory-coast-flag-square-badge.svg"
+      ],
+      "cl": [
+        "chile-flag-square-badge-128.png",
+        "chile-flag-square-badge-512.png",
+        "chile-flag-square-badge-64.png",
+        "chile-flag-square-badge.svg"
+      ],
+      "cm": [
+        "cameroon-flag-square-badge-128.png",
+        "cameroon-flag-square-badge-512.png",
+        "cameroon-flag-square-badge-64.png",
+        "cameroon-flag-square-badge.svg"
+      ],
+      "cn": [
+        "china-flag-square-badge-128.png",
+        "china-flag-square-badge-512.png",
+        "china-flag-square-badge-64.png",
+        "china-flag-square-badge.svg"
+      ],
+      "co": [
+        "colombia-flag-square-badge-128.png",
+        "colombia-flag-square-badge-512.png",
+        "colombia-flag-square-badge-64.png",
+        "colombia-flag-square-badge.svg"
+      ],
+      "cr": [
+        "costa-rica-flag-square-badge-128.png",
+        "costa-rica-flag-square-badge-512.png",
+        "costa-rica-flag-square-badge-64.png",
+        "costa-rica-flag-square-badge.svg"
+      ],
+      "cu": [
+        "cuba-flag-square-badge-128.png",
+        "cuba-flag-square-badge-512.png",
+        "cuba-flag-square-badge-64.png",
+        "cuba-flag-square-badge.svg"
+      ],
+      "cv": [
+        "cape-verde-flag-square-badge-128.png",
+        "cape-verde-flag-square-badge-512.png",
+        "cape-verde-flag-square-badge-64.png",
+        "cape-verde-flag-square-badge.svg"
+      ],
+      "cy": [
+        "cyprus-flag-square-badge-128.png",
+        "cyprus-flag-square-badge-512.png",
+        "cyprus-flag-square-badge-64.png",
+        "cyprus-flag-square-badge.svg"
+      ],
+      "cz": [
+        "czechia-flag-square-badge-128.png",
+        "czechia-flag-square-badge-512.png",
+        "czechia-flag-square-badge-64.png",
+        "czechia-flag-square-badge.svg"
+      ],
+      "de": [
+        "germany-flag-square-badge-128.png",
+        "germany-flag-square-badge-512.png",
+        "germany-flag-square-badge-64.png",
+        "germany-flag-square-badge.svg"
+      ],
+      "dj": [
+        "djibouti-flag-square-badge-128.png",
+        "djibouti-flag-square-badge-512.png",
+        "djibouti-flag-square-badge-64.png",
+        "djibouti-flag-square-badge.svg"
+      ],
+      "dk": [
+        "denmark-flag-square-badge-128.png",
+        "denmark-flag-square-badge-512.png",
+        "denmark-flag-square-badge-64.png",
+        "denmark-flag-square-badge.svg"
+      ],
+      "dm": [
+        "dominica-flag-square-badge-128.png",
+        "dominica-flag-square-badge-512.png",
+        "dominica-flag-square-badge-64.png",
+        "dominica-flag-square-badge.svg"
+      ],
+      "do": [
+        "dominican-republic-flag-square-badge-128.png",
+        "dominican-republic-flag-square-badge-512.png",
+        "dominican-republic-flag-square-badge-64.png",
+        "dominican-republic-flag-square-badge.svg"
+      ],
+      "dz": [
+        "algeria-flag-square-badge-128.png",
+        "algeria-flag-square-badge-512.png",
+        "algeria-flag-square-badge-64.png",
+        "algeria-flag-square-badge.svg"
+      ],
+      "ec": [
+        "ecuador-flag-square-badge-128.png",
+        "ecuador-flag-square-badge-512.png",
+        "ecuador-flag-square-badge-64.png",
+        "ecuador-flag-square-badge.svg"
+      ],
+      "ee": [
+        "estonia-flag-square-badge-128.png",
+        "estonia-flag-square-badge-512.png",
+        "estonia-flag-square-badge-64.png",
+        "estonia-flag-square-badge.svg"
+      ],
+      "eg": [
+        "egypt-flag-square-badge-128.png",
+        "egypt-flag-square-badge-512.png",
+        "egypt-flag-square-badge-64.png",
+        "egypt-flag-square-badge.svg"
+      ],
+      "er": [
+        "eritrea-flag-square-badge-128.png",
+        "eritrea-flag-square-badge-512.png",
+        "eritrea-flag-square-badge-64.png",
+        "eritrea-flag-square-badge.svg"
+      ],
+      "es": [
+        "spain-flag-square-badge-128.png",
+        "spain-flag-square-badge-512.png",
+        "spain-flag-square-badge-64.png",
+        "spain-flag-square-badge.svg"
+      ],
+      "et": [
+        "ethiopia-flag-square-badge-128.png",
+        "ethiopia-flag-square-badge-512.png",
+        "ethiopia-flag-square-badge-64.png",
+        "ethiopia-flag-square-badge.svg"
+      ],
+      "fi": [
+        "finland-flag-square-badge-128.png",
+        "finland-flag-square-badge-512.png",
+        "finland-flag-square-badge-64.png",
+        "finland-flag-square-badge.svg"
+      ],
+      "fj": [
+        "fiji-flag-square-badge-128.png",
+        "fiji-flag-square-badge-512.png",
+        "fiji-flag-square-badge-64.png",
+        "fiji-flag-square-badge.svg"
+      ],
+      "fm": [
+        "micronesia-flag-square-badge-128.png",
+        "micronesia-flag-square-badge-512.png",
+        "micronesia-flag-square-badge-64.png",
+        "micronesia-flag-square-badge.svg"
+      ],
+      "fr": [
+        "france-flag-square-badge-128.png",
+        "france-flag-square-badge-512.png",
+        "france-flag-square-badge-64.png",
+        "france-flag-square-badge.svg"
+      ],
+      "ga": [
+        "gabon-flag-square-badge-128.png",
+        "gabon-flag-square-badge-512.png",
+        "gabon-flag-square-badge-64.png",
+        "gabon-flag-square-badge.svg"
+      ],
+      "gb": [
+        "united-kingdom-flag-square-badge-128.png",
+        "united-kingdom-flag-square-badge-512.png",
+        "united-kingdom-flag-square-badge-64.png",
+        "united-kingdom-flag-square-badge.svg"
+      ],
+      "gd": [
+        "grenada-flag-square-badge-128.png",
+        "grenada-flag-square-badge-512.png",
+        "grenada-flag-square-badge-64.png",
+        "grenada-flag-square-badge.svg"
+      ],
+      "ge": [
+        "georgia-flag-square-badge-128.png",
+        "georgia-flag-square-badge-512.png",
+        "georgia-flag-square-badge-64.png",
+        "georgia-flag-square-badge.svg"
+      ],
+      "gh": [
+        "ghana-flag-square-badge-128.png",
+        "ghana-flag-square-badge-512.png",
+        "ghana-flag-square-badge-64.png",
+        "ghana-flag-square-badge.svg"
+      ],
+      "gm": [
+        "gambia-flag-square-badge-128.png",
+        "gambia-flag-square-badge-512.png",
+        "gambia-flag-square-badge-64.png",
+        "gambia-flag-square-badge.svg"
+      ],
+      "gn": [
+        "guinea-flag-square-badge-128.png",
+        "guinea-flag-square-badge-512.png",
+        "guinea-flag-square-badge-64.png",
+        "guinea-flag-square-badge.svg"
+      ],
+      "gq": [
+        "equatorial-guinea-flag-square-badge-128.png",
+        "equatorial-guinea-flag-square-badge-512.png",
+        "equatorial-guinea-flag-square-badge-64.png",
+        "equatorial-guinea-flag-square-badge.svg"
+      ],
+      "gr": [
+        "greece-flag-square-badge-128.png",
+        "greece-flag-square-badge-512.png",
+        "greece-flag-square-badge-64.png",
+        "greece-flag-square-badge.svg"
+      ],
+      "gt": [
+        "guatemala-flag-square-badge-128.png",
+        "guatemala-flag-square-badge-512.png",
+        "guatemala-flag-square-badge-64.png",
+        "guatemala-flag-square-badge.svg"
+      ],
+      "gw": [
+        "guinea-bissau-flag-square-badge-128.png",
+        "guinea-bissau-flag-square-badge-512.png",
+        "guinea-bissau-flag-square-badge-64.png",
+        "guinea-bissau-flag-square-badge.svg"
+      ],
+      "gy": [
+        "guyana-flag-square-badge-128.png",
+        "guyana-flag-square-badge-512.png",
+        "guyana-flag-square-badge-64.png",
+        "guyana-flag-square-badge.svg"
+      ],
+      "hn": [
+        "honduras-flag-square-badge-128.png",
+        "honduras-flag-square-badge-512.png",
+        "honduras-flag-square-badge-64.png",
+        "honduras-flag-square-badge.svg"
+      ],
+      "hr": [
+        "croatia-flag-square-badge-128.png",
+        "croatia-flag-square-badge-512.png",
+        "croatia-flag-square-badge-64.png",
+        "croatia-flag-square-badge.svg"
+      ],
+      "ht": [
+        "haiti-flag-square-badge-128.png",
+        "haiti-flag-square-badge-512.png",
+        "haiti-flag-square-badge-64.png",
+        "haiti-flag-square-badge.svg"
+      ],
+      "hu": [
+        "hungary-flag-square-badge-128.png",
+        "hungary-flag-square-badge-512.png",
+        "hungary-flag-square-badge-64.png",
+        "hungary-flag-square-badge.svg"
+      ],
+      "id": [
+        "indonesia-flag-square-badge-128.png",
+        "indonesia-flag-square-badge-512.png",
+        "indonesia-flag-square-badge-64.png",
+        "indonesia-flag-square-badge.svg"
+      ],
+      "ie": [
+        "ireland-flag-square-badge-128.png",
+        "ireland-flag-square-badge-512.png",
+        "ireland-flag-square-badge-64.png",
+        "ireland-flag-square-badge.svg"
+      ],
+      "il": [
+        "israel-flag-square-badge-128.png",
+        "israel-flag-square-badge-512.png",
+        "israel-flag-square-badge-64.png",
+        "israel-flag-square-badge.svg"
+      ],
+      "in": [
+        "india-flag-square-badge-128.png",
+        "india-flag-square-badge-512.png",
+        "india-flag-square-badge-64.png",
+        "india-flag-square-badge.svg"
+      ],
+      "iq": [
+        "iraq-flag-square-badge-128.png",
+        "iraq-flag-square-badge-512.png",
+        "iraq-flag-square-badge-64.png",
+        "iraq-flag-square-badge.svg"
+      ],
+      "ir": [
+        "iran-flag-square-badge-128.png",
+        "iran-flag-square-badge-512.png",
+        "iran-flag-square-badge-64.png",
+        "iran-flag-square-badge.svg"
+      ],
+      "is": [
+        "iceland-flag-square-badge-128.png",
+        "iceland-flag-square-badge-512.png",
+        "iceland-flag-square-badge-64.png",
+        "iceland-flag-square-badge.svg"
+      ],
+      "it": [
+        "italy-flag-square-badge-128.png",
+        "italy-flag-square-badge-512.png",
+        "italy-flag-square-badge-64.png",
+        "italy-flag-square-badge.svg"
+      ],
+      "jm": [
+        "jamaica-flag-square-badge-128.png",
+        "jamaica-flag-square-badge-512.png",
+        "jamaica-flag-square-badge-64.png",
+        "jamaica-flag-square-badge.svg"
+      ],
+      "jo": [
+        "jordan-flag-square-badge-128.png",
+        "jordan-flag-square-badge-512.png",
+        "jordan-flag-square-badge-64.png",
+        "jordan-flag-square-badge.svg"
+      ],
+      "jp": [
+        "japan-flag-square-badge-128.png",
+        "japan-flag-square-badge-512.png",
+        "japan-flag-square-badge-64.png",
+        "japan-flag-square-badge.svg"
+      ],
+      "ke": [
+        "kenya-flag-square-badge-128.png",
+        "kenya-flag-square-badge-512.png",
+        "kenya-flag-square-badge-64.png",
+        "kenya-flag-square-badge.svg"
+      ],
+      "kg": [
+        "kyrgyzstan-flag-square-badge-128.png",
+        "kyrgyzstan-flag-square-badge-512.png",
+        "kyrgyzstan-flag-square-badge-64.png",
+        "kyrgyzstan-flag-square-badge.svg"
+      ],
+      "kh": [
+        "cambodia-flag-square-badge-128.png",
+        "cambodia-flag-square-badge-512.png",
+        "cambodia-flag-square-badge-64.png",
+        "cambodia-flag-square-badge.svg"
+      ],
+      "ki": [
+        "kiribati-flag-square-badge-128.png",
+        "kiribati-flag-square-badge-512.png",
+        "kiribati-flag-square-badge-64.png",
+        "kiribati-flag-square-badge.svg"
+      ],
+      "km": [
+        "comoros-flag-square-badge-128.png",
+        "comoros-flag-square-badge-512.png",
+        "comoros-flag-square-badge-64.png",
+        "comoros-flag-square-badge.svg"
+      ],
+      "kn": [
+        "saint-kitts-and-nevis-flag-square-badge-128.png",
+        "saint-kitts-and-nevis-flag-square-badge-512.png",
+        "saint-kitts-and-nevis-flag-square-badge-64.png",
+        "saint-kitts-and-nevis-flag-square-badge.svg"
+      ],
+      "kp": [
+        "north-korea-flag-square-badge-128.png",
+        "north-korea-flag-square-badge-512.png",
+        "north-korea-flag-square-badge-64.png",
+        "north-korea-flag-square-badge.svg"
+      ],
+      "kr": [
+        "south-korea-flag-square-badge-128.png",
+        "south-korea-flag-square-badge-512.png",
+        "south-korea-flag-square-badge-64.png",
+        "south-korea-flag-square-badge.svg"
+      ],
+      "kw": [
+        "kuwait-flag-square-badge-128.png",
+        "kuwait-flag-square-badge-512.png",
+        "kuwait-flag-square-badge-64.png",
+        "kuwait-flag-square-badge.svg"
+      ],
+      "kz": [
+        "kazakhstan-flag-square-badge-128.png",
+        "kazakhstan-flag-square-badge-512.png",
+        "kazakhstan-flag-square-badge-64.png",
+        "kazakhstan-flag-square-badge.svg"
+      ],
+      "la": [
+        "laos-flag-square-badge-128.png",
+        "laos-flag-square-badge-512.png",
+        "laos-flag-square-badge-64.png",
+        "laos-flag-square-badge.svg"
+      ],
+      "lb": [
+        "lebanon-flag-square-badge-128.png",
+        "lebanon-flag-square-badge-512.png",
+        "lebanon-flag-square-badge-64.png",
+        "lebanon-flag-square-badge.svg"
+      ],
+      "lc": [
+        "saint-lucia-flag-square-badge-128.png",
+        "saint-lucia-flag-square-badge-512.png",
+        "saint-lucia-flag-square-badge-64.png",
+        "saint-lucia-flag-square-badge.svg"
+      ],
+      "li": [
+        "liechtenstein-flag-square-badge-128.png",
+        "liechtenstein-flag-square-badge-512.png",
+        "liechtenstein-flag-square-badge-64.png",
+        "liechtenstein-flag-square-badge.svg"
+      ],
+      "lk": [
+        "sri-lanka-flag-square-badge-128.png",
+        "sri-lanka-flag-square-badge-512.png",
+        "sri-lanka-flag-square-badge-64.png",
+        "sri-lanka-flag-square-badge.svg"
+      ],
+      "lr": [
+        "liberia-flag-square-badge-128.png",
+        "liberia-flag-square-badge-512.png",
+        "liberia-flag-square-badge-64.png",
+        "liberia-flag-square-badge.svg"
+      ],
+      "ls": [
+        "lesotho-flag-square-badge-128.png",
+        "lesotho-flag-square-badge-512.png",
+        "lesotho-flag-square-badge-64.png",
+        "lesotho-flag-square-badge.svg"
+      ],
+      "lt": [
+        "lithuania-flag-square-badge-128.png",
+        "lithuania-flag-square-badge-512.png",
+        "lithuania-flag-square-badge-64.png",
+        "lithuania-flag-square-badge.svg"
+      ],
+      "lu": [
+        "luxembourg-flag-square-badge-128.png",
+        "luxembourg-flag-square-badge-512.png",
+        "luxembourg-flag-square-badge-64.png",
+        "luxembourg-flag-square-badge.svg"
+      ],
+      "lv": [
+        "latvia-flag-square-badge-128.png",
+        "latvia-flag-square-badge-512.png",
+        "latvia-flag-square-badge-64.png",
+        "latvia-flag-square-badge.svg"
+      ],
+      "ly": [
+        "libya-flag-square-badge-128.png",
+        "libya-flag-square-badge-512.png",
+        "libya-flag-square-badge-64.png",
+        "libya-flag-square-badge.svg"
+      ],
+      "ma": [
+        "morocco-flag-square-badge-128.png",
+        "morocco-flag-square-badge-512.png",
+        "morocco-flag-square-badge-64.png",
+        "morocco-flag-square-badge.svg"
+      ],
+      "mc": [
+        "monaco-flag-square-badge-128.png",
+        "monaco-flag-square-badge-512.png",
+        "monaco-flag-square-badge-64.png",
+        "monaco-flag-square-badge.svg"
+      ],
+      "md": [
+        "moldova-flag-square-badge-128.png",
+        "moldova-flag-square-badge-512.png",
+        "moldova-flag-square-badge-64.png",
+        "moldova-flag-square-badge.svg"
+      ],
+      "me": [
+        "montenegro-flag-square-badge-128.png",
+        "montenegro-flag-square-badge-512.png",
+        "montenegro-flag-square-badge-64.png",
+        "montenegro-flag-square-badge.svg"
+      ],
+      "mg": [
+        "madagascar-flag-square-badge-128.png",
+        "madagascar-flag-square-badge-512.png",
+        "madagascar-flag-square-badge-64.png",
+        "madagascar-flag-square-badge.svg"
+      ],
+      "mh": [
+        "marshall-islands-flag-square-badge-128.png",
+        "marshall-islands-flag-square-badge-512.png",
+        "marshall-islands-flag-square-badge-64.png",
+        "marshall-islands-flag-square-badge.svg"
+      ],
+      "mk": [
+        "north-macedonia-flag-square-badge-128.png",
+        "north-macedonia-flag-square-badge-512.png",
+        "north-macedonia-flag-square-badge-64.png",
+        "north-macedonia-flag-square-badge.svg"
+      ],
+      "ml": [
+        "mali-flag-square-badge-128.png",
+        "mali-flag-square-badge-512.png",
+        "mali-flag-square-badge-64.png",
+        "mali-flag-square-badge.svg"
+      ],
+      "mm": [
+        "myanmar-flag-square-badge-128.png",
+        "myanmar-flag-square-badge-512.png",
+        "myanmar-flag-square-badge-64.png",
+        "myanmar-flag-square-badge.svg"
+      ],
+      "mn": [
+        "mongolia-flag-square-badge-128.png",
+        "mongolia-flag-square-badge-512.png",
+        "mongolia-flag-square-badge-64.png",
+        "mongolia-flag-square-badge.svg"
+      ],
+      "mr": [
+        "mauritania-flag-square-badge-128.png",
+        "mauritania-flag-square-badge-512.png",
+        "mauritania-flag-square-badge-64.png",
+        "mauritania-flag-square-badge.svg"
+      ],
+      "mt": [
+        "malta-flag-square-badge-128.png",
+        "malta-flag-square-badge-512.png",
+        "malta-flag-square-badge-64.png",
+        "malta-flag-square-badge.svg"
+      ],
+      "mu": [
+        "mauritius-flag-square-badge-128.png",
+        "mauritius-flag-square-badge-512.png",
+        "mauritius-flag-square-badge-64.png",
+        "mauritius-flag-square-badge.svg"
+      ],
+      "mv": [
+        "maldives-flag-square-badge-128.png",
+        "maldives-flag-square-badge-512.png",
+        "maldives-flag-square-badge-64.png",
+        "maldives-flag-square-badge.svg"
+      ],
+      "mw": [
+        "malawi-flag-square-badge-128.png",
+        "malawi-flag-square-badge-512.png",
+        "malawi-flag-square-badge-64.png",
+        "malawi-flag-square-badge.svg"
+      ],
+      "mx": [
+        "mexico-flag-square-badge-128.png",
+        "mexico-flag-square-badge-512.png",
+        "mexico-flag-square-badge-64.png",
+        "mexico-flag-square-badge.svg"
+      ],
+      "my": [
+        "malaysia-flag-square-badge-128.png",
+        "malaysia-flag-square-badge-512.png",
+        "malaysia-flag-square-badge-64.png",
+        "malaysia-flag-square-badge.svg"
+      ],
+      "mz": [
+        "mozambique-flag-square-badge-128.png",
+        "mozambique-flag-square-badge-512.png",
+        "mozambique-flag-square-badge-64.png",
+        "mozambique-flag-square-badge.svg"
+      ],
+      "na": [
+        "namibia-flag-square-badge-128.png",
+        "namibia-flag-square-badge-512.png",
+        "namibia-flag-square-badge-64.png",
+        "namibia-flag-square-badge.svg"
+      ],
+      "ne": [
+        "niger-flag-square-badge-128.png",
+        "niger-flag-square-badge-512.png",
+        "niger-flag-square-badge-64.png",
+        "niger-flag-square-badge.svg"
+      ],
+      "ng": [
+        "nigeria-flag-square-badge-128.png",
+        "nigeria-flag-square-badge-512.png",
+        "nigeria-flag-square-badge-64.png",
+        "nigeria-flag-square-badge.svg"
+      ],
+      "ni": [
+        "nicaragua-flag-square-badge-128.png",
+        "nicaragua-flag-square-badge-512.png",
+        "nicaragua-flag-square-badge-64.png",
+        "nicaragua-flag-square-badge.svg"
+      ],
+      "nl": [
+        "netherlands-flag-square-badge-128.png",
+        "netherlands-flag-square-badge-512.png",
+        "netherlands-flag-square-badge-64.png",
+        "netherlands-flag-square-badge.svg"
+      ],
+      "no": [
+        "norway-flag-square-badge-128.png",
+        "norway-flag-square-badge-512.png",
+        "norway-flag-square-badge-64.png",
+        "norway-flag-square-badge.svg"
+      ],
+      "np": [
+        "nepal-flag-square-badge-128.png",
+        "nepal-flag-square-badge-512.png",
+        "nepal-flag-square-badge-64.png",
+        "nepal-flag-square-badge.svg"
+      ],
+      "nr": [
+        "nauru-flag-square-badge-128.png",
+        "nauru-flag-square-badge-512.png",
+        "nauru-flag-square-badge-64.png",
+        "nauru-flag-square-badge.svg"
+      ],
+      "nz": [
+        "new-zealand-flag-square-badge-128.png",
+        "new-zealand-flag-square-badge-512.png",
+        "new-zealand-flag-square-badge-64.png",
+        "new-zealand-flag-square-badge.svg"
+      ],
+      "om": [
+        "oman-flag-square-badge-128.png",
+        "oman-flag-square-badge-512.png",
+        "oman-flag-square-badge-64.png",
+        "oman-flag-square-badge.svg"
+      ],
+      "pa": [
+        "panama-flag-square-badge-128.png",
+        "panama-flag-square-badge-512.png",
+        "panama-flag-square-badge-64.png",
+        "panama-flag-square-badge.svg"
+      ],
+      "pe": [
+        "peru-flag-square-badge-128.png",
+        "peru-flag-square-badge-512.png",
+        "peru-flag-square-badge-64.png",
+        "peru-flag-square-badge.svg"
+      ],
+      "pg": [
+        "papua-new-guinea-flag-square-badge-128.png",
+        "papua-new-guinea-flag-square-badge-512.png",
+        "papua-new-guinea-flag-square-badge-64.png",
+        "papua-new-guinea-flag-square-badge.svg"
+      ],
+      "ph": [
+        "philippines-flag-square-badge-128.png",
+        "philippines-flag-square-badge-512.png",
+        "philippines-flag-square-badge-64.png",
+        "philippines-flag-square-badge.svg"
+      ],
+      "pk": [
+        "pakistan-flag-square-badge-128.png",
+        "pakistan-flag-square-badge-512.png",
+        "pakistan-flag-square-badge-64.png",
+        "pakistan-flag-square-badge.svg"
+      ],
+      "pl": [
+        "poland-flag-square-badge-128.png",
+        "poland-flag-square-badge-512.png",
+        "poland-flag-square-badge-64.png",
+        "poland-flag-square-badge.svg"
+      ],
+      "pt": [
+        "portugal-flag-square-badge-128.png",
+        "portugal-flag-square-badge-512.png",
+        "portugal-flag-square-badge-64.png",
+        "portugal-flag-square-badge.svg"
+      ],
+      "pw": [
+        "palau-flag-square-badge-128.png",
+        "palau-flag-square-badge-512.png",
+        "palau-flag-square-badge-64.png",
+        "palau-flag-square-badge.svg"
+      ],
+      "py": [
+        "paraguay-flag-square-badge-128.png",
+        "paraguay-flag-square-badge-512.png",
+        "paraguay-flag-square-badge-64.png",
+        "paraguay-flag-square-badge.svg"
+      ],
+      "qa": [
+        "qatar-flag-square-badge-128.png",
+        "qatar-flag-square-badge-512.png",
+        "qatar-flag-square-badge-64.png",
+        "qatar-flag-square-badge.svg"
+      ],
+      "ro": [
+        "romania-flag-square-badge-128.png",
+        "romania-flag-square-badge-512.png",
+        "romania-flag-square-badge-64.png",
+        "romania-flag-square-badge.svg"
+      ],
+      "rs": [
+        "serbia-flag-square-badge-128.png",
+        "serbia-flag-square-badge-512.png",
+        "serbia-flag-square-badge-64.png",
+        "serbia-flag-square-badge.svg"
+      ],
+      "ru": [
+        "russia-flag-square-badge-128.png",
+        "russia-flag-square-badge-512.png",
+        "russia-flag-square-badge-64.png",
+        "russia-flag-square-badge.svg"
+      ],
+      "rw": [
+        "rwanda-flag-square-badge-128.png",
+        "rwanda-flag-square-badge-512.png",
+        "rwanda-flag-square-badge-64.png",
+        "rwanda-flag-square-badge.svg"
+      ],
+      "sa": [
+        "saudi-arabia-flag-square-badge-128.png",
+        "saudi-arabia-flag-square-badge-512.png",
+        "saudi-arabia-flag-square-badge-64.png",
+        "saudi-arabia-flag-square-badge.svg"
+      ],
+      "sb": [
+        "solomon-islands-flag-square-badge-128.png",
+        "solomon-islands-flag-square-badge-512.png",
+        "solomon-islands-flag-square-badge-64.png",
+        "solomon-islands-flag-square-badge.svg"
+      ],
+      "sc": [
+        "seychelles-flag-square-badge-128.png",
+        "seychelles-flag-square-badge-512.png",
+        "seychelles-flag-square-badge-64.png",
+        "seychelles-flag-square-badge.svg"
+      ],
+      "sd": [
+        "sudan-flag-square-badge-128.png",
+        "sudan-flag-square-badge-512.png",
+        "sudan-flag-square-badge-64.png",
+        "sudan-flag-square-badge.svg"
+      ],
+      "se": [
+        "sweden-flag-square-badge-128.png",
+        "sweden-flag-square-badge-512.png",
+        "sweden-flag-square-badge-64.png",
+        "sweden-flag-square-badge.svg"
+      ],
+      "sg": [
+        "singapore-flag-square-badge-128.png",
+        "singapore-flag-square-badge-512.png",
+        "singapore-flag-square-badge-64.png",
+        "singapore-flag-square-badge.svg"
+      ],
+      "si": [
+        "slovenia-flag-square-badge-128.png",
+        "slovenia-flag-square-badge-512.png",
+        "slovenia-flag-square-badge-64.png",
+        "slovenia-flag-square-badge.svg"
+      ],
+      "sk": [
+        "slovakia-flag-square-badge-128.png",
+        "slovakia-flag-square-badge-512.png",
+        "slovakia-flag-square-badge-64.png",
+        "slovakia-flag-square-badge.svg"
+      ],
+      "sl": [
+        "sierra-leone-flag-square-badge-128.png",
+        "sierra-leone-flag-square-badge-512.png",
+        "sierra-leone-flag-square-badge-64.png",
+        "sierra-leone-flag-square-badge.svg"
+      ],
+      "sm": [
+        "san-marino-flag-square-badge-128.png",
+        "san-marino-flag-square-badge-512.png",
+        "san-marino-flag-square-badge-64.png",
+        "san-marino-flag-square-badge.svg"
+      ],
+      "sn": [
+        "senegal-flag-square-badge-128.png",
+        "senegal-flag-square-badge-512.png",
+        "senegal-flag-square-badge-64.png",
+        "senegal-flag-square-badge.svg"
+      ],
+      "so": [
+        "somalia-flag-square-badge-128.png",
+        "somalia-flag-square-badge-512.png",
+        "somalia-flag-square-badge-64.png",
+        "somalia-flag-square-badge.svg"
+      ],
+      "sr": [
+        "suriname-flag-square-badge-128.png",
+        "suriname-flag-square-badge-512.png",
+        "suriname-flag-square-badge-64.png",
+        "suriname-flag-square-badge.svg"
+      ],
+      "ss": [
+        "south-sudan-flag-square-badge-128.png",
+        "south-sudan-flag-square-badge-512.png",
+        "south-sudan-flag-square-badge-64.png",
+        "south-sudan-flag-square-badge.svg"
+      ],
+      "st": [
+        "s-o-tom-and-pr-ncipe-flag-square-badge-128.png",
+        "s-o-tom-and-pr-ncipe-flag-square-badge-512.png",
+        "s-o-tom-and-pr-ncipe-flag-square-badge-64.png",
+        "s-o-tom-and-pr-ncipe-flag-square-badge.svg"
+      ],
+      "sv": [
+        "el-salvador-flag-square-badge-128.png",
+        "el-salvador-flag-square-badge-512.png",
+        "el-salvador-flag-square-badge-64.png",
+        "el-salvador-flag-square-badge.svg"
+      ],
+      "sy": [
+        "syria-flag-square-badge-128.png",
+        "syria-flag-square-badge-512.png",
+        "syria-flag-square-badge-64.png",
+        "syria-flag-square-badge.svg"
+      ],
+      "sz": [
+        "eswatini-flag-square-badge-128.png",
+        "eswatini-flag-square-badge-512.png",
+        "eswatini-flag-square-badge-64.png",
+        "eswatini-flag-square-badge.svg"
+      ],
+      "td": [
+        "chad-flag-square-badge-128.png",
+        "chad-flag-square-badge-512.png",
+        "chad-flag-square-badge-64.png",
+        "chad-flag-square-badge.svg"
+      ],
+      "tg": [
+        "togo-flag-square-badge-128.png",
+        "togo-flag-square-badge-512.png",
+        "togo-flag-square-badge-64.png",
+        "togo-flag-square-badge.svg"
+      ],
+      "th": [
+        "thailand-flag-square-badge-128.png",
+        "thailand-flag-square-badge-512.png",
+        "thailand-flag-square-badge-64.png",
+        "thailand-flag-square-badge.svg"
+      ],
+      "tj": [
+        "tajikistan-flag-square-badge-128.png",
+        "tajikistan-flag-square-badge-512.png",
+        "tajikistan-flag-square-badge-64.png",
+        "tajikistan-flag-square-badge.svg"
+      ],
+      "tl": [
+        "timor-leste-flag-square-badge-128.png",
+        "timor-leste-flag-square-badge-512.png",
+        "timor-leste-flag-square-badge-64.png",
+        "timor-leste-flag-square-badge.svg"
+      ],
+      "tm": [
+        "turkmenistan-flag-square-badge-128.png",
+        "turkmenistan-flag-square-badge-512.png",
+        "turkmenistan-flag-square-badge-64.png",
+        "turkmenistan-flag-square-badge.svg"
+      ],
+      "tn": [
+        "tunisia-flag-square-badge-128.png",
+        "tunisia-flag-square-badge-512.png",
+        "tunisia-flag-square-badge-64.png",
+        "tunisia-flag-square-badge.svg"
+      ],
+      "to": [
+        "tonga-flag-square-badge-128.png",
+        "tonga-flag-square-badge-512.png",
+        "tonga-flag-square-badge-64.png",
+        "tonga-flag-square-badge.svg"
+      ],
+      "tr": [
+        "turkey-flag-square-badge-128.png",
+        "turkey-flag-square-badge-512.png",
+        "turkey-flag-square-badge-64.png",
+        "turkey-flag-square-badge.svg"
+      ],
+      "tt": [
+        "trinidad-and-tobago-flag-square-badge-128.png",
+        "trinidad-and-tobago-flag-square-badge-512.png",
+        "trinidad-and-tobago-flag-square-badge-64.png",
+        "trinidad-and-tobago-flag-square-badge.svg"
+      ],
+      "tv": [
+        "tuvalu-flag-square-badge-128.png",
+        "tuvalu-flag-square-badge-512.png",
+        "tuvalu-flag-square-badge-64.png",
+        "tuvalu-flag-square-badge.svg"
+      ],
+      "tz": [
+        "tanzania-flag-square-badge-128.png",
+        "tanzania-flag-square-badge-512.png",
+        "tanzania-flag-square-badge-64.png",
+        "tanzania-flag-square-badge.svg"
+      ],
+      "ua": [
+        "ukraine-flag-square-badge-128.png",
+        "ukraine-flag-square-badge-512.png",
+        "ukraine-flag-square-badge-64.png",
+        "ukraine-flag-square-badge.svg"
+      ],
+      "ug": [
+        "uganda-flag-square-badge-128.png",
+        "uganda-flag-square-badge-512.png",
+        "uganda-flag-square-badge-64.png",
+        "uganda-flag-square-badge.svg"
+      ],
+      "us": [
+        "united-states-flag-square-badge-128.png",
+        "united-states-flag-square-badge-512.png",
+        "united-states-flag-square-badge-64.png",
+        "united-states-flag-square-badge.svg"
+      ],
+      "uy": [
+        "uruguay-flag-square-badge-128.png",
+        "uruguay-flag-square-badge-512.png",
+        "uruguay-flag-square-badge-64.png",
+        "uruguay-flag-square-badge.svg"
+      ],
+      "uz": [
+        "uzbekistan-flag-square-badge-128.png",
+        "uzbekistan-flag-square-badge-512.png",
+        "uzbekistan-flag-square-badge-64.png",
+        "uzbekistan-flag-square-badge.svg"
+      ],
+      "va": [
+        "vatican-city-flag-square-badge-128.png",
+        "vatican-city-flag-square-badge-512.png",
+        "vatican-city-flag-square-badge-64.png",
+        "vatican-city-flag-square-badge.svg"
+      ],
+      "vc": [
+        "saint-vincent-and-the-grenadines-flag-square-badge-128.png",
+        "saint-vincent-and-the-grenadines-flag-square-badge-512.png",
+        "saint-vincent-and-the-grenadines-flag-square-badge-64.png",
+        "saint-vincent-and-the-grenadines-flag-square-badge.svg"
+      ],
+      "ve": [
+        "venezuela-flag-square-badge-128.png",
+        "venezuela-flag-square-badge-512.png",
+        "venezuela-flag-square-badge-64.png",
+        "venezuela-flag-square-badge.svg"
+      ],
+      "vn": [
+        "vietnam-flag-square-badge-128.png",
+        "vietnam-flag-square-badge-512.png",
+        "vietnam-flag-square-badge-64.png",
+        "vietnam-flag-square-badge.svg"
+      ],
+      "vu": [
+        "vanuatu-flag-square-badge-128.png",
+        "vanuatu-flag-square-badge-512.png",
+        "vanuatu-flag-square-badge-64.png",
+        "vanuatu-flag-square-badge.svg"
+      ],
+      "ws": [
+        "samoa-flag-square-badge-128.png",
+        "samoa-flag-square-badge-512.png",
+        "samoa-flag-square-badge-64.png",
+        "samoa-flag-square-badge.svg"
+      ],
+      "xk": [
+        "kosovo-flag-square-badge-128.png",
+        "kosovo-flag-square-badge-512.png",
+        "kosovo-flag-square-badge-64.png",
+        "kosovo-flag-square-badge.svg"
+      ],
+      "ye": [
+        "yemen-flag-square-badge-128.png",
+        "yemen-flag-square-badge-512.png",
+        "yemen-flag-square-badge-64.png",
+        "yemen-flag-square-badge.svg"
+      ],
+      "za": [
+        "south-africa-flag-square-badge-128.png",
+        "south-africa-flag-square-badge-512.png",
+        "south-africa-flag-square-badge-64.png",
+        "south-africa-flag-square-badge.svg"
+      ],
+      "zm": [
+        "zambia-flag-square-badge-128.png",
+        "zambia-flag-square-badge-512.png",
+        "zambia-flag-square-badge-64.png",
+        "zambia-flag-square-badge.svg"
+      ],
+      "zw": [
+        "zimbabwe-flag-square-badge-128.png",
+        "zimbabwe-flag-square-badge-512.png",
+        "zimbabwe-flag-square-badge-64.png",
+        "zimbabwe-flag-square-badge.svg"
+      ]
+    },
+    "square-shadow": {
+      "ad": [
+        "andorra-flag-square-shadow-128.png",
+        "andorra-flag-square-shadow-512.png",
+        "andorra-flag-square-shadow-64.png",
+        "andorra-flag-square-shadow.svg"
+      ],
+      "ae": [
+        "united-arab-emirates-flag-square-shadow-128.png",
+        "united-arab-emirates-flag-square-shadow-512.png",
+        "united-arab-emirates-flag-square-shadow-64.png",
+        "united-arab-emirates-flag-square-shadow.svg"
+      ],
+      "af": [
+        "afghanistan-flag-square-shadow-128.png",
+        "afghanistan-flag-square-shadow-512.png",
+        "afghanistan-flag-square-shadow-64.png",
+        "afghanistan-flag-square-shadow.svg"
+      ],
+      "ag": [
+        "antigua-and-barbuda-flag-square-shadow-128.png",
+        "antigua-and-barbuda-flag-square-shadow-512.png",
+        "antigua-and-barbuda-flag-square-shadow-64.png",
+        "antigua-and-barbuda-flag-square-shadow.svg"
+      ],
+      "al": [
+        "albania-flag-square-shadow-128.png",
+        "albania-flag-square-shadow-512.png",
+        "albania-flag-square-shadow-64.png",
+        "albania-flag-square-shadow.svg"
+      ],
+      "am": [
+        "armenia-flag-square-shadow-128.png",
+        "armenia-flag-square-shadow-512.png",
+        "armenia-flag-square-shadow-64.png",
+        "armenia-flag-square-shadow.svg"
+      ],
+      "ao": [
+        "angola-flag-square-shadow-128.png",
+        "angola-flag-square-shadow-512.png",
+        "angola-flag-square-shadow-64.png",
+        "angola-flag-square-shadow.svg"
+      ],
+      "ar": [
+        "argentina-flag-square-shadow-128.png",
+        "argentina-flag-square-shadow-512.png",
+        "argentina-flag-square-shadow-64.png",
+        "argentina-flag-square-shadow.svg"
+      ],
+      "at": [
+        "austria-flag-square-shadow-128.png",
+        "austria-flag-square-shadow-512.png",
+        "austria-flag-square-shadow-64.png",
+        "austria-flag-square-shadow.svg"
+      ],
+      "au": [
+        "australia-flag-square-shadow-128.png",
+        "australia-flag-square-shadow-512.png",
+        "australia-flag-square-shadow-64.png",
+        "australia-flag-square-shadow.svg"
+      ],
+      "az": [
+        "azerbaijan-flag-square-shadow-128.png",
+        "azerbaijan-flag-square-shadow-512.png",
+        "azerbaijan-flag-square-shadow-64.png",
+        "azerbaijan-flag-square-shadow.svg"
+      ],
+      "ba": [
+        "bosnia-and-herzegovina-flag-square-shadow-128.png",
+        "bosnia-and-herzegovina-flag-square-shadow-512.png",
+        "bosnia-and-herzegovina-flag-square-shadow-64.png",
+        "bosnia-and-herzegovina-flag-square-shadow.svg"
+      ],
+      "bb": [
+        "barbados-flag-square-shadow-128.png",
+        "barbados-flag-square-shadow-512.png",
+        "barbados-flag-square-shadow-64.png",
+        "barbados-flag-square-shadow.svg"
+      ],
+      "bd": [
+        "bangladesh-flag-square-shadow-128.png",
+        "bangladesh-flag-square-shadow-512.png",
+        "bangladesh-flag-square-shadow-64.png",
+        "bangladesh-flag-square-shadow.svg"
+      ],
+      "be": [
+        "belgium-flag-square-shadow-128.png",
+        "belgium-flag-square-shadow-512.png",
+        "belgium-flag-square-shadow-64.png",
+        "belgium-flag-square-shadow.svg"
+      ],
+      "bf": [
+        "burkina-faso-flag-square-shadow-128.png",
+        "burkina-faso-flag-square-shadow-512.png",
+        "burkina-faso-flag-square-shadow-64.png",
+        "burkina-faso-flag-square-shadow.svg"
+      ],
+      "bg": [
+        "bulgaria-flag-square-shadow-128.png",
+        "bulgaria-flag-square-shadow-512.png",
+        "bulgaria-flag-square-shadow-64.png",
+        "bulgaria-flag-square-shadow.svg"
+      ],
+      "bh": [
+        "bahrain-flag-square-shadow-128.png",
+        "bahrain-flag-square-shadow-512.png",
+        "bahrain-flag-square-shadow-64.png",
+        "bahrain-flag-square-shadow.svg"
+      ],
+      "bi": [
+        "burundi-flag-square-shadow-128.png",
+        "burundi-flag-square-shadow-512.png",
+        "burundi-flag-square-shadow-64.png",
+        "burundi-flag-square-shadow.svg"
+      ],
+      "bj": [
+        "benin-flag-square-shadow-128.png",
+        "benin-flag-square-shadow-512.png",
+        "benin-flag-square-shadow-64.png",
+        "benin-flag-square-shadow.svg"
+      ],
+      "bn": [
+        "brunei-flag-square-shadow-128.png",
+        "brunei-flag-square-shadow-512.png",
+        "brunei-flag-square-shadow-64.png",
+        "brunei-flag-square-shadow.svg"
+      ],
+      "bo": [
+        "bolivia-flag-square-shadow-128.png",
+        "bolivia-flag-square-shadow-512.png",
+        "bolivia-flag-square-shadow-64.png",
+        "bolivia-flag-square-shadow.svg"
+      ],
+      "br": [
+        "brazil-flag-square-shadow-128.png",
+        "brazil-flag-square-shadow-512.png",
+        "brazil-flag-square-shadow-64.png",
+        "brazil-flag-square-shadow.svg"
+      ],
+      "bs": [
+        "bahamas-flag-square-shadow-128.png",
+        "bahamas-flag-square-shadow-512.png",
+        "bahamas-flag-square-shadow-64.png",
+        "bahamas-flag-square-shadow.svg"
+      ],
+      "bt": [
+        "bhutan-flag-square-shadow-128.png",
+        "bhutan-flag-square-shadow-512.png",
+        "bhutan-flag-square-shadow-64.png",
+        "bhutan-flag-square-shadow.svg"
+      ],
+      "bw": [
+        "botswana-flag-square-shadow-128.png",
+        "botswana-flag-square-shadow-512.png",
+        "botswana-flag-square-shadow-64.png",
+        "botswana-flag-square-shadow.svg"
+      ],
+      "by": [
+        "belarus-flag-square-shadow-128.png",
+        "belarus-flag-square-shadow-512.png",
+        "belarus-flag-square-shadow-64.png",
+        "belarus-flag-square-shadow.svg"
+      ],
+      "bz": [
+        "belize-flag-square-shadow-128.png",
+        "belize-flag-square-shadow-512.png",
+        "belize-flag-square-shadow-64.png",
+        "belize-flag-square-shadow.svg"
+      ],
+      "ca": [
+        "canada-flag-square-shadow-128.png",
+        "canada-flag-square-shadow-512.png",
+        "canada-flag-square-shadow-64.png",
+        "canada-flag-square-shadow.svg"
+      ],
+      "cd": [
+        "dr-congo-flag-square-shadow-128.png",
+        "dr-congo-flag-square-shadow-512.png",
+        "dr-congo-flag-square-shadow-64.png",
+        "dr-congo-flag-square-shadow.svg"
+      ],
+      "cf": [
+        "central-african-republic-flag-square-shadow-128.png",
+        "central-african-republic-flag-square-shadow-512.png",
+        "central-african-republic-flag-square-shadow-64.png",
+        "central-african-republic-flag-square-shadow.svg"
+      ],
+      "cg": [
+        "republic-of-the-congo-flag-square-shadow-128.png",
+        "republic-of-the-congo-flag-square-shadow-512.png",
+        "republic-of-the-congo-flag-square-shadow-64.png",
+        "republic-of-the-congo-flag-square-shadow.svg"
+      ],
+      "ch": [
+        "switzerland-flag-square-shadow-128.png",
+        "switzerland-flag-square-shadow-512.png",
+        "switzerland-flag-square-shadow-64.png",
+        "switzerland-flag-square-shadow.svg"
+      ],
+      "ci": [
+        "ivory-coast-flag-square-shadow-128.png",
+        "ivory-coast-flag-square-shadow-512.png",
+        "ivory-coast-flag-square-shadow-64.png",
+        "ivory-coast-flag-square-shadow.svg"
+      ],
+      "cl": [
+        "chile-flag-square-shadow-128.png",
+        "chile-flag-square-shadow-512.png",
+        "chile-flag-square-shadow-64.png",
+        "chile-flag-square-shadow.svg"
+      ],
+      "cm": [
+        "cameroon-flag-square-shadow-128.png",
+        "cameroon-flag-square-shadow-512.png",
+        "cameroon-flag-square-shadow-64.png",
+        "cameroon-flag-square-shadow.svg"
+      ],
+      "cn": [
+        "china-flag-square-shadow-128.png",
+        "china-flag-square-shadow-512.png",
+        "china-flag-square-shadow-64.png",
+        "china-flag-square-shadow.svg"
+      ],
+      "co": [
+        "colombia-flag-square-shadow-128.png",
+        "colombia-flag-square-shadow-512.png",
+        "colombia-flag-square-shadow-64.png",
+        "colombia-flag-square-shadow.svg"
+      ],
+      "cr": [
+        "costa-rica-flag-square-shadow-128.png",
+        "costa-rica-flag-square-shadow-512.png",
+        "costa-rica-flag-square-shadow-64.png",
+        "costa-rica-flag-square-shadow.svg"
+      ],
+      "cu": [
+        "cuba-flag-square-shadow-128.png",
+        "cuba-flag-square-shadow-512.png",
+        "cuba-flag-square-shadow-64.png",
+        "cuba-flag-square-shadow.svg"
+      ],
+      "cv": [
+        "cape-verde-flag-square-shadow-128.png",
+        "cape-verde-flag-square-shadow-512.png",
+        "cape-verde-flag-square-shadow-64.png",
+        "cape-verde-flag-square-shadow.svg"
+      ],
+      "cy": [
+        "cyprus-flag-square-shadow-128.png",
+        "cyprus-flag-square-shadow-512.png",
+        "cyprus-flag-square-shadow-64.png",
+        "cyprus-flag-square-shadow.svg"
+      ],
+      "cz": [
+        "czechia-flag-square-shadow-128.png",
+        "czechia-flag-square-shadow-512.png",
+        "czechia-flag-square-shadow-64.png",
+        "czechia-flag-square-shadow.svg"
+      ],
+      "de": [
+        "germany-flag-square-shadow-128.png",
+        "germany-flag-square-shadow-512.png",
+        "germany-flag-square-shadow-64.png",
+        "germany-flag-square-shadow.svg"
+      ],
+      "dj": [
+        "djibouti-flag-square-shadow-128.png",
+        "djibouti-flag-square-shadow-512.png",
+        "djibouti-flag-square-shadow-64.png",
+        "djibouti-flag-square-shadow.svg"
+      ],
+      "dk": [
+        "denmark-flag-square-shadow-128.png",
+        "denmark-flag-square-shadow-512.png",
+        "denmark-flag-square-shadow-64.png",
+        "denmark-flag-square-shadow.svg"
+      ],
+      "dm": [
+        "dominica-flag-square-shadow-128.png",
+        "dominica-flag-square-shadow-512.png",
+        "dominica-flag-square-shadow-64.png",
+        "dominica-flag-square-shadow.svg"
+      ],
+      "do": [
+        "dominican-republic-flag-square-shadow-128.png",
+        "dominican-republic-flag-square-shadow-512.png",
+        "dominican-republic-flag-square-shadow-64.png",
+        "dominican-republic-flag-square-shadow.svg"
+      ],
+      "dz": [
+        "algeria-flag-square-shadow-128.png",
+        "algeria-flag-square-shadow-512.png",
+        "algeria-flag-square-shadow-64.png",
+        "algeria-flag-square-shadow.svg"
+      ],
+      "ec": [
+        "ecuador-flag-square-shadow-128.png",
+        "ecuador-flag-square-shadow-512.png",
+        "ecuador-flag-square-shadow-64.png",
+        "ecuador-flag-square-shadow.svg"
+      ],
+      "ee": [
+        "estonia-flag-square-shadow-128.png",
+        "estonia-flag-square-shadow-512.png",
+        "estonia-flag-square-shadow-64.png",
+        "estonia-flag-square-shadow.svg"
+      ],
+      "eg": [
+        "egypt-flag-square-shadow-128.png",
+        "egypt-flag-square-shadow-512.png",
+        "egypt-flag-square-shadow-64.png",
+        "egypt-flag-square-shadow.svg"
+      ],
+      "er": [
+        "eritrea-flag-square-shadow-128.png",
+        "eritrea-flag-square-shadow-512.png",
+        "eritrea-flag-square-shadow-64.png",
+        "eritrea-flag-square-shadow.svg"
+      ],
+      "es": [
+        "spain-flag-square-shadow-128.png",
+        "spain-flag-square-shadow-512.png",
+        "spain-flag-square-shadow-64.png",
+        "spain-flag-square-shadow.svg"
+      ],
+      "et": [
+        "ethiopia-flag-square-shadow-128.png",
+        "ethiopia-flag-square-shadow-512.png",
+        "ethiopia-flag-square-shadow-64.png",
+        "ethiopia-flag-square-shadow.svg"
+      ],
+      "fi": [
+        "finland-flag-square-shadow-128.png",
+        "finland-flag-square-shadow-512.png",
+        "finland-flag-square-shadow-64.png",
+        "finland-flag-square-shadow.svg"
+      ],
+      "fj": [
+        "fiji-flag-square-shadow-128.png",
+        "fiji-flag-square-shadow-512.png",
+        "fiji-flag-square-shadow-64.png",
+        "fiji-flag-square-shadow.svg"
+      ],
+      "fm": [
+        "micronesia-flag-square-shadow-128.png",
+        "micronesia-flag-square-shadow-512.png",
+        "micronesia-flag-square-shadow-64.png",
+        "micronesia-flag-square-shadow.svg"
+      ],
+      "fr": [
+        "france-flag-square-shadow-128.png",
+        "france-flag-square-shadow-512.png",
+        "france-flag-square-shadow-64.png",
+        "france-flag-square-shadow.svg"
+      ],
+      "ga": [
+        "gabon-flag-square-shadow-128.png",
+        "gabon-flag-square-shadow-512.png",
+        "gabon-flag-square-shadow-64.png",
+        "gabon-flag-square-shadow.svg"
+      ],
+      "gb": [
+        "united-kingdom-flag-square-shadow-128.png",
+        "united-kingdom-flag-square-shadow-512.png",
+        "united-kingdom-flag-square-shadow-64.png",
+        "united-kingdom-flag-square-shadow.svg"
+      ],
+      "gd": [
+        "grenada-flag-square-shadow-128.png",
+        "grenada-flag-square-shadow-512.png",
+        "grenada-flag-square-shadow-64.png",
+        "grenada-flag-square-shadow.svg"
+      ],
+      "ge": [
+        "georgia-flag-square-shadow-128.png",
+        "georgia-flag-square-shadow-512.png",
+        "georgia-flag-square-shadow-64.png",
+        "georgia-flag-square-shadow.svg"
+      ],
+      "gh": [
+        "ghana-flag-square-shadow-128.png",
+        "ghana-flag-square-shadow-512.png",
+        "ghana-flag-square-shadow-64.png",
+        "ghana-flag-square-shadow.svg"
+      ],
+      "gm": [
+        "gambia-flag-square-shadow-128.png",
+        "gambia-flag-square-shadow-512.png",
+        "gambia-flag-square-shadow-64.png",
+        "gambia-flag-square-shadow.svg"
+      ],
+      "gn": [
+        "guinea-flag-square-shadow-128.png",
+        "guinea-flag-square-shadow-512.png",
+        "guinea-flag-square-shadow-64.png",
+        "guinea-flag-square-shadow.svg"
+      ],
+      "gq": [
+        "equatorial-guinea-flag-square-shadow-128.png",
+        "equatorial-guinea-flag-square-shadow-512.png",
+        "equatorial-guinea-flag-square-shadow-64.png",
+        "equatorial-guinea-flag-square-shadow.svg"
+      ],
+      "gr": [
+        "greece-flag-square-shadow-128.png",
+        "greece-flag-square-shadow-512.png",
+        "greece-flag-square-shadow-64.png",
+        "greece-flag-square-shadow.svg"
+      ],
+      "gt": [
+        "guatemala-flag-square-shadow-128.png",
+        "guatemala-flag-square-shadow-512.png",
+        "guatemala-flag-square-shadow-64.png",
+        "guatemala-flag-square-shadow.svg"
+      ],
+      "gw": [
+        "guinea-bissau-flag-square-shadow-128.png",
+        "guinea-bissau-flag-square-shadow-512.png",
+        "guinea-bissau-flag-square-shadow-64.png",
+        "guinea-bissau-flag-square-shadow.svg"
+      ],
+      "gy": [
+        "guyana-flag-square-shadow-128.png",
+        "guyana-flag-square-shadow-512.png",
+        "guyana-flag-square-shadow-64.png",
+        "guyana-flag-square-shadow.svg"
+      ],
+      "hn": [
+        "honduras-flag-square-shadow-128.png",
+        "honduras-flag-square-shadow-512.png",
+        "honduras-flag-square-shadow-64.png",
+        "honduras-flag-square-shadow.svg"
+      ],
+      "hr": [
+        "croatia-flag-square-shadow-128.png",
+        "croatia-flag-square-shadow-512.png",
+        "croatia-flag-square-shadow-64.png",
+        "croatia-flag-square-shadow.svg"
+      ],
+      "ht": [
+        "haiti-flag-square-shadow-128.png",
+        "haiti-flag-square-shadow-512.png",
+        "haiti-flag-square-shadow-64.png",
+        "haiti-flag-square-shadow.svg"
+      ],
+      "hu": [
+        "hungary-flag-square-shadow-128.png",
+        "hungary-flag-square-shadow-512.png",
+        "hungary-flag-square-shadow-64.png",
+        "hungary-flag-square-shadow.svg"
+      ],
+      "id": [
+        "indonesia-flag-square-shadow-128.png",
+        "indonesia-flag-square-shadow-512.png",
+        "indonesia-flag-square-shadow-64.png",
+        "indonesia-flag-square-shadow.svg"
+      ],
+      "ie": [
+        "ireland-flag-square-shadow-128.png",
+        "ireland-flag-square-shadow-512.png",
+        "ireland-flag-square-shadow-64.png",
+        "ireland-flag-square-shadow.svg"
+      ],
+      "il": [
+        "israel-flag-square-shadow-128.png",
+        "israel-flag-square-shadow-512.png",
+        "israel-flag-square-shadow-64.png",
+        "israel-flag-square-shadow.svg"
+      ],
+      "in": [
+        "india-flag-square-shadow-128.png",
+        "india-flag-square-shadow-512.png",
+        "india-flag-square-shadow-64.png",
+        "india-flag-square-shadow.svg"
+      ],
+      "iq": [
+        "iraq-flag-square-shadow-128.png",
+        "iraq-flag-square-shadow-512.png",
+        "iraq-flag-square-shadow-64.png",
+        "iraq-flag-square-shadow.svg"
+      ],
+      "ir": [
+        "iran-flag-square-shadow-128.png",
+        "iran-flag-square-shadow-512.png",
+        "iran-flag-square-shadow-64.png",
+        "iran-flag-square-shadow.svg"
+      ],
+      "is": [
+        "iceland-flag-square-shadow-128.png",
+        "iceland-flag-square-shadow-512.png",
+        "iceland-flag-square-shadow-64.png",
+        "iceland-flag-square-shadow.svg"
+      ],
+      "it": [
+        "italy-flag-square-shadow-128.png",
+        "italy-flag-square-shadow-512.png",
+        "italy-flag-square-shadow-64.png",
+        "italy-flag-square-shadow.svg"
+      ],
+      "jm": [
+        "jamaica-flag-square-shadow-128.png",
+        "jamaica-flag-square-shadow-512.png",
+        "jamaica-flag-square-shadow-64.png",
+        "jamaica-flag-square-shadow.svg"
+      ],
+      "jo": [
+        "jordan-flag-square-shadow-128.png",
+        "jordan-flag-square-shadow-512.png",
+        "jordan-flag-square-shadow-64.png",
+        "jordan-flag-square-shadow.svg"
+      ],
+      "jp": [
+        "japan-flag-square-shadow-128.png",
+        "japan-flag-square-shadow-512.png",
+        "japan-flag-square-shadow-64.png",
+        "japan-flag-square-shadow.svg"
+      ],
+      "ke": [
+        "kenya-flag-square-shadow-128.png",
+        "kenya-flag-square-shadow-512.png",
+        "kenya-flag-square-shadow-64.png",
+        "kenya-flag-square-shadow.svg"
+      ],
+      "kg": [
+        "kyrgyzstan-flag-square-shadow-128.png",
+        "kyrgyzstan-flag-square-shadow-512.png",
+        "kyrgyzstan-flag-square-shadow-64.png",
+        "kyrgyzstan-flag-square-shadow.svg"
+      ],
+      "kh": [
+        "cambodia-flag-square-shadow-128.png",
+        "cambodia-flag-square-shadow-512.png",
+        "cambodia-flag-square-shadow-64.png",
+        "cambodia-flag-square-shadow.svg"
+      ],
+      "ki": [
+        "kiribati-flag-square-shadow-128.png",
+        "kiribati-flag-square-shadow-512.png",
+        "kiribati-flag-square-shadow-64.png",
+        "kiribati-flag-square-shadow.svg"
+      ],
+      "km": [
+        "comoros-flag-square-shadow-128.png",
+        "comoros-flag-square-shadow-512.png",
+        "comoros-flag-square-shadow-64.png",
+        "comoros-flag-square-shadow.svg"
+      ],
+      "kn": [
+        "saint-kitts-and-nevis-flag-square-shadow-128.png",
+        "saint-kitts-and-nevis-flag-square-shadow-512.png",
+        "saint-kitts-and-nevis-flag-square-shadow-64.png",
+        "saint-kitts-and-nevis-flag-square-shadow.svg"
+      ],
+      "kp": [
+        "north-korea-flag-square-shadow-128.png",
+        "north-korea-flag-square-shadow-512.png",
+        "north-korea-flag-square-shadow-64.png",
+        "north-korea-flag-square-shadow.svg"
+      ],
+      "kr": [
+        "south-korea-flag-square-shadow-128.png",
+        "south-korea-flag-square-shadow-512.png",
+        "south-korea-flag-square-shadow-64.png",
+        "south-korea-flag-square-shadow.svg"
+      ],
+      "kw": [
+        "kuwait-flag-square-shadow-128.png",
+        "kuwait-flag-square-shadow-512.png",
+        "kuwait-flag-square-shadow-64.png",
+        "kuwait-flag-square-shadow.svg"
+      ],
+      "kz": [
+        "kazakhstan-flag-square-shadow-128.png",
+        "kazakhstan-flag-square-shadow-512.png",
+        "kazakhstan-flag-square-shadow-64.png",
+        "kazakhstan-flag-square-shadow.svg"
+      ],
+      "la": [
+        "laos-flag-square-shadow-128.png",
+        "laos-flag-square-shadow-512.png",
+        "laos-flag-square-shadow-64.png",
+        "laos-flag-square-shadow.svg"
+      ],
+      "lb": [
+        "lebanon-flag-square-shadow-128.png",
+        "lebanon-flag-square-shadow-512.png",
+        "lebanon-flag-square-shadow-64.png",
+        "lebanon-flag-square-shadow.svg"
+      ],
+      "lc": [
+        "saint-lucia-flag-square-shadow-128.png",
+        "saint-lucia-flag-square-shadow-512.png",
+        "saint-lucia-flag-square-shadow-64.png",
+        "saint-lucia-flag-square-shadow.svg"
+      ],
+      "li": [
+        "liechtenstein-flag-square-shadow-128.png",
+        "liechtenstein-flag-square-shadow-512.png",
+        "liechtenstein-flag-square-shadow-64.png",
+        "liechtenstein-flag-square-shadow.svg"
+      ],
+      "lk": [
+        "sri-lanka-flag-square-shadow-128.png",
+        "sri-lanka-flag-square-shadow-512.png",
+        "sri-lanka-flag-square-shadow-64.png",
+        "sri-lanka-flag-square-shadow.svg"
+      ],
+      "lr": [
+        "liberia-flag-square-shadow-128.png",
+        "liberia-flag-square-shadow-512.png",
+        "liberia-flag-square-shadow-64.png",
+        "liberia-flag-square-shadow.svg"
+      ],
+      "ls": [
+        "lesotho-flag-square-shadow-128.png",
+        "lesotho-flag-square-shadow-512.png",
+        "lesotho-flag-square-shadow-64.png",
+        "lesotho-flag-square-shadow.svg"
+      ],
+      "lt": [
+        "lithuania-flag-square-shadow-128.png",
+        "lithuania-flag-square-shadow-512.png",
+        "lithuania-flag-square-shadow-64.png",
+        "lithuania-flag-square-shadow.svg"
+      ],
+      "lu": [
+        "luxembourg-flag-square-shadow-128.png",
+        "luxembourg-flag-square-shadow-512.png",
+        "luxembourg-flag-square-shadow-64.png",
+        "luxembourg-flag-square-shadow.svg"
+      ],
+      "lv": [
+        "latvia-flag-square-shadow-128.png",
+        "latvia-flag-square-shadow-512.png",
+        "latvia-flag-square-shadow-64.png",
+        "latvia-flag-square-shadow.svg"
+      ],
+      "ly": [
+        "libya-flag-square-shadow-128.png",
+        "libya-flag-square-shadow-512.png",
+        "libya-flag-square-shadow-64.png",
+        "libya-flag-square-shadow.svg"
+      ],
+      "ma": [
+        "morocco-flag-square-shadow-128.png",
+        "morocco-flag-square-shadow-512.png",
+        "morocco-flag-square-shadow-64.png",
+        "morocco-flag-square-shadow.svg"
+      ],
+      "mc": [
+        "monaco-flag-square-shadow-128.png",
+        "monaco-flag-square-shadow-512.png",
+        "monaco-flag-square-shadow-64.png",
+        "monaco-flag-square-shadow.svg"
+      ],
+      "md": [
+        "moldova-flag-square-shadow-128.png",
+        "moldova-flag-square-shadow-512.png",
+        "moldova-flag-square-shadow-64.png",
+        "moldova-flag-square-shadow.svg"
+      ],
+      "me": [
+        "montenegro-flag-square-shadow-128.png",
+        "montenegro-flag-square-shadow-512.png",
+        "montenegro-flag-square-shadow-64.png",
+        "montenegro-flag-square-shadow.svg"
+      ],
+      "mg": [
+        "madagascar-flag-square-shadow-128.png",
+        "madagascar-flag-square-shadow-512.png",
+        "madagascar-flag-square-shadow-64.png",
+        "madagascar-flag-square-shadow.svg"
+      ],
+      "mh": [
+        "marshall-islands-flag-square-shadow-128.png",
+        "marshall-islands-flag-square-shadow-512.png",
+        "marshall-islands-flag-square-shadow-64.png",
+        "marshall-islands-flag-square-shadow.svg"
+      ],
+      "mk": [
+        "north-macedonia-flag-square-shadow-128.png",
+        "north-macedonia-flag-square-shadow-512.png",
+        "north-macedonia-flag-square-shadow-64.png",
+        "north-macedonia-flag-square-shadow.svg"
+      ],
+      "ml": [
+        "mali-flag-square-shadow-128.png",
+        "mali-flag-square-shadow-512.png",
+        "mali-flag-square-shadow-64.png",
+        "mali-flag-square-shadow.svg"
+      ],
+      "mm": [
+        "myanmar-flag-square-shadow-128.png",
+        "myanmar-flag-square-shadow-512.png",
+        "myanmar-flag-square-shadow-64.png",
+        "myanmar-flag-square-shadow.svg"
+      ],
+      "mn": [
+        "mongolia-flag-square-shadow-128.png",
+        "mongolia-flag-square-shadow-512.png",
+        "mongolia-flag-square-shadow-64.png",
+        "mongolia-flag-square-shadow.svg"
+      ],
+      "mr": [
+        "mauritania-flag-square-shadow-128.png",
+        "mauritania-flag-square-shadow-512.png",
+        "mauritania-flag-square-shadow-64.png",
+        "mauritania-flag-square-shadow.svg"
+      ],
+      "mt": [
+        "malta-flag-square-shadow-128.png",
+        "malta-flag-square-shadow-512.png",
+        "malta-flag-square-shadow-64.png",
+        "malta-flag-square-shadow.svg"
+      ],
+      "mu": [
+        "mauritius-flag-square-shadow-128.png",
+        "mauritius-flag-square-shadow-512.png",
+        "mauritius-flag-square-shadow-64.png",
+        "mauritius-flag-square-shadow.svg"
+      ],
+      "mv": [
+        "maldives-flag-square-shadow-128.png",
+        "maldives-flag-square-shadow-512.png",
+        "maldives-flag-square-shadow-64.png",
+        "maldives-flag-square-shadow.svg"
+      ],
+      "mw": [
+        "malawi-flag-square-shadow-128.png",
+        "malawi-flag-square-shadow-512.png",
+        "malawi-flag-square-shadow-64.png",
+        "malawi-flag-square-shadow.svg"
+      ],
+      "mx": [
+        "mexico-flag-square-shadow-128.png",
+        "mexico-flag-square-shadow-512.png",
+        "mexico-flag-square-shadow-64.png",
+        "mexico-flag-square-shadow.svg"
+      ],
+      "my": [
+        "malaysia-flag-square-shadow-128.png",
+        "malaysia-flag-square-shadow-512.png",
+        "malaysia-flag-square-shadow-64.png",
+        "malaysia-flag-square-shadow.svg"
+      ],
+      "mz": [
+        "mozambique-flag-square-shadow-128.png",
+        "mozambique-flag-square-shadow-512.png",
+        "mozambique-flag-square-shadow-64.png",
+        "mozambique-flag-square-shadow.svg"
+      ],
+      "na": [
+        "namibia-flag-square-shadow-128.png",
+        "namibia-flag-square-shadow-512.png",
+        "namibia-flag-square-shadow-64.png",
+        "namibia-flag-square-shadow.svg"
+      ],
+      "ne": [
+        "niger-flag-square-shadow-128.png",
+        "niger-flag-square-shadow-512.png",
+        "niger-flag-square-shadow-64.png",
+        "niger-flag-square-shadow.svg"
+      ],
+      "ng": [
+        "nigeria-flag-square-shadow-128.png",
+        "nigeria-flag-square-shadow-512.png",
+        "nigeria-flag-square-shadow-64.png",
+        "nigeria-flag-square-shadow.svg"
+      ],
+      "ni": [
+        "nicaragua-flag-square-shadow-128.png",
+        "nicaragua-flag-square-shadow-512.png",
+        "nicaragua-flag-square-shadow-64.png",
+        "nicaragua-flag-square-shadow.svg"
+      ],
+      "nl": [
+        "netherlands-flag-square-shadow-128.png",
+        "netherlands-flag-square-shadow-512.png",
+        "netherlands-flag-square-shadow-64.png",
+        "netherlands-flag-square-shadow.svg"
+      ],
+      "no": [
+        "norway-flag-square-shadow-128.png",
+        "norway-flag-square-shadow-512.png",
+        "norway-flag-square-shadow-64.png",
+        "norway-flag-square-shadow.svg"
+      ],
+      "np": [
+        "nepal-flag-square-shadow-128.png",
+        "nepal-flag-square-shadow-512.png",
+        "nepal-flag-square-shadow-64.png",
+        "nepal-flag-square-shadow.svg"
+      ],
+      "nr": [
+        "nauru-flag-square-shadow-128.png",
+        "nauru-flag-square-shadow-512.png",
+        "nauru-flag-square-shadow-64.png",
+        "nauru-flag-square-shadow.svg"
+      ],
+      "nz": [
+        "new-zealand-flag-square-shadow-128.png",
+        "new-zealand-flag-square-shadow-512.png",
+        "new-zealand-flag-square-shadow-64.png",
+        "new-zealand-flag-square-shadow.svg"
+      ],
+      "om": [
+        "oman-flag-square-shadow-128.png",
+        "oman-flag-square-shadow-512.png",
+        "oman-flag-square-shadow-64.png",
+        "oman-flag-square-shadow.svg"
+      ],
+      "pa": [
+        "panama-flag-square-shadow-128.png",
+        "panama-flag-square-shadow-512.png",
+        "panama-flag-square-shadow-64.png",
+        "panama-flag-square-shadow.svg"
+      ],
+      "pe": [
+        "peru-flag-square-shadow-128.png",
+        "peru-flag-square-shadow-512.png",
+        "peru-flag-square-shadow-64.png",
+        "peru-flag-square-shadow.svg"
+      ],
+      "pg": [
+        "papua-new-guinea-flag-square-shadow-128.png",
+        "papua-new-guinea-flag-square-shadow-512.png",
+        "papua-new-guinea-flag-square-shadow-64.png",
+        "papua-new-guinea-flag-square-shadow.svg"
+      ],
+      "ph": [
+        "philippines-flag-square-shadow-128.png",
+        "philippines-flag-square-shadow-512.png",
+        "philippines-flag-square-shadow-64.png",
+        "philippines-flag-square-shadow.svg"
+      ],
+      "pk": [
+        "pakistan-flag-square-shadow-128.png",
+        "pakistan-flag-square-shadow-512.png",
+        "pakistan-flag-square-shadow-64.png",
+        "pakistan-flag-square-shadow.svg"
+      ],
+      "pl": [
+        "poland-flag-square-shadow-128.png",
+        "poland-flag-square-shadow-512.png",
+        "poland-flag-square-shadow-64.png",
+        "poland-flag-square-shadow.svg"
+      ],
+      "pt": [
+        "portugal-flag-square-shadow-128.png",
+        "portugal-flag-square-shadow-512.png",
+        "portugal-flag-square-shadow-64.png",
+        "portugal-flag-square-shadow.svg"
+      ],
+      "pw": [
+        "palau-flag-square-shadow-128.png",
+        "palau-flag-square-shadow-512.png",
+        "palau-flag-square-shadow-64.png",
+        "palau-flag-square-shadow.svg"
+      ],
+      "py": [
+        "paraguay-flag-square-shadow-128.png",
+        "paraguay-flag-square-shadow-512.png",
+        "paraguay-flag-square-shadow-64.png",
+        "paraguay-flag-square-shadow.svg"
+      ],
+      "qa": [
+        "qatar-flag-square-shadow-128.png",
+        "qatar-flag-square-shadow-512.png",
+        "qatar-flag-square-shadow-64.png",
+        "qatar-flag-square-shadow.svg"
+      ],
+      "ro": [
+        "romania-flag-square-shadow-128.png",
+        "romania-flag-square-shadow-512.png",
+        "romania-flag-square-shadow-64.png",
+        "romania-flag-square-shadow.svg"
+      ],
+      "rs": [
+        "serbia-flag-square-shadow-128.png",
+        "serbia-flag-square-shadow-512.png",
+        "serbia-flag-square-shadow-64.png",
+        "serbia-flag-square-shadow.svg"
+      ],
+      "ru": [
+        "russia-flag-square-shadow-128.png",
+        "russia-flag-square-shadow-512.png",
+        "russia-flag-square-shadow-64.png",
+        "russia-flag-square-shadow.svg"
+      ],
+      "rw": [
+        "rwanda-flag-square-shadow-128.png",
+        "rwanda-flag-square-shadow-512.png",
+        "rwanda-flag-square-shadow-64.png",
+        "rwanda-flag-square-shadow.svg"
+      ],
+      "sa": [
+        "saudi-arabia-flag-square-shadow-128.png",
+        "saudi-arabia-flag-square-shadow-512.png",
+        "saudi-arabia-flag-square-shadow-64.png",
+        "saudi-arabia-flag-square-shadow.svg"
+      ],
+      "sb": [
+        "solomon-islands-flag-square-shadow-128.png",
+        "solomon-islands-flag-square-shadow-512.png",
+        "solomon-islands-flag-square-shadow-64.png",
+        "solomon-islands-flag-square-shadow.svg"
+      ],
+      "sc": [
+        "seychelles-flag-square-shadow-128.png",
+        "seychelles-flag-square-shadow-512.png",
+        "seychelles-flag-square-shadow-64.png",
+        "seychelles-flag-square-shadow.svg"
+      ],
+      "sd": [
+        "sudan-flag-square-shadow-128.png",
+        "sudan-flag-square-shadow-512.png",
+        "sudan-flag-square-shadow-64.png",
+        "sudan-flag-square-shadow.svg"
+      ],
+      "se": [
+        "sweden-flag-square-shadow-128.png",
+        "sweden-flag-square-shadow-512.png",
+        "sweden-flag-square-shadow-64.png",
+        "sweden-flag-square-shadow.svg"
+      ],
+      "sg": [
+        "singapore-flag-square-shadow-128.png",
+        "singapore-flag-square-shadow-512.png",
+        "singapore-flag-square-shadow-64.png",
+        "singapore-flag-square-shadow.svg"
+      ],
+      "si": [
+        "slovenia-flag-square-shadow-128.png",
+        "slovenia-flag-square-shadow-512.png",
+        "slovenia-flag-square-shadow-64.png",
+        "slovenia-flag-square-shadow.svg"
+      ],
+      "sk": [
+        "slovakia-flag-square-shadow-128.png",
+        "slovakia-flag-square-shadow-512.png",
+        "slovakia-flag-square-shadow-64.png",
+        "slovakia-flag-square-shadow.svg"
+      ],
+      "sl": [
+        "sierra-leone-flag-square-shadow-128.png",
+        "sierra-leone-flag-square-shadow-512.png",
+        "sierra-leone-flag-square-shadow-64.png",
+        "sierra-leone-flag-square-shadow.svg"
+      ],
+      "sm": [
+        "san-marino-flag-square-shadow-128.png",
+        "san-marino-flag-square-shadow-512.png",
+        "san-marino-flag-square-shadow-64.png",
+        "san-marino-flag-square-shadow.svg"
+      ],
+      "sn": [
+        "senegal-flag-square-shadow-128.png",
+        "senegal-flag-square-shadow-512.png",
+        "senegal-flag-square-shadow-64.png",
+        "senegal-flag-square-shadow.svg"
+      ],
+      "so": [
+        "somalia-flag-square-shadow-128.png",
+        "somalia-flag-square-shadow-512.png",
+        "somalia-flag-square-shadow-64.png",
+        "somalia-flag-square-shadow.svg"
+      ],
+      "sr": [
+        "suriname-flag-square-shadow-128.png",
+        "suriname-flag-square-shadow-512.png",
+        "suriname-flag-square-shadow-64.png",
+        "suriname-flag-square-shadow.svg"
+      ],
+      "ss": [
+        "south-sudan-flag-square-shadow-128.png",
+        "south-sudan-flag-square-shadow-512.png",
+        "south-sudan-flag-square-shadow-64.png",
+        "south-sudan-flag-square-shadow.svg"
+      ],
+      "st": [
+        "s-o-tom-and-pr-ncipe-flag-square-shadow-128.png",
+        "s-o-tom-and-pr-ncipe-flag-square-shadow-512.png",
+        "s-o-tom-and-pr-ncipe-flag-square-shadow-64.png",
+        "s-o-tom-and-pr-ncipe-flag-square-shadow.svg"
+      ],
+      "sv": [
+        "el-salvador-flag-square-shadow-128.png",
+        "el-salvador-flag-square-shadow-512.png",
+        "el-salvador-flag-square-shadow-64.png",
+        "el-salvador-flag-square-shadow.svg"
+      ],
+      "sy": [
+        "syria-flag-square-shadow-128.png",
+        "syria-flag-square-shadow-512.png",
+        "syria-flag-square-shadow-64.png",
+        "syria-flag-square-shadow.svg"
+      ],
+      "sz": [
+        "eswatini-flag-square-shadow-128.png",
+        "eswatini-flag-square-shadow-512.png",
+        "eswatini-flag-square-shadow-64.png",
+        "eswatini-flag-square-shadow.svg"
+      ],
+      "td": [
+        "chad-flag-square-shadow-128.png",
+        "chad-flag-square-shadow-512.png",
+        "chad-flag-square-shadow-64.png",
+        "chad-flag-square-shadow.svg"
+      ],
+      "tg": [
+        "togo-flag-square-shadow-128.png",
+        "togo-flag-square-shadow-512.png",
+        "togo-flag-square-shadow-64.png",
+        "togo-flag-square-shadow.svg"
+      ],
+      "th": [
+        "thailand-flag-square-shadow-128.png",
+        "thailand-flag-square-shadow-512.png",
+        "thailand-flag-square-shadow-64.png",
+        "thailand-flag-square-shadow.svg"
+      ],
+      "tj": [
+        "tajikistan-flag-square-shadow-128.png",
+        "tajikistan-flag-square-shadow-512.png",
+        "tajikistan-flag-square-shadow-64.png",
+        "tajikistan-flag-square-shadow.svg"
+      ],
+      "tl": [
+        "timor-leste-flag-square-shadow-128.png",
+        "timor-leste-flag-square-shadow-512.png",
+        "timor-leste-flag-square-shadow-64.png",
+        "timor-leste-flag-square-shadow.svg"
+      ],
+      "tm": [
+        "turkmenistan-flag-square-shadow-128.png",
+        "turkmenistan-flag-square-shadow-512.png",
+        "turkmenistan-flag-square-shadow-64.png",
+        "turkmenistan-flag-square-shadow.svg"
+      ],
+      "tn": [
+        "tunisia-flag-square-shadow-128.png",
+        "tunisia-flag-square-shadow-512.png",
+        "tunisia-flag-square-shadow-64.png",
+        "tunisia-flag-square-shadow.svg"
+      ],
+      "to": [
+        "tonga-flag-square-shadow-128.png",
+        "tonga-flag-square-shadow-512.png",
+        "tonga-flag-square-shadow-64.png",
+        "tonga-flag-square-shadow.svg"
+      ],
+      "tr": [
+        "turkey-flag-square-shadow-128.png",
+        "turkey-flag-square-shadow-512.png",
+        "turkey-flag-square-shadow-64.png",
+        "turkey-flag-square-shadow.svg"
+      ],
+      "tt": [
+        "trinidad-and-tobago-flag-square-shadow-128.png",
+        "trinidad-and-tobago-flag-square-shadow-512.png",
+        "trinidad-and-tobago-flag-square-shadow-64.png",
+        "trinidad-and-tobago-flag-square-shadow.svg"
+      ],
+      "tv": [
+        "tuvalu-flag-square-shadow-128.png",
+        "tuvalu-flag-square-shadow-512.png",
+        "tuvalu-flag-square-shadow-64.png",
+        "tuvalu-flag-square-shadow.svg"
+      ],
+      "tz": [
+        "tanzania-flag-square-shadow-128.png",
+        "tanzania-flag-square-shadow-512.png",
+        "tanzania-flag-square-shadow-64.png",
+        "tanzania-flag-square-shadow.svg"
+      ],
+      "ua": [
+        "ukraine-flag-square-shadow-128.png",
+        "ukraine-flag-square-shadow-512.png",
+        "ukraine-flag-square-shadow-64.png",
+        "ukraine-flag-square-shadow.svg"
+      ],
+      "ug": [
+        "uganda-flag-square-shadow-128.png",
+        "uganda-flag-square-shadow-512.png",
+        "uganda-flag-square-shadow-64.png",
+        "uganda-flag-square-shadow.svg"
+      ],
+      "us": [
+        "united-states-flag-square-shadow-128.png",
+        "united-states-flag-square-shadow-512.png",
+        "united-states-flag-square-shadow-64.png",
+        "united-states-flag-square-shadow.svg"
+      ],
+      "uy": [
+        "uruguay-flag-square-shadow-128.png",
+        "uruguay-flag-square-shadow-512.png",
+        "uruguay-flag-square-shadow-64.png",
+        "uruguay-flag-square-shadow.svg"
+      ],
+      "uz": [
+        "uzbekistan-flag-square-shadow-128.png",
+        "uzbekistan-flag-square-shadow-512.png",
+        "uzbekistan-flag-square-shadow-64.png",
+        "uzbekistan-flag-square-shadow.svg"
+      ],
+      "va": [
+        "vatican-city-flag-square-shadow-128.png",
+        "vatican-city-flag-square-shadow-512.png",
+        "vatican-city-flag-square-shadow-64.png",
+        "vatican-city-flag-square-shadow.svg"
+      ],
+      "vc": [
+        "saint-vincent-and-the-grenadines-flag-square-shadow-128.png",
+        "saint-vincent-and-the-grenadines-flag-square-shadow-512.png",
+        "saint-vincent-and-the-grenadines-flag-square-shadow-64.png",
+        "saint-vincent-and-the-grenadines-flag-square-shadow.svg"
+      ],
+      "ve": [
+        "venezuela-flag-square-shadow-128.png",
+        "venezuela-flag-square-shadow-512.png",
+        "venezuela-flag-square-shadow-64.png",
+        "venezuela-flag-square-shadow.svg"
+      ],
+      "vn": [
+        "vietnam-flag-square-shadow-128.png",
+        "vietnam-flag-square-shadow-512.png",
+        "vietnam-flag-square-shadow-64.png",
+        "vietnam-flag-square-shadow.svg"
+      ],
+      "vu": [
+        "vanuatu-flag-square-shadow-128.png",
+        "vanuatu-flag-square-shadow-512.png",
+        "vanuatu-flag-square-shadow-64.png",
+        "vanuatu-flag-square-shadow.svg"
+      ],
+      "ws": [
+        "samoa-flag-square-shadow-128.png",
+        "samoa-flag-square-shadow-512.png",
+        "samoa-flag-square-shadow-64.png",
+        "samoa-flag-square-shadow.svg"
+      ],
+      "xk": [
+        "kosovo-flag-square-shadow-128.png",
+        "kosovo-flag-square-shadow-512.png",
+        "kosovo-flag-square-shadow-64.png",
+        "kosovo-flag-square-shadow.svg"
+      ],
+      "ye": [
+        "yemen-flag-square-shadow-128.png",
+        "yemen-flag-square-shadow-512.png",
+        "yemen-flag-square-shadow-64.png",
+        "yemen-flag-square-shadow.svg"
+      ],
+      "za": [
+        "south-africa-flag-square-shadow-128.png",
+        "south-africa-flag-square-shadow-512.png",
+        "south-africa-flag-square-shadow-64.png",
+        "south-africa-flag-square-shadow.svg"
+      ],
+      "zm": [
+        "zambia-flag-square-shadow-128.png",
+        "zambia-flag-square-shadow-512.png",
+        "zambia-flag-square-shadow-64.png",
+        "zambia-flag-square-shadow.svg"
+      ],
+      "zw": [
+        "zimbabwe-flag-square-shadow-128.png",
+        "zimbabwe-flag-square-shadow-512.png",
+        "zimbabwe-flag-square-shadow-64.png",
+        "zimbabwe-flag-square-shadow.svg"
       ]
     }
   }
