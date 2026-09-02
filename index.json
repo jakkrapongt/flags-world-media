@@ -7,9 +7,11 @@
     "css",
     "drop",
     "flat-circle",
+    "flat-heart",
     "flat-rectangle",
     "flat-square",
     "heart",
+    "heart-badge",
     "leaf-badge",
     "rounded-badge",
     "shield",
@@ -13503,6 +13505,1960 @@
         "zimbabwe-flag-square-pin-128.png",
         "zimbabwe-flag-square-pin-512.png",
         "zimbabwe-flag-square-pin-64.png"
+      ]
+    },
+    "flat-heart": {
+      "ad": [
+        "andorra-flag-flat-heart-128.png",
+        "andorra-flag-flat-heart-512.png",
+        "andorra-flag-flat-heart-64.png"
+      ],
+      "ae": [
+        "united-arab-emirates-flag-flat-heart-128.png",
+        "united-arab-emirates-flag-flat-heart-512.png",
+        "united-arab-emirates-flag-flat-heart-64.png"
+      ],
+      "af": [
+        "afghanistan-flag-flat-heart-128.png",
+        "afghanistan-flag-flat-heart-512.png",
+        "afghanistan-flag-flat-heart-64.png"
+      ],
+      "ag": [
+        "antigua-and-barbuda-flag-flat-heart-128.png",
+        "antigua-and-barbuda-flag-flat-heart-512.png",
+        "antigua-and-barbuda-flag-flat-heart-64.png"
+      ],
+      "al": [
+        "albania-flag-flat-heart-128.png",
+        "albania-flag-flat-heart-512.png",
+        "albania-flag-flat-heart-64.png"
+      ],
+      "am": [
+        "armenia-flag-flat-heart-128.png",
+        "armenia-flag-flat-heart-512.png",
+        "armenia-flag-flat-heart-64.png"
+      ],
+      "ao": [
+        "angola-flag-flat-heart-128.png",
+        "angola-flag-flat-heart-512.png",
+        "angola-flag-flat-heart-64.png"
+      ],
+      "ar": [
+        "argentina-flag-flat-heart-128.png",
+        "argentina-flag-flat-heart-512.png",
+        "argentina-flag-flat-heart-64.png"
+      ],
+      "at": [
+        "austria-flag-flat-heart-128.png",
+        "austria-flag-flat-heart-512.png",
+        "austria-flag-flat-heart-64.png"
+      ],
+      "au": [
+        "australia-flag-flat-heart-128.png",
+        "australia-flag-flat-heart-512.png",
+        "australia-flag-flat-heart-64.png"
+      ],
+      "az": [
+        "azerbaijan-flag-flat-heart-128.png",
+        "azerbaijan-flag-flat-heart-512.png",
+        "azerbaijan-flag-flat-heart-64.png"
+      ],
+      "ba": [
+        "bosnia-and-herzegovina-flag-flat-heart-128.png",
+        "bosnia-and-herzegovina-flag-flat-heart-512.png",
+        "bosnia-and-herzegovina-flag-flat-heart-64.png"
+      ],
+      "bb": [
+        "barbados-flag-flat-heart-128.png",
+        "barbados-flag-flat-heart-512.png",
+        "barbados-flag-flat-heart-64.png"
+      ],
+      "bd": [
+        "bangladesh-flag-flat-heart-128.png",
+        "bangladesh-flag-flat-heart-512.png",
+        "bangladesh-flag-flat-heart-64.png"
+      ],
+      "be": [
+        "belgium-flag-flat-heart-128.png",
+        "belgium-flag-flat-heart-512.png",
+        "belgium-flag-flat-heart-64.png"
+      ],
+      "bf": [
+        "burkina-faso-flag-flat-heart-128.png",
+        "burkina-faso-flag-flat-heart-512.png",
+        "burkina-faso-flag-flat-heart-64.png"
+      ],
+      "bg": [
+        "bulgaria-flag-flat-heart-128.png",
+        "bulgaria-flag-flat-heart-512.png",
+        "bulgaria-flag-flat-heart-64.png"
+      ],
+      "bh": [
+        "bahrain-flag-flat-heart-128.png",
+        "bahrain-flag-flat-heart-512.png",
+        "bahrain-flag-flat-heart-64.png"
+      ],
+      "bi": [
+        "burundi-flag-flat-heart-128.png",
+        "burundi-flag-flat-heart-512.png",
+        "burundi-flag-flat-heart-64.png"
+      ],
+      "bj": [
+        "benin-flag-flat-heart-128.png",
+        "benin-flag-flat-heart-512.png",
+        "benin-flag-flat-heart-64.png"
+      ],
+      "bn": [
+        "brunei-flag-flat-heart-128.png",
+        "brunei-flag-flat-heart-512.png",
+        "brunei-flag-flat-heart-64.png"
+      ],
+      "bo": [
+        "bolivia-flag-flat-heart-128.png",
+        "bolivia-flag-flat-heart-512.png",
+        "bolivia-flag-flat-heart-64.png"
+      ],
+      "br": [
+        "brazil-flag-flat-heart-128.png",
+        "brazil-flag-flat-heart-512.png",
+        "brazil-flag-flat-heart-64.png"
+      ],
+      "bs": [
+        "bahamas-flag-flat-heart-128.png",
+        "bahamas-flag-flat-heart-512.png",
+        "bahamas-flag-flat-heart-64.png"
+      ],
+      "bt": [
+        "bhutan-flag-flat-heart-128.png",
+        "bhutan-flag-flat-heart-512.png",
+        "bhutan-flag-flat-heart-64.png"
+      ],
+      "bw": [
+        "botswana-flag-flat-heart-128.png",
+        "botswana-flag-flat-heart-512.png",
+        "botswana-flag-flat-heart-64.png"
+      ],
+      "by": [
+        "belarus-flag-flat-heart-128.png",
+        "belarus-flag-flat-heart-512.png",
+        "belarus-flag-flat-heart-64.png"
+      ],
+      "bz": [
+        "belize-flag-flat-heart-128.png",
+        "belize-flag-flat-heart-512.png",
+        "belize-flag-flat-heart-64.png"
+      ],
+      "ca": [
+        "canada-flag-flat-heart-128.png",
+        "canada-flag-flat-heart-512.png",
+        "canada-flag-flat-heart-64.png"
+      ],
+      "cd": [
+        "dr-congo-flag-flat-heart-128.png",
+        "dr-congo-flag-flat-heart-512.png",
+        "dr-congo-flag-flat-heart-64.png"
+      ],
+      "cf": [
+        "central-african-republic-flag-flat-heart-128.png",
+        "central-african-republic-flag-flat-heart-512.png",
+        "central-african-republic-flag-flat-heart-64.png"
+      ],
+      "cg": [
+        "republic-of-the-congo-flag-flat-heart-128.png",
+        "republic-of-the-congo-flag-flat-heart-512.png",
+        "republic-of-the-congo-flag-flat-heart-64.png"
+      ],
+      "ch": [
+        "switzerland-flag-flat-heart-128.png",
+        "switzerland-flag-flat-heart-512.png",
+        "switzerland-flag-flat-heart-64.png"
+      ],
+      "ci": [
+        "ivory-coast-flag-flat-heart-128.png",
+        "ivory-coast-flag-flat-heart-512.png",
+        "ivory-coast-flag-flat-heart-64.png"
+      ],
+      "cl": [
+        "chile-flag-flat-heart-128.png",
+        "chile-flag-flat-heart-512.png",
+        "chile-flag-flat-heart-64.png"
+      ],
+      "cm": [
+        "cameroon-flag-flat-heart-128.png",
+        "cameroon-flag-flat-heart-512.png",
+        "cameroon-flag-flat-heart-64.png"
+      ],
+      "cn": [
+        "china-flag-flat-heart-128.png",
+        "china-flag-flat-heart-512.png",
+        "china-flag-flat-heart-64.png"
+      ],
+      "co": [
+        "colombia-flag-flat-heart-128.png",
+        "colombia-flag-flat-heart-512.png",
+        "colombia-flag-flat-heart-64.png"
+      ],
+      "cr": [
+        "costa-rica-flag-flat-heart-128.png",
+        "costa-rica-flag-flat-heart-512.png",
+        "costa-rica-flag-flat-heart-64.png"
+      ],
+      "cu": [
+        "cuba-flag-flat-heart-128.png",
+        "cuba-flag-flat-heart-512.png",
+        "cuba-flag-flat-heart-64.png"
+      ],
+      "cv": [
+        "cape-verde-flag-flat-heart-128.png",
+        "cape-verde-flag-flat-heart-512.png",
+        "cape-verde-flag-flat-heart-64.png"
+      ],
+      "cy": [
+        "cyprus-flag-flat-heart-128.png",
+        "cyprus-flag-flat-heart-512.png",
+        "cyprus-flag-flat-heart-64.png"
+      ],
+      "cz": [
+        "czechia-flag-flat-heart-128.png",
+        "czechia-flag-flat-heart-512.png",
+        "czechia-flag-flat-heart-64.png"
+      ],
+      "de": [
+        "germany-flag-flat-heart-128.png",
+        "germany-flag-flat-heart-512.png",
+        "germany-flag-flat-heart-64.png"
+      ],
+      "dj": [
+        "djibouti-flag-flat-heart-128.png",
+        "djibouti-flag-flat-heart-512.png",
+        "djibouti-flag-flat-heart-64.png"
+      ],
+      "dk": [
+        "denmark-flag-flat-heart-128.png",
+        "denmark-flag-flat-heart-512.png",
+        "denmark-flag-flat-heart-64.png"
+      ],
+      "dm": [
+        "dominica-flag-flat-heart-128.png",
+        "dominica-flag-flat-heart-512.png",
+        "dominica-flag-flat-heart-64.png"
+      ],
+      "do": [
+        "dominican-republic-flag-flat-heart-128.png",
+        "dominican-republic-flag-flat-heart-512.png",
+        "dominican-republic-flag-flat-heart-64.png"
+      ],
+      "dz": [
+        "algeria-flag-flat-heart-128.png",
+        "algeria-flag-flat-heart-512.png",
+        "algeria-flag-flat-heart-64.png"
+      ],
+      "ec": [
+        "ecuador-flag-flat-heart-128.png",
+        "ecuador-flag-flat-heart-512.png",
+        "ecuador-flag-flat-heart-64.png"
+      ],
+      "ee": [
+        "estonia-flag-flat-heart-128.png",
+        "estonia-flag-flat-heart-512.png",
+        "estonia-flag-flat-heart-64.png"
+      ],
+      "eg": [
+        "egypt-flag-flat-heart-128.png",
+        "egypt-flag-flat-heart-512.png",
+        "egypt-flag-flat-heart-64.png"
+      ],
+      "er": [
+        "eritrea-flag-flat-heart-128.png",
+        "eritrea-flag-flat-heart-512.png",
+        "eritrea-flag-flat-heart-64.png"
+      ],
+      "es": [
+        "spain-flag-flat-heart-128.png",
+        "spain-flag-flat-heart-512.png",
+        "spain-flag-flat-heart-64.png"
+      ],
+      "et": [
+        "ethiopia-flag-flat-heart-128.png",
+        "ethiopia-flag-flat-heart-512.png",
+        "ethiopia-flag-flat-heart-64.png"
+      ],
+      "fi": [
+        "finland-flag-flat-heart-128.png",
+        "finland-flag-flat-heart-512.png",
+        "finland-flag-flat-heart-64.png"
+      ],
+      "fj": [
+        "fiji-flag-flat-heart-128.png",
+        "fiji-flag-flat-heart-512.png",
+        "fiji-flag-flat-heart-64.png"
+      ],
+      "fm": [
+        "micronesia-flag-flat-heart-128.png",
+        "micronesia-flag-flat-heart-512.png",
+        "micronesia-flag-flat-heart-64.png"
+      ],
+      "fr": [
+        "france-flag-flat-heart-128.png",
+        "france-flag-flat-heart-512.png",
+        "france-flag-flat-heart-64.png"
+      ],
+      "ga": [
+        "gabon-flag-flat-heart-128.png",
+        "gabon-flag-flat-heart-512.png",
+        "gabon-flag-flat-heart-64.png"
+      ],
+      "gb": [
+        "united-kingdom-flag-flat-heart-128.png",
+        "united-kingdom-flag-flat-heart-512.png",
+        "united-kingdom-flag-flat-heart-64.png"
+      ],
+      "gd": [
+        "grenada-flag-flat-heart-128.png",
+        "grenada-flag-flat-heart-512.png",
+        "grenada-flag-flat-heart-64.png"
+      ],
+      "ge": [
+        "georgia-flag-flat-heart-128.png",
+        "georgia-flag-flat-heart-512.png",
+        "georgia-flag-flat-heart-64.png"
+      ],
+      "gh": [
+        "ghana-flag-flat-heart-128.png",
+        "ghana-flag-flat-heart-512.png",
+        "ghana-flag-flat-heart-64.png"
+      ],
+      "gm": [
+        "gambia-flag-flat-heart-128.png",
+        "gambia-flag-flat-heart-512.png",
+        "gambia-flag-flat-heart-64.png"
+      ],
+      "gn": [
+        "guinea-flag-flat-heart-128.png",
+        "guinea-flag-flat-heart-512.png",
+        "guinea-flag-flat-heart-64.png"
+      ],
+      "gq": [
+        "equatorial-guinea-flag-flat-heart-128.png",
+        "equatorial-guinea-flag-flat-heart-512.png",
+        "equatorial-guinea-flag-flat-heart-64.png"
+      ],
+      "gr": [
+        "greece-flag-flat-heart-128.png",
+        "greece-flag-flat-heart-512.png",
+        "greece-flag-flat-heart-64.png"
+      ],
+      "gt": [
+        "guatemala-flag-flat-heart-128.png",
+        "guatemala-flag-flat-heart-512.png",
+        "guatemala-flag-flat-heart-64.png"
+      ],
+      "gw": [
+        "guinea-bissau-flag-flat-heart-128.png",
+        "guinea-bissau-flag-flat-heart-512.png",
+        "guinea-bissau-flag-flat-heart-64.png"
+      ],
+      "gy": [
+        "guyana-flag-flat-heart-128.png",
+        "guyana-flag-flat-heart-512.png",
+        "guyana-flag-flat-heart-64.png"
+      ],
+      "hn": [
+        "honduras-flag-flat-heart-128.png",
+        "honduras-flag-flat-heart-512.png",
+        "honduras-flag-flat-heart-64.png"
+      ],
+      "hr": [
+        "croatia-flag-flat-heart-128.png",
+        "croatia-flag-flat-heart-512.png",
+        "croatia-flag-flat-heart-64.png"
+      ],
+      "ht": [
+        "haiti-flag-flat-heart-128.png",
+        "haiti-flag-flat-heart-512.png",
+        "haiti-flag-flat-heart-64.png"
+      ],
+      "hu": [
+        "hungary-flag-flat-heart-128.png",
+        "hungary-flag-flat-heart-512.png",
+        "hungary-flag-flat-heart-64.png"
+      ],
+      "id": [
+        "indonesia-flag-flat-heart-128.png",
+        "indonesia-flag-flat-heart-512.png",
+        "indonesia-flag-flat-heart-64.png"
+      ],
+      "ie": [
+        "ireland-flag-flat-heart-128.png",
+        "ireland-flag-flat-heart-512.png",
+        "ireland-flag-flat-heart-64.png"
+      ],
+      "il": [
+        "israel-flag-flat-heart-128.png",
+        "israel-flag-flat-heart-512.png",
+        "israel-flag-flat-heart-64.png"
+      ],
+      "in": [
+        "india-flag-flat-heart-128.png",
+        "india-flag-flat-heart-512.png",
+        "india-flag-flat-heart-64.png"
+      ],
+      "iq": [
+        "iraq-flag-flat-heart-128.png",
+        "iraq-flag-flat-heart-512.png",
+        "iraq-flag-flat-heart-64.png"
+      ],
+      "ir": [
+        "iran-flag-flat-heart-128.png",
+        "iran-flag-flat-heart-512.png",
+        "iran-flag-flat-heart-64.png"
+      ],
+      "is": [
+        "iceland-flag-flat-heart-128.png",
+        "iceland-flag-flat-heart-512.png",
+        "iceland-flag-flat-heart-64.png"
+      ],
+      "it": [
+        "italy-flag-flat-heart-128.png",
+        "italy-flag-flat-heart-512.png",
+        "italy-flag-flat-heart-64.png"
+      ],
+      "jm": [
+        "jamaica-flag-flat-heart-128.png",
+        "jamaica-flag-flat-heart-512.png",
+        "jamaica-flag-flat-heart-64.png"
+      ],
+      "jo": [
+        "jordan-flag-flat-heart-128.png",
+        "jordan-flag-flat-heart-512.png",
+        "jordan-flag-flat-heart-64.png"
+      ],
+      "jp": [
+        "japan-flag-flat-heart-128.png",
+        "japan-flag-flat-heart-512.png",
+        "japan-flag-flat-heart-64.png"
+      ],
+      "ke": [
+        "kenya-flag-flat-heart-128.png",
+        "kenya-flag-flat-heart-512.png",
+        "kenya-flag-flat-heart-64.png"
+      ],
+      "kg": [
+        "kyrgyzstan-flag-flat-heart-128.png",
+        "kyrgyzstan-flag-flat-heart-512.png",
+        "kyrgyzstan-flag-flat-heart-64.png"
+      ],
+      "kh": [
+        "cambodia-flag-flat-heart-128.png",
+        "cambodia-flag-flat-heart-512.png",
+        "cambodia-flag-flat-heart-64.png"
+      ],
+      "ki": [
+        "kiribati-flag-flat-heart-128.png",
+        "kiribati-flag-flat-heart-512.png",
+        "kiribati-flag-flat-heart-64.png"
+      ],
+      "km": [
+        "comoros-flag-flat-heart-128.png",
+        "comoros-flag-flat-heart-512.png",
+        "comoros-flag-flat-heart-64.png"
+      ],
+      "kn": [
+        "saint-kitts-and-nevis-flag-flat-heart-128.png",
+        "saint-kitts-and-nevis-flag-flat-heart-512.png",
+        "saint-kitts-and-nevis-flag-flat-heart-64.png"
+      ],
+      "kp": [
+        "north-korea-flag-flat-heart-128.png",
+        "north-korea-flag-flat-heart-512.png",
+        "north-korea-flag-flat-heart-64.png"
+      ],
+      "kr": [
+        "south-korea-flag-flat-heart-128.png",
+        "south-korea-flag-flat-heart-512.png",
+        "south-korea-flag-flat-heart-64.png"
+      ],
+      "kw": [
+        "kuwait-flag-flat-heart-128.png",
+        "kuwait-flag-flat-heart-512.png",
+        "kuwait-flag-flat-heart-64.png"
+      ],
+      "kz": [
+        "kazakhstan-flag-flat-heart-128.png",
+        "kazakhstan-flag-flat-heart-512.png",
+        "kazakhstan-flag-flat-heart-64.png"
+      ],
+      "la": [
+        "laos-flag-flat-heart-128.png",
+        "laos-flag-flat-heart-512.png",
+        "laos-flag-flat-heart-64.png"
+      ],
+      "lb": [
+        "lebanon-flag-flat-heart-128.png",
+        "lebanon-flag-flat-heart-512.png",
+        "lebanon-flag-flat-heart-64.png"
+      ],
+      "lc": [
+        "saint-lucia-flag-flat-heart-128.png",
+        "saint-lucia-flag-flat-heart-512.png",
+        "saint-lucia-flag-flat-heart-64.png"
+      ],
+      "li": [
+        "liechtenstein-flag-flat-heart-128.png",
+        "liechtenstein-flag-flat-heart-512.png",
+        "liechtenstein-flag-flat-heart-64.png"
+      ],
+      "lk": [
+        "sri-lanka-flag-flat-heart-128.png",
+        "sri-lanka-flag-flat-heart-512.png",
+        "sri-lanka-flag-flat-heart-64.png"
+      ],
+      "lr": [
+        "liberia-flag-flat-heart-128.png",
+        "liberia-flag-flat-heart-512.png",
+        "liberia-flag-flat-heart-64.png"
+      ],
+      "ls": [
+        "lesotho-flag-flat-heart-128.png",
+        "lesotho-flag-flat-heart-512.png",
+        "lesotho-flag-flat-heart-64.png"
+      ],
+      "lt": [
+        "lithuania-flag-flat-heart-128.png",
+        "lithuania-flag-flat-heart-512.png",
+        "lithuania-flag-flat-heart-64.png"
+      ],
+      "lu": [
+        "luxembourg-flag-flat-heart-128.png",
+        "luxembourg-flag-flat-heart-512.png",
+        "luxembourg-flag-flat-heart-64.png"
+      ],
+      "lv": [
+        "latvia-flag-flat-heart-128.png",
+        "latvia-flag-flat-heart-512.png",
+        "latvia-flag-flat-heart-64.png"
+      ],
+      "ly": [
+        "libya-flag-flat-heart-128.png",
+        "libya-flag-flat-heart-512.png",
+        "libya-flag-flat-heart-64.png"
+      ],
+      "ma": [
+        "morocco-flag-flat-heart-128.png",
+        "morocco-flag-flat-heart-512.png",
+        "morocco-flag-flat-heart-64.png"
+      ],
+      "mc": [
+        "monaco-flag-flat-heart-128.png",
+        "monaco-flag-flat-heart-512.png",
+        "monaco-flag-flat-heart-64.png"
+      ],
+      "md": [
+        "moldova-flag-flat-heart-128.png",
+        "moldova-flag-flat-heart-512.png",
+        "moldova-flag-flat-heart-64.png"
+      ],
+      "me": [
+        "montenegro-flag-flat-heart-128.png",
+        "montenegro-flag-flat-heart-512.png",
+        "montenegro-flag-flat-heart-64.png"
+      ],
+      "mg": [
+        "madagascar-flag-flat-heart-128.png",
+        "madagascar-flag-flat-heart-512.png",
+        "madagascar-flag-flat-heart-64.png"
+      ],
+      "mh": [
+        "marshall-islands-flag-flat-heart-128.png",
+        "marshall-islands-flag-flat-heart-512.png",
+        "marshall-islands-flag-flat-heart-64.png"
+      ],
+      "mk": [
+        "north-macedonia-flag-flat-heart-128.png",
+        "north-macedonia-flag-flat-heart-512.png",
+        "north-macedonia-flag-flat-heart-64.png"
+      ],
+      "ml": [
+        "mali-flag-flat-heart-128.png",
+        "mali-flag-flat-heart-512.png",
+        "mali-flag-flat-heart-64.png"
+      ],
+      "mm": [
+        "myanmar-flag-flat-heart-128.png",
+        "myanmar-flag-flat-heart-512.png",
+        "myanmar-flag-flat-heart-64.png"
+      ],
+      "mn": [
+        "mongolia-flag-flat-heart-128.png",
+        "mongolia-flag-flat-heart-512.png",
+        "mongolia-flag-flat-heart-64.png"
+      ],
+      "mr": [
+        "mauritania-flag-flat-heart-128.png",
+        "mauritania-flag-flat-heart-512.png",
+        "mauritania-flag-flat-heart-64.png"
+      ],
+      "mt": [
+        "malta-flag-flat-heart-128.png",
+        "malta-flag-flat-heart-512.png",
+        "malta-flag-flat-heart-64.png"
+      ],
+      "mu": [
+        "mauritius-flag-flat-heart-128.png",
+        "mauritius-flag-flat-heart-512.png",
+        "mauritius-flag-flat-heart-64.png"
+      ],
+      "mv": [
+        "maldives-flag-flat-heart-128.png",
+        "maldives-flag-flat-heart-512.png",
+        "maldives-flag-flat-heart-64.png"
+      ],
+      "mw": [
+        "malawi-flag-flat-heart-128.png",
+        "malawi-flag-flat-heart-512.png",
+        "malawi-flag-flat-heart-64.png"
+      ],
+      "mx": [
+        "mexico-flag-flat-heart-128.png",
+        "mexico-flag-flat-heart-512.png",
+        "mexico-flag-flat-heart-64.png"
+      ],
+      "my": [
+        "malaysia-flag-flat-heart-128.png",
+        "malaysia-flag-flat-heart-512.png",
+        "malaysia-flag-flat-heart-64.png"
+      ],
+      "mz": [
+        "mozambique-flag-flat-heart-128.png",
+        "mozambique-flag-flat-heart-512.png",
+        "mozambique-flag-flat-heart-64.png"
+      ],
+      "na": [
+        "namibia-flag-flat-heart-128.png",
+        "namibia-flag-flat-heart-512.png",
+        "namibia-flag-flat-heart-64.png"
+      ],
+      "ne": [
+        "niger-flag-flat-heart-128.png",
+        "niger-flag-flat-heart-512.png",
+        "niger-flag-flat-heart-64.png"
+      ],
+      "ng": [
+        "nigeria-flag-flat-heart-128.png",
+        "nigeria-flag-flat-heart-512.png",
+        "nigeria-flag-flat-heart-64.png"
+      ],
+      "ni": [
+        "nicaragua-flag-flat-heart-128.png",
+        "nicaragua-flag-flat-heart-512.png",
+        "nicaragua-flag-flat-heart-64.png"
+      ],
+      "nl": [
+        "netherlands-flag-flat-heart-128.png",
+        "netherlands-flag-flat-heart-512.png",
+        "netherlands-flag-flat-heart-64.png"
+      ],
+      "no": [
+        "norway-flag-flat-heart-128.png",
+        "norway-flag-flat-heart-512.png",
+        "norway-flag-flat-heart-64.png"
+      ],
+      "np": [
+        "nepal-flag-flat-heart-128.png",
+        "nepal-flag-flat-heart-512.png",
+        "nepal-flag-flat-heart-64.png"
+      ],
+      "nr": [
+        "nauru-flag-flat-heart-128.png",
+        "nauru-flag-flat-heart-512.png",
+        "nauru-flag-flat-heart-64.png"
+      ],
+      "nz": [
+        "new-zealand-flag-flat-heart-128.png",
+        "new-zealand-flag-flat-heart-512.png",
+        "new-zealand-flag-flat-heart-64.png"
+      ],
+      "om": [
+        "oman-flag-flat-heart-128.png",
+        "oman-flag-flat-heart-512.png",
+        "oman-flag-flat-heart-64.png"
+      ],
+      "pa": [
+        "panama-flag-flat-heart-128.png",
+        "panama-flag-flat-heart-512.png",
+        "panama-flag-flat-heart-64.png"
+      ],
+      "pe": [
+        "peru-flag-flat-heart-128.png",
+        "peru-flag-flat-heart-512.png",
+        "peru-flag-flat-heart-64.png"
+      ],
+      "pg": [
+        "papua-new-guinea-flag-flat-heart-128.png",
+        "papua-new-guinea-flag-flat-heart-512.png",
+        "papua-new-guinea-flag-flat-heart-64.png"
+      ],
+      "ph": [
+        "philippines-flag-flat-heart-128.png",
+        "philippines-flag-flat-heart-512.png",
+        "philippines-flag-flat-heart-64.png"
+      ],
+      "pk": [
+        "pakistan-flag-flat-heart-128.png",
+        "pakistan-flag-flat-heart-512.png",
+        "pakistan-flag-flat-heart-64.png"
+      ],
+      "pl": [
+        "poland-flag-flat-heart-128.png",
+        "poland-flag-flat-heart-512.png",
+        "poland-flag-flat-heart-64.png"
+      ],
+      "pt": [
+        "portugal-flag-flat-heart-128.png",
+        "portugal-flag-flat-heart-512.png",
+        "portugal-flag-flat-heart-64.png"
+      ],
+      "pw": [
+        "palau-flag-flat-heart-128.png",
+        "palau-flag-flat-heart-512.png",
+        "palau-flag-flat-heart-64.png"
+      ],
+      "py": [
+        "paraguay-flag-flat-heart-128.png",
+        "paraguay-flag-flat-heart-512.png",
+        "paraguay-flag-flat-heart-64.png"
+      ],
+      "qa": [
+        "qatar-flag-flat-heart-128.png",
+        "qatar-flag-flat-heart-512.png",
+        "qatar-flag-flat-heart-64.png"
+      ],
+      "ro": [
+        "romania-flag-flat-heart-128.png",
+        "romania-flag-flat-heart-512.png",
+        "romania-flag-flat-heart-64.png"
+      ],
+      "rs": [
+        "serbia-flag-flat-heart-128.png",
+        "serbia-flag-flat-heart-512.png",
+        "serbia-flag-flat-heart-64.png"
+      ],
+      "ru": [
+        "russia-flag-flat-heart-128.png",
+        "russia-flag-flat-heart-512.png",
+        "russia-flag-flat-heart-64.png"
+      ],
+      "rw": [
+        "rwanda-flag-flat-heart-128.png",
+        "rwanda-flag-flat-heart-512.png",
+        "rwanda-flag-flat-heart-64.png"
+      ],
+      "sa": [
+        "saudi-arabia-flag-flat-heart-128.png",
+        "saudi-arabia-flag-flat-heart-512.png",
+        "saudi-arabia-flag-flat-heart-64.png"
+      ],
+      "sb": [
+        "solomon-islands-flag-flat-heart-128.png",
+        "solomon-islands-flag-flat-heart-512.png",
+        "solomon-islands-flag-flat-heart-64.png"
+      ],
+      "sc": [
+        "seychelles-flag-flat-heart-128.png",
+        "seychelles-flag-flat-heart-512.png",
+        "seychelles-flag-flat-heart-64.png"
+      ],
+      "sd": [
+        "sudan-flag-flat-heart-128.png",
+        "sudan-flag-flat-heart-512.png",
+        "sudan-flag-flat-heart-64.png"
+      ],
+      "se": [
+        "sweden-flag-flat-heart-128.png",
+        "sweden-flag-flat-heart-512.png",
+        "sweden-flag-flat-heart-64.png"
+      ],
+      "sg": [
+        "singapore-flag-flat-heart-128.png",
+        "singapore-flag-flat-heart-512.png",
+        "singapore-flag-flat-heart-64.png"
+      ],
+      "si": [
+        "slovenia-flag-flat-heart-128.png",
+        "slovenia-flag-flat-heart-512.png",
+        "slovenia-flag-flat-heart-64.png"
+      ],
+      "sk": [
+        "slovakia-flag-flat-heart-128.png",
+        "slovakia-flag-flat-heart-512.png",
+        "slovakia-flag-flat-heart-64.png"
+      ],
+      "sl": [
+        "sierra-leone-flag-flat-heart-128.png",
+        "sierra-leone-flag-flat-heart-512.png",
+        "sierra-leone-flag-flat-heart-64.png"
+      ],
+      "sm": [
+        "san-marino-flag-flat-heart-128.png",
+        "san-marino-flag-flat-heart-512.png",
+        "san-marino-flag-flat-heart-64.png"
+      ],
+      "sn": [
+        "senegal-flag-flat-heart-128.png",
+        "senegal-flag-flat-heart-512.png",
+        "senegal-flag-flat-heart-64.png"
+      ],
+      "so": [
+        "somalia-flag-flat-heart-128.png",
+        "somalia-flag-flat-heart-512.png",
+        "somalia-flag-flat-heart-64.png"
+      ],
+      "sr": [
+        "suriname-flag-flat-heart-128.png",
+        "suriname-flag-flat-heart-512.png",
+        "suriname-flag-flat-heart-64.png"
+      ],
+      "ss": [
+        "south-sudan-flag-flat-heart-128.png",
+        "south-sudan-flag-flat-heart-512.png",
+        "south-sudan-flag-flat-heart-64.png"
+      ],
+      "st": [
+        "s-o-tom-and-pr-ncipe-flag-flat-heart-128.png",
+        "s-o-tom-and-pr-ncipe-flag-flat-heart-512.png",
+        "s-o-tom-and-pr-ncipe-flag-flat-heart-64.png"
+      ],
+      "sv": [
+        "el-salvador-flag-flat-heart-128.png",
+        "el-salvador-flag-flat-heart-512.png",
+        "el-salvador-flag-flat-heart-64.png"
+      ],
+      "sy": [
+        "syria-flag-flat-heart-128.png",
+        "syria-flag-flat-heart-512.png",
+        "syria-flag-flat-heart-64.png"
+      ],
+      "sz": [
+        "eswatini-flag-flat-heart-128.png",
+        "eswatini-flag-flat-heart-512.png",
+        "eswatini-flag-flat-heart-64.png"
+      ],
+      "td": [
+        "chad-flag-flat-heart-128.png",
+        "chad-flag-flat-heart-512.png",
+        "chad-flag-flat-heart-64.png"
+      ],
+      "tg": [
+        "togo-flag-flat-heart-128.png",
+        "togo-flag-flat-heart-512.png",
+        "togo-flag-flat-heart-64.png"
+      ],
+      "th": [
+        "thailand-flag-flat-heart-128.png",
+        "thailand-flag-flat-heart-512.png",
+        "thailand-flag-flat-heart-64.png"
+      ],
+      "tj": [
+        "tajikistan-flag-flat-heart-128.png",
+        "tajikistan-flag-flat-heart-512.png",
+        "tajikistan-flag-flat-heart-64.png"
+      ],
+      "tl": [
+        "timor-leste-flag-flat-heart-128.png",
+        "timor-leste-flag-flat-heart-512.png",
+        "timor-leste-flag-flat-heart-64.png"
+      ],
+      "tm": [
+        "turkmenistan-flag-flat-heart-128.png",
+        "turkmenistan-flag-flat-heart-512.png",
+        "turkmenistan-flag-flat-heart-64.png"
+      ],
+      "tn": [
+        "tunisia-flag-flat-heart-128.png",
+        "tunisia-flag-flat-heart-512.png",
+        "tunisia-flag-flat-heart-64.png"
+      ],
+      "to": [
+        "tonga-flag-flat-heart-128.png",
+        "tonga-flag-flat-heart-512.png",
+        "tonga-flag-flat-heart-64.png"
+      ],
+      "tr": [
+        "turkey-flag-flat-heart-128.png",
+        "turkey-flag-flat-heart-512.png",
+        "turkey-flag-flat-heart-64.png"
+      ],
+      "tt": [
+        "trinidad-and-tobago-flag-flat-heart-128.png",
+        "trinidad-and-tobago-flag-flat-heart-512.png",
+        "trinidad-and-tobago-flag-flat-heart-64.png"
+      ],
+      "tv": [
+        "tuvalu-flag-flat-heart-128.png",
+        "tuvalu-flag-flat-heart-512.png",
+        "tuvalu-flag-flat-heart-64.png"
+      ],
+      "tz": [
+        "tanzania-flag-flat-heart-128.png",
+        "tanzania-flag-flat-heart-512.png",
+        "tanzania-flag-flat-heart-64.png"
+      ],
+      "ua": [
+        "ukraine-flag-flat-heart-128.png",
+        "ukraine-flag-flat-heart-512.png",
+        "ukraine-flag-flat-heart-64.png"
+      ],
+      "ug": [
+        "uganda-flag-flat-heart-128.png",
+        "uganda-flag-flat-heart-512.png",
+        "uganda-flag-flat-heart-64.png"
+      ],
+      "us": [
+        "united-states-flag-flat-heart-128.png",
+        "united-states-flag-flat-heart-512.png",
+        "united-states-flag-flat-heart-64.png"
+      ],
+      "uy": [
+        "uruguay-flag-flat-heart-128.png",
+        "uruguay-flag-flat-heart-512.png",
+        "uruguay-flag-flat-heart-64.png"
+      ],
+      "uz": [
+        "uzbekistan-flag-flat-heart-128.png",
+        "uzbekistan-flag-flat-heart-512.png",
+        "uzbekistan-flag-flat-heart-64.png"
+      ],
+      "va": [
+        "vatican-city-flag-flat-heart-128.png",
+        "vatican-city-flag-flat-heart-512.png",
+        "vatican-city-flag-flat-heart-64.png"
+      ],
+      "vc": [
+        "saint-vincent-and-the-grenadines-flag-flat-heart-128.png",
+        "saint-vincent-and-the-grenadines-flag-flat-heart-512.png",
+        "saint-vincent-and-the-grenadines-flag-flat-heart-64.png"
+      ],
+      "ve": [
+        "venezuela-flag-flat-heart-128.png",
+        "venezuela-flag-flat-heart-512.png",
+        "venezuela-flag-flat-heart-64.png"
+      ],
+      "vn": [
+        "vietnam-flag-flat-heart-128.png",
+        "vietnam-flag-flat-heart-512.png",
+        "vietnam-flag-flat-heart-64.png"
+      ],
+      "vu": [
+        "vanuatu-flag-flat-heart-128.png",
+        "vanuatu-flag-flat-heart-512.png",
+        "vanuatu-flag-flat-heart-64.png"
+      ],
+      "ws": [
+        "samoa-flag-flat-heart-128.png",
+        "samoa-flag-flat-heart-512.png",
+        "samoa-flag-flat-heart-64.png"
+      ],
+      "xk": [
+        "kosovo-flag-flat-heart-128.png",
+        "kosovo-flag-flat-heart-512.png",
+        "kosovo-flag-flat-heart-64.png"
+      ],
+      "ye": [
+        "yemen-flag-flat-heart-128.png",
+        "yemen-flag-flat-heart-512.png",
+        "yemen-flag-flat-heart-64.png"
+      ],
+      "za": [
+        "south-africa-flag-flat-heart-128.png",
+        "south-africa-flag-flat-heart-512.png",
+        "south-africa-flag-flat-heart-64.png"
+      ],
+      "zm": [
+        "zambia-flag-flat-heart-128.png",
+        "zambia-flag-flat-heart-512.png",
+        "zambia-flag-flat-heart-64.png"
+      ],
+      "zw": [
+        "zimbabwe-flag-flat-heart-128.png",
+        "zimbabwe-flag-flat-heart-512.png",
+        "zimbabwe-flag-flat-heart-64.png"
+      ]
+    },
+    "heart-badge": {
+      "ad": [
+        "andorra-flag-heart-badge-128.png",
+        "andorra-flag-heart-badge-512.png",
+        "andorra-flag-heart-badge-64.png"
+      ],
+      "ae": [
+        "united-arab-emirates-flag-heart-badge-128.png",
+        "united-arab-emirates-flag-heart-badge-512.png",
+        "united-arab-emirates-flag-heart-badge-64.png"
+      ],
+      "af": [
+        "afghanistan-flag-heart-badge-128.png",
+        "afghanistan-flag-heart-badge-512.png",
+        "afghanistan-flag-heart-badge-64.png"
+      ],
+      "ag": [
+        "antigua-and-barbuda-flag-heart-badge-128.png",
+        "antigua-and-barbuda-flag-heart-badge-512.png",
+        "antigua-and-barbuda-flag-heart-badge-64.png"
+      ],
+      "al": [
+        "albania-flag-heart-badge-128.png",
+        "albania-flag-heart-badge-512.png",
+        "albania-flag-heart-badge-64.png"
+      ],
+      "am": [
+        "armenia-flag-heart-badge-128.png",
+        "armenia-flag-heart-badge-512.png",
+        "armenia-flag-heart-badge-64.png"
+      ],
+      "ao": [
+        "angola-flag-heart-badge-128.png",
+        "angola-flag-heart-badge-512.png",
+        "angola-flag-heart-badge-64.png"
+      ],
+      "ar": [
+        "argentina-flag-heart-badge-128.png",
+        "argentina-flag-heart-badge-512.png",
+        "argentina-flag-heart-badge-64.png"
+      ],
+      "at": [
+        "austria-flag-heart-badge-128.png",
+        "austria-flag-heart-badge-512.png",
+        "austria-flag-heart-badge-64.png"
+      ],
+      "au": [
+        "australia-flag-heart-badge-128.png",
+        "australia-flag-heart-badge-512.png",
+        "australia-flag-heart-badge-64.png"
+      ],
+      "az": [
+        "azerbaijan-flag-heart-badge-128.png",
+        "azerbaijan-flag-heart-badge-512.png",
+        "azerbaijan-flag-heart-badge-64.png"
+      ],
+      "ba": [
+        "bosnia-and-herzegovina-flag-heart-badge-128.png",
+        "bosnia-and-herzegovina-flag-heart-badge-512.png",
+        "bosnia-and-herzegovina-flag-heart-badge-64.png"
+      ],
+      "bb": [
+        "barbados-flag-heart-badge-128.png",
+        "barbados-flag-heart-badge-512.png",
+        "barbados-flag-heart-badge-64.png"
+      ],
+      "bd": [
+        "bangladesh-flag-heart-badge-128.png",
+        "bangladesh-flag-heart-badge-512.png",
+        "bangladesh-flag-heart-badge-64.png"
+      ],
+      "be": [
+        "belgium-flag-heart-badge-128.png",
+        "belgium-flag-heart-badge-512.png",
+        "belgium-flag-heart-badge-64.png"
+      ],
+      "bf": [
+        "burkina-faso-flag-heart-badge-128.png",
+        "burkina-faso-flag-heart-badge-512.png",
+        "burkina-faso-flag-heart-badge-64.png"
+      ],
+      "bg": [
+        "bulgaria-flag-heart-badge-128.png",
+        "bulgaria-flag-heart-badge-512.png",
+        "bulgaria-flag-heart-badge-64.png"
+      ],
+      "bh": [
+        "bahrain-flag-heart-badge-128.png",
+        "bahrain-flag-heart-badge-512.png",
+        "bahrain-flag-heart-badge-64.png"
+      ],
+      "bi": [
+        "burundi-flag-heart-badge-128.png",
+        "burundi-flag-heart-badge-512.png",
+        "burundi-flag-heart-badge-64.png"
+      ],
+      "bj": [
+        "benin-flag-heart-badge-128.png",
+        "benin-flag-heart-badge-512.png",
+        "benin-flag-heart-badge-64.png"
+      ],
+      "bn": [
+        "brunei-flag-heart-badge-128.png",
+        "brunei-flag-heart-badge-512.png",
+        "brunei-flag-heart-badge-64.png"
+      ],
+      "bo": [
+        "bolivia-flag-heart-badge-128.png",
+        "bolivia-flag-heart-badge-512.png",
+        "bolivia-flag-heart-badge-64.png"
+      ],
+      "br": [
+        "brazil-flag-heart-badge-128.png",
+        "brazil-flag-heart-badge-512.png",
+        "brazil-flag-heart-badge-64.png"
+      ],
+      "bs": [
+        "bahamas-flag-heart-badge-128.png",
+        "bahamas-flag-heart-badge-512.png",
+        "bahamas-flag-heart-badge-64.png"
+      ],
+      "bt": [
+        "bhutan-flag-heart-badge-128.png",
+        "bhutan-flag-heart-badge-512.png",
+        "bhutan-flag-heart-badge-64.png"
+      ],
+      "bw": [
+        "botswana-flag-heart-badge-128.png",
+        "botswana-flag-heart-badge-512.png",
+        "botswana-flag-heart-badge-64.png"
+      ],
+      "by": [
+        "belarus-flag-heart-badge-128.png",
+        "belarus-flag-heart-badge-512.png",
+        "belarus-flag-heart-badge-64.png"
+      ],
+      "bz": [
+        "belize-flag-heart-badge-128.png",
+        "belize-flag-heart-badge-512.png",
+        "belize-flag-heart-badge-64.png"
+      ],
+      "ca": [
+        "canada-flag-heart-badge-128.png",
+        "canada-flag-heart-badge-512.png",
+        "canada-flag-heart-badge-64.png"
+      ],
+      "cd": [
+        "dr-congo-flag-heart-badge-128.png",
+        "dr-congo-flag-heart-badge-512.png",
+        "dr-congo-flag-heart-badge-64.png"
+      ],
+      "cf": [
+        "central-african-republic-flag-heart-badge-128.png",
+        "central-african-republic-flag-heart-badge-512.png",
+        "central-african-republic-flag-heart-badge-64.png"
+      ],
+      "cg": [
+        "republic-of-the-congo-flag-heart-badge-128.png",
+        "republic-of-the-congo-flag-heart-badge-512.png",
+        "republic-of-the-congo-flag-heart-badge-64.png"
+      ],
+      "ch": [
+        "switzerland-flag-heart-badge-128.png",
+        "switzerland-flag-heart-badge-512.png",
+        "switzerland-flag-heart-badge-64.png"
+      ],
+      "ci": [
+        "ivory-coast-flag-heart-badge-128.png",
+        "ivory-coast-flag-heart-badge-512.png",
+        "ivory-coast-flag-heart-badge-64.png"
+      ],
+      "cl": [
+        "chile-flag-heart-badge-128.png",
+        "chile-flag-heart-badge-512.png",
+        "chile-flag-heart-badge-64.png"
+      ],
+      "cm": [
+        "cameroon-flag-heart-badge-128.png",
+        "cameroon-flag-heart-badge-512.png",
+        "cameroon-flag-heart-badge-64.png"
+      ],
+      "cn": [
+        "china-flag-heart-badge-128.png",
+        "china-flag-heart-badge-512.png",
+        "china-flag-heart-badge-64.png"
+      ],
+      "co": [
+        "colombia-flag-heart-badge-128.png",
+        "colombia-flag-heart-badge-512.png",
+        "colombia-flag-heart-badge-64.png"
+      ],
+      "cr": [
+        "costa-rica-flag-heart-badge-128.png",
+        "costa-rica-flag-heart-badge-512.png",
+        "costa-rica-flag-heart-badge-64.png"
+      ],
+      "cu": [
+        "cuba-flag-heart-badge-128.png",
+        "cuba-flag-heart-badge-512.png",
+        "cuba-flag-heart-badge-64.png"
+      ],
+      "cv": [
+        "cape-verde-flag-heart-badge-128.png",
+        "cape-verde-flag-heart-badge-512.png",
+        "cape-verde-flag-heart-badge-64.png"
+      ],
+      "cy": [
+        "cyprus-flag-heart-badge-128.png",
+        "cyprus-flag-heart-badge-512.png",
+        "cyprus-flag-heart-badge-64.png"
+      ],
+      "cz": [
+        "czechia-flag-heart-badge-128.png",
+        "czechia-flag-heart-badge-512.png",
+        "czechia-flag-heart-badge-64.png"
+      ],
+      "de": [
+        "germany-flag-heart-badge-128.png",
+        "germany-flag-heart-badge-512.png",
+        "germany-flag-heart-badge-64.png"
+      ],
+      "dj": [
+        "djibouti-flag-heart-badge-128.png",
+        "djibouti-flag-heart-badge-512.png",
+        "djibouti-flag-heart-badge-64.png"
+      ],
+      "dk": [
+        "denmark-flag-heart-badge-128.png",
+        "denmark-flag-heart-badge-512.png",
+        "denmark-flag-heart-badge-64.png"
+      ],
+      "dm": [
+        "dominica-flag-heart-badge-128.png",
+        "dominica-flag-heart-badge-512.png",
+        "dominica-flag-heart-badge-64.png"
+      ],
+      "do": [
+        "dominican-republic-flag-heart-badge-128.png",
+        "dominican-republic-flag-heart-badge-512.png",
+        "dominican-republic-flag-heart-badge-64.png"
+      ],
+      "dz": [
+        "algeria-flag-heart-badge-128.png",
+        "algeria-flag-heart-badge-512.png",
+        "algeria-flag-heart-badge-64.png"
+      ],
+      "ec": [
+        "ecuador-flag-heart-badge-128.png",
+        "ecuador-flag-heart-badge-512.png",
+        "ecuador-flag-heart-badge-64.png"
+      ],
+      "ee": [
+        "estonia-flag-heart-badge-128.png",
+        "estonia-flag-heart-badge-512.png",
+        "estonia-flag-heart-badge-64.png"
+      ],
+      "eg": [
+        "egypt-flag-heart-badge-128.png",
+        "egypt-flag-heart-badge-512.png",
+        "egypt-flag-heart-badge-64.png"
+      ],
+      "er": [
+        "eritrea-flag-heart-badge-128.png",
+        "eritrea-flag-heart-badge-512.png",
+        "eritrea-flag-heart-badge-64.png"
+      ],
+      "es": [
+        "spain-flag-heart-badge-128.png",
+        "spain-flag-heart-badge-512.png",
+        "spain-flag-heart-badge-64.png"
+      ],
+      "et": [
+        "ethiopia-flag-heart-badge-128.png",
+        "ethiopia-flag-heart-badge-512.png",
+        "ethiopia-flag-heart-badge-64.png"
+      ],
+      "fi": [
+        "finland-flag-heart-badge-128.png",
+        "finland-flag-heart-badge-512.png",
+        "finland-flag-heart-badge-64.png"
+      ],
+      "fj": [
+        "fiji-flag-heart-badge-128.png",
+        "fiji-flag-heart-badge-512.png",
+        "fiji-flag-heart-badge-64.png"
+      ],
+      "fm": [
+        "micronesia-flag-heart-badge-128.png",
+        "micronesia-flag-heart-badge-512.png",
+        "micronesia-flag-heart-badge-64.png"
+      ],
+      "fr": [
+        "france-flag-heart-badge-128.png",
+        "france-flag-heart-badge-512.png",
+        "france-flag-heart-badge-64.png"
+      ],
+      "ga": [
+        "gabon-flag-heart-badge-128.png",
+        "gabon-flag-heart-badge-512.png",
+        "gabon-flag-heart-badge-64.png"
+      ],
+      "gb": [
+        "united-kingdom-flag-heart-badge-128.png",
+        "united-kingdom-flag-heart-badge-512.png",
+        "united-kingdom-flag-heart-badge-64.png"
+      ],
+      "gd": [
+        "grenada-flag-heart-badge-128.png",
+        "grenada-flag-heart-badge-512.png",
+        "grenada-flag-heart-badge-64.png"
+      ],
+      "ge": [
+        "georgia-flag-heart-badge-128.png",
+        "georgia-flag-heart-badge-512.png",
+        "georgia-flag-heart-badge-64.png"
+      ],
+      "gh": [
+        "ghana-flag-heart-badge-128.png",
+        "ghana-flag-heart-badge-512.png",
+        "ghana-flag-heart-badge-64.png"
+      ],
+      "gm": [
+        "gambia-flag-heart-badge-128.png",
+        "gambia-flag-heart-badge-512.png",
+        "gambia-flag-heart-badge-64.png"
+      ],
+      "gn": [
+        "guinea-flag-heart-badge-128.png",
+        "guinea-flag-heart-badge-512.png",
+        "guinea-flag-heart-badge-64.png"
+      ],
+      "gq": [
+        "equatorial-guinea-flag-heart-badge-128.png",
+        "equatorial-guinea-flag-heart-badge-512.png",
+        "equatorial-guinea-flag-heart-badge-64.png"
+      ],
+      "gr": [
+        "greece-flag-heart-badge-128.png",
+        "greece-flag-heart-badge-512.png",
+        "greece-flag-heart-badge-64.png"
+      ],
+      "gt": [
+        "guatemala-flag-heart-badge-128.png",
+        "guatemala-flag-heart-badge-512.png",
+        "guatemala-flag-heart-badge-64.png"
+      ],
+      "gw": [
+        "guinea-bissau-flag-heart-badge-128.png",
+        "guinea-bissau-flag-heart-badge-512.png",
+        "guinea-bissau-flag-heart-badge-64.png"
+      ],
+      "gy": [
+        "guyana-flag-heart-badge-128.png",
+        "guyana-flag-heart-badge-512.png",
+        "guyana-flag-heart-badge-64.png"
+      ],
+      "hn": [
+        "honduras-flag-heart-badge-128.png",
+        "honduras-flag-heart-badge-512.png",
+        "honduras-flag-heart-badge-64.png"
+      ],
+      "hr": [
+        "croatia-flag-heart-badge-128.png",
+        "croatia-flag-heart-badge-512.png",
+        "croatia-flag-heart-badge-64.png"
+      ],
+      "ht": [
+        "haiti-flag-heart-badge-128.png",
+        "haiti-flag-heart-badge-512.png",
+        "haiti-flag-heart-badge-64.png"
+      ],
+      "hu": [
+        "hungary-flag-heart-badge-128.png",
+        "hungary-flag-heart-badge-512.png",
+        "hungary-flag-heart-badge-64.png"
+      ],
+      "id": [
+        "indonesia-flag-heart-badge-128.png",
+        "indonesia-flag-heart-badge-512.png",
+        "indonesia-flag-heart-badge-64.png"
+      ],
+      "ie": [
+        "ireland-flag-heart-badge-128.png",
+        "ireland-flag-heart-badge-512.png",
+        "ireland-flag-heart-badge-64.png"
+      ],
+      "il": [
+        "israel-flag-heart-badge-128.png",
+        "israel-flag-heart-badge-512.png",
+        "israel-flag-heart-badge-64.png"
+      ],
+      "in": [
+        "india-flag-heart-badge-128.png",
+        "india-flag-heart-badge-512.png",
+        "india-flag-heart-badge-64.png"
+      ],
+      "iq": [
+        "iraq-flag-heart-badge-128.png",
+        "iraq-flag-heart-badge-512.png",
+        "iraq-flag-heart-badge-64.png"
+      ],
+      "ir": [
+        "iran-flag-heart-badge-128.png",
+        "iran-flag-heart-badge-512.png",
+        "iran-flag-heart-badge-64.png"
+      ],
+      "is": [
+        "iceland-flag-heart-badge-128.png",
+        "iceland-flag-heart-badge-512.png",
+        "iceland-flag-heart-badge-64.png"
+      ],
+      "it": [
+        "italy-flag-heart-badge-128.png",
+        "italy-flag-heart-badge-512.png",
+        "italy-flag-heart-badge-64.png"
+      ],
+      "jm": [
+        "jamaica-flag-heart-badge-128.png",
+        "jamaica-flag-heart-badge-512.png",
+        "jamaica-flag-heart-badge-64.png"
+      ],
+      "jo": [
+        "jordan-flag-heart-badge-128.png",
+        "jordan-flag-heart-badge-512.png",
+        "jordan-flag-heart-badge-64.png"
+      ],
+      "jp": [
+        "japan-flag-heart-badge-128.png",
+        "japan-flag-heart-badge-512.png",
+        "japan-flag-heart-badge-64.png"
+      ],
+      "ke": [
+        "kenya-flag-heart-badge-128.png",
+        "kenya-flag-heart-badge-512.png",
+        "kenya-flag-heart-badge-64.png"
+      ],
+      "kg": [
+        "kyrgyzstan-flag-heart-badge-128.png",
+        "kyrgyzstan-flag-heart-badge-512.png",
+        "kyrgyzstan-flag-heart-badge-64.png"
+      ],
+      "kh": [
+        "cambodia-flag-heart-badge-128.png",
+        "cambodia-flag-heart-badge-512.png",
+        "cambodia-flag-heart-badge-64.png"
+      ],
+      "ki": [
+        "kiribati-flag-heart-badge-128.png",
+        "kiribati-flag-heart-badge-512.png",
+        "kiribati-flag-heart-badge-64.png"
+      ],
+      "km": [
+        "comoros-flag-heart-badge-128.png",
+        "comoros-flag-heart-badge-512.png",
+        "comoros-flag-heart-badge-64.png"
+      ],
+      "kn": [
+        "saint-kitts-and-nevis-flag-heart-badge-128.png",
+        "saint-kitts-and-nevis-flag-heart-badge-512.png",
+        "saint-kitts-and-nevis-flag-heart-badge-64.png"
+      ],
+      "kp": [
+        "north-korea-flag-heart-badge-128.png",
+        "north-korea-flag-heart-badge-512.png",
+        "north-korea-flag-heart-badge-64.png"
+      ],
+      "kr": [
+        "south-korea-flag-heart-badge-128.png",
+        "south-korea-flag-heart-badge-512.png",
+        "south-korea-flag-heart-badge-64.png"
+      ],
+      "kw": [
+        "kuwait-flag-heart-badge-128.png",
+        "kuwait-flag-heart-badge-512.png",
+        "kuwait-flag-heart-badge-64.png"
+      ],
+      "kz": [
+        "kazakhstan-flag-heart-badge-128.png",
+        "kazakhstan-flag-heart-badge-512.png",
+        "kazakhstan-flag-heart-badge-64.png"
+      ],
+      "la": [
+        "laos-flag-heart-badge-128.png",
+        "laos-flag-heart-badge-512.png",
+        "laos-flag-heart-badge-64.png"
+      ],
+      "lb": [
+        "lebanon-flag-heart-badge-128.png",
+        "lebanon-flag-heart-badge-512.png",
+        "lebanon-flag-heart-badge-64.png"
+      ],
+      "lc": [
+        "saint-lucia-flag-heart-badge-128.png",
+        "saint-lucia-flag-heart-badge-512.png",
+        "saint-lucia-flag-heart-badge-64.png"
+      ],
+      "li": [
+        "liechtenstein-flag-heart-badge-128.png",
+        "liechtenstein-flag-heart-badge-512.png",
+        "liechtenstein-flag-heart-badge-64.png"
+      ],
+      "lk": [
+        "sri-lanka-flag-heart-badge-128.png",
+        "sri-lanka-flag-heart-badge-512.png",
+        "sri-lanka-flag-heart-badge-64.png"
+      ],
+      "lr": [
+        "liberia-flag-heart-badge-128.png",
+        "liberia-flag-heart-badge-512.png",
+        "liberia-flag-heart-badge-64.png"
+      ],
+      "ls": [
+        "lesotho-flag-heart-badge-128.png",
+        "lesotho-flag-heart-badge-512.png",
+        "lesotho-flag-heart-badge-64.png"
+      ],
+      "lt": [
+        "lithuania-flag-heart-badge-128.png",
+        "lithuania-flag-heart-badge-512.png",
+        "lithuania-flag-heart-badge-64.png"
+      ],
+      "lu": [
+        "luxembourg-flag-heart-badge-128.png",
+        "luxembourg-flag-heart-badge-512.png",
+        "luxembourg-flag-heart-badge-64.png"
+      ],
+      "lv": [
+        "latvia-flag-heart-badge-128.png",
+        "latvia-flag-heart-badge-512.png",
+        "latvia-flag-heart-badge-64.png"
+      ],
+      "ly": [
+        "libya-flag-heart-badge-128.png",
+        "libya-flag-heart-badge-512.png",
+        "libya-flag-heart-badge-64.png"
+      ],
+      "ma": [
+        "morocco-flag-heart-badge-128.png",
+        "morocco-flag-heart-badge-512.png",
+        "morocco-flag-heart-badge-64.png"
+      ],
+      "mc": [
+        "monaco-flag-heart-badge-128.png",
+        "monaco-flag-heart-badge-512.png",
+        "monaco-flag-heart-badge-64.png"
+      ],
+      "md": [
+        "moldova-flag-heart-badge-128.png",
+        "moldova-flag-heart-badge-512.png",
+        "moldova-flag-heart-badge-64.png"
+      ],
+      "me": [
+        "montenegro-flag-heart-badge-128.png",
+        "montenegro-flag-heart-badge-512.png",
+        "montenegro-flag-heart-badge-64.png"
+      ],
+      "mg": [
+        "madagascar-flag-heart-badge-128.png",
+        "madagascar-flag-heart-badge-512.png",
+        "madagascar-flag-heart-badge-64.png"
+      ],
+      "mh": [
+        "marshall-islands-flag-heart-badge-128.png",
+        "marshall-islands-flag-heart-badge-512.png",
+        "marshall-islands-flag-heart-badge-64.png"
+      ],
+      "mk": [
+        "north-macedonia-flag-heart-badge-128.png",
+        "north-macedonia-flag-heart-badge-512.png",
+        "north-macedonia-flag-heart-badge-64.png"
+      ],
+      "ml": [
+        "mali-flag-heart-badge-128.png",
+        "mali-flag-heart-badge-512.png",
+        "mali-flag-heart-badge-64.png"
+      ],
+      "mm": [
+        "myanmar-flag-heart-badge-128.png",
+        "myanmar-flag-heart-badge-512.png",
+        "myanmar-flag-heart-badge-64.png"
+      ],
+      "mn": [
+        "mongolia-flag-heart-badge-128.png",
+        "mongolia-flag-heart-badge-512.png",
+        "mongolia-flag-heart-badge-64.png"
+      ],
+      "mr": [
+        "mauritania-flag-heart-badge-128.png",
+        "mauritania-flag-heart-badge-512.png",
+        "mauritania-flag-heart-badge-64.png"
+      ],
+      "mt": [
+        "malta-flag-heart-badge-128.png",
+        "malta-flag-heart-badge-512.png",
+        "malta-flag-heart-badge-64.png"
+      ],
+      "mu": [
+        "mauritius-flag-heart-badge-128.png",
+        "mauritius-flag-heart-badge-512.png",
+        "mauritius-flag-heart-badge-64.png"
+      ],
+      "mv": [
+        "maldives-flag-heart-badge-128.png",
+        "maldives-flag-heart-badge-512.png",
+        "maldives-flag-heart-badge-64.png"
+      ],
+      "mw": [
+        "malawi-flag-heart-badge-128.png",
+        "malawi-flag-heart-badge-512.png",
+        "malawi-flag-heart-badge-64.png"
+      ],
+      "mx": [
+        "mexico-flag-heart-badge-128.png",
+        "mexico-flag-heart-badge-512.png",
+        "mexico-flag-heart-badge-64.png"
+      ],
+      "my": [
+        "malaysia-flag-heart-badge-128.png",
+        "malaysia-flag-heart-badge-512.png",
+        "malaysia-flag-heart-badge-64.png"
+      ],
+      "mz": [
+        "mozambique-flag-heart-badge-128.png",
+        "mozambique-flag-heart-badge-512.png",
+        "mozambique-flag-heart-badge-64.png"
+      ],
+      "na": [
+        "namibia-flag-heart-badge-128.png",
+        "namibia-flag-heart-badge-512.png",
+        "namibia-flag-heart-badge-64.png"
+      ],
+      "ne": [
+        "niger-flag-heart-badge-128.png",
+        "niger-flag-heart-badge-512.png",
+        "niger-flag-heart-badge-64.png"
+      ],
+      "ng": [
+        "nigeria-flag-heart-badge-128.png",
+        "nigeria-flag-heart-badge-512.png",
+        "nigeria-flag-heart-badge-64.png"
+      ],
+      "ni": [
+        "nicaragua-flag-heart-badge-128.png",
+        "nicaragua-flag-heart-badge-512.png",
+        "nicaragua-flag-heart-badge-64.png"
+      ],
+      "nl": [
+        "netherlands-flag-heart-badge-128.png",
+        "netherlands-flag-heart-badge-512.png",
+        "netherlands-flag-heart-badge-64.png"
+      ],
+      "no": [
+        "norway-flag-heart-badge-128.png",
+        "norway-flag-heart-badge-512.png",
+        "norway-flag-heart-badge-64.png"
+      ],
+      "np": [
+        "nepal-flag-heart-badge-128.png",
+        "nepal-flag-heart-badge-512.png",
+        "nepal-flag-heart-badge-64.png"
+      ],
+      "nr": [
+        "nauru-flag-heart-badge-128.png",
+        "nauru-flag-heart-badge-512.png",
+        "nauru-flag-heart-badge-64.png"
+      ],
+      "nz": [
+        "new-zealand-flag-heart-badge-128.png",
+        "new-zealand-flag-heart-badge-512.png",
+        "new-zealand-flag-heart-badge-64.png"
+      ],
+      "om": [
+        "oman-flag-heart-badge-128.png",
+        "oman-flag-heart-badge-512.png",
+        "oman-flag-heart-badge-64.png"
+      ],
+      "pa": [
+        "panama-flag-heart-badge-128.png",
+        "panama-flag-heart-badge-512.png",
+        "panama-flag-heart-badge-64.png"
+      ],
+      "pe": [
+        "peru-flag-heart-badge-128.png",
+        "peru-flag-heart-badge-512.png",
+        "peru-flag-heart-badge-64.png"
+      ],
+      "pg": [
+        "papua-new-guinea-flag-heart-badge-128.png",
+        "papua-new-guinea-flag-heart-badge-512.png",
+        "papua-new-guinea-flag-heart-badge-64.png"
+      ],
+      "ph": [
+        "philippines-flag-heart-badge-128.png",
+        "philippines-flag-heart-badge-512.png",
+        "philippines-flag-heart-badge-64.png"
+      ],
+      "pk": [
+        "pakistan-flag-heart-badge-128.png",
+        "pakistan-flag-heart-badge-512.png",
+        "pakistan-flag-heart-badge-64.png"
+      ],
+      "pl": [
+        "poland-flag-heart-badge-128.png",
+        "poland-flag-heart-badge-512.png",
+        "poland-flag-heart-badge-64.png"
+      ],
+      "pt": [
+        "portugal-flag-heart-badge-128.png",
+        "portugal-flag-heart-badge-512.png",
+        "portugal-flag-heart-badge-64.png"
+      ],
+      "pw": [
+        "palau-flag-heart-badge-128.png",
+        "palau-flag-heart-badge-512.png",
+        "palau-flag-heart-badge-64.png"
+      ],
+      "py": [
+        "paraguay-flag-heart-badge-128.png",
+        "paraguay-flag-heart-badge-512.png",
+        "paraguay-flag-heart-badge-64.png"
+      ],
+      "qa": [
+        "qatar-flag-heart-badge-128.png",
+        "qatar-flag-heart-badge-512.png",
+        "qatar-flag-heart-badge-64.png"
+      ],
+      "ro": [
+        "romania-flag-heart-badge-128.png",
+        "romania-flag-heart-badge-512.png",
+        "romania-flag-heart-badge-64.png"
+      ],
+      "rs": [
+        "serbia-flag-heart-badge-128.png",
+        "serbia-flag-heart-badge-512.png",
+        "serbia-flag-heart-badge-64.png"
+      ],
+      "ru": [
+        "russia-flag-heart-badge-128.png",
+        "russia-flag-heart-badge-512.png",
+        "russia-flag-heart-badge-64.png"
+      ],
+      "rw": [
+        "rwanda-flag-heart-badge-128.png",
+        "rwanda-flag-heart-badge-512.png",
+        "rwanda-flag-heart-badge-64.png"
+      ],
+      "sa": [
+        "saudi-arabia-flag-heart-badge-128.png",
+        "saudi-arabia-flag-heart-badge-512.png",
+        "saudi-arabia-flag-heart-badge-64.png"
+      ],
+      "sb": [
+        "solomon-islands-flag-heart-badge-128.png",
+        "solomon-islands-flag-heart-badge-512.png",
+        "solomon-islands-flag-heart-badge-64.png"
+      ],
+      "sc": [
+        "seychelles-flag-heart-badge-128.png",
+        "seychelles-flag-heart-badge-512.png",
+        "seychelles-flag-heart-badge-64.png"
+      ],
+      "sd": [
+        "sudan-flag-heart-badge-128.png",
+        "sudan-flag-heart-badge-512.png",
+        "sudan-flag-heart-badge-64.png"
+      ],
+      "se": [
+        "sweden-flag-heart-badge-128.png",
+        "sweden-flag-heart-badge-512.png",
+        "sweden-flag-heart-badge-64.png"
+      ],
+      "sg": [
+        "singapore-flag-heart-badge-128.png",
+        "singapore-flag-heart-badge-512.png",
+        "singapore-flag-heart-badge-64.png"
+      ],
+      "si": [
+        "slovenia-flag-heart-badge-128.png",
+        "slovenia-flag-heart-badge-512.png",
+        "slovenia-flag-heart-badge-64.png"
+      ],
+      "sk": [
+        "slovakia-flag-heart-badge-128.png",
+        "slovakia-flag-heart-badge-512.png",
+        "slovakia-flag-heart-badge-64.png"
+      ],
+      "sl": [
+        "sierra-leone-flag-heart-badge-128.png",
+        "sierra-leone-flag-heart-badge-512.png",
+        "sierra-leone-flag-heart-badge-64.png"
+      ],
+      "sm": [
+        "san-marino-flag-heart-badge-128.png",
+        "san-marino-flag-heart-badge-512.png",
+        "san-marino-flag-heart-badge-64.png"
+      ],
+      "sn": [
+        "senegal-flag-heart-badge-128.png",
+        "senegal-flag-heart-badge-512.png",
+        "senegal-flag-heart-badge-64.png"
+      ],
+      "so": [
+        "somalia-flag-heart-badge-128.png",
+        "somalia-flag-heart-badge-512.png",
+        "somalia-flag-heart-badge-64.png"
+      ],
+      "sr": [
+        "suriname-flag-heart-badge-128.png",
+        "suriname-flag-heart-badge-512.png",
+        "suriname-flag-heart-badge-64.png"
+      ],
+      "ss": [
+        "south-sudan-flag-heart-badge-128.png",
+        "south-sudan-flag-heart-badge-512.png",
+        "south-sudan-flag-heart-badge-64.png"
+      ],
+      "st": [
+        "s-o-tom-and-pr-ncipe-flag-heart-badge-128.png",
+        "s-o-tom-and-pr-ncipe-flag-heart-badge-512.png",
+        "s-o-tom-and-pr-ncipe-flag-heart-badge-64.png"
+      ],
+      "sv": [
+        "el-salvador-flag-heart-badge-128.png",
+        "el-salvador-flag-heart-badge-512.png",
+        "el-salvador-flag-heart-badge-64.png"
+      ],
+      "sy": [
+        "syria-flag-heart-badge-128.png",
+        "syria-flag-heart-badge-512.png",
+        "syria-flag-heart-badge-64.png"
+      ],
+      "sz": [
+        "eswatini-flag-heart-badge-128.png",
+        "eswatini-flag-heart-badge-512.png",
+        "eswatini-flag-heart-badge-64.png"
+      ],
+      "td": [
+        "chad-flag-heart-badge-128.png",
+        "chad-flag-heart-badge-512.png",
+        "chad-flag-heart-badge-64.png"
+      ],
+      "tg": [
+        "togo-flag-heart-badge-128.png",
+        "togo-flag-heart-badge-512.png",
+        "togo-flag-heart-badge-64.png"
+      ],
+      "th": [
+        "thailand-flag-heart-badge-128.png",
+        "thailand-flag-heart-badge-512.png",
+        "thailand-flag-heart-badge-64.png"
+      ],
+      "tj": [
+        "tajikistan-flag-heart-badge-128.png",
+        "tajikistan-flag-heart-badge-512.png",
+        "tajikistan-flag-heart-badge-64.png"
+      ],
+      "tl": [
+        "timor-leste-flag-heart-badge-128.png",
+        "timor-leste-flag-heart-badge-512.png",
+        "timor-leste-flag-heart-badge-64.png"
+      ],
+      "tm": [
+        "turkmenistan-flag-heart-badge-128.png",
+        "turkmenistan-flag-heart-badge-512.png",
+        "turkmenistan-flag-heart-badge-64.png"
+      ],
+      "tn": [
+        "tunisia-flag-heart-badge-128.png",
+        "tunisia-flag-heart-badge-512.png",
+        "tunisia-flag-heart-badge-64.png"
+      ],
+      "to": [
+        "tonga-flag-heart-badge-128.png",
+        "tonga-flag-heart-badge-512.png",
+        "tonga-flag-heart-badge-64.png"
+      ],
+      "tr": [
+        "turkey-flag-heart-badge-128.png",
+        "turkey-flag-heart-badge-512.png",
+        "turkey-flag-heart-badge-64.png"
+      ],
+      "tt": [
+        "trinidad-and-tobago-flag-heart-badge-128.png",
+        "trinidad-and-tobago-flag-heart-badge-512.png",
+        "trinidad-and-tobago-flag-heart-badge-64.png"
+      ],
+      "tv": [
+        "tuvalu-flag-heart-badge-128.png",
+        "tuvalu-flag-heart-badge-512.png",
+        "tuvalu-flag-heart-badge-64.png"
+      ],
+      "tz": [
+        "tanzania-flag-heart-badge-128.png",
+        "tanzania-flag-heart-badge-512.png",
+        "tanzania-flag-heart-badge-64.png"
+      ],
+      "ua": [
+        "ukraine-flag-heart-badge-128.png",
+        "ukraine-flag-heart-badge-512.png",
+        "ukraine-flag-heart-badge-64.png"
+      ],
+      "ug": [
+        "uganda-flag-heart-badge-128.png",
+        "uganda-flag-heart-badge-512.png",
+        "uganda-flag-heart-badge-64.png"
+      ],
+      "us": [
+        "united-states-flag-heart-badge-128.png",
+        "united-states-flag-heart-badge-512.png",
+        "united-states-flag-heart-badge-64.png"
+      ],
+      "uy": [
+        "uruguay-flag-heart-badge-128.png",
+        "uruguay-flag-heart-badge-512.png",
+        "uruguay-flag-heart-badge-64.png"
+      ],
+      "uz": [
+        "uzbekistan-flag-heart-badge-128.png",
+        "uzbekistan-flag-heart-badge-512.png",
+        "uzbekistan-flag-heart-badge-64.png"
+      ],
+      "va": [
+        "vatican-city-flag-heart-badge-128.png",
+        "vatican-city-flag-heart-badge-512.png",
+        "vatican-city-flag-heart-badge-64.png"
+      ],
+      "vc": [
+        "saint-vincent-and-the-grenadines-flag-heart-badge-128.png",
+        "saint-vincent-and-the-grenadines-flag-heart-badge-512.png",
+        "saint-vincent-and-the-grenadines-flag-heart-badge-64.png"
+      ],
+      "ve": [
+        "venezuela-flag-heart-badge-128.png",
+        "venezuela-flag-heart-badge-512.png",
+        "venezuela-flag-heart-badge-64.png"
+      ],
+      "vn": [
+        "vietnam-flag-heart-badge-128.png",
+        "vietnam-flag-heart-badge-512.png",
+        "vietnam-flag-heart-badge-64.png"
+      ],
+      "vu": [
+        "vanuatu-flag-heart-badge-128.png",
+        "vanuatu-flag-heart-badge-512.png",
+        "vanuatu-flag-heart-badge-64.png"
+      ],
+      "ws": [
+        "samoa-flag-heart-badge-128.png",
+        "samoa-flag-heart-badge-512.png",
+        "samoa-flag-heart-badge-64.png"
+      ],
+      "xk": [
+        "kosovo-flag-heart-badge-128.png",
+        "kosovo-flag-heart-badge-512.png",
+        "kosovo-flag-heart-badge-64.png"
+      ],
+      "ye": [
+        "yemen-flag-heart-badge-128.png",
+        "yemen-flag-heart-badge-512.png",
+        "yemen-flag-heart-badge-64.png"
+      ],
+      "za": [
+        "south-africa-flag-heart-badge-128.png",
+        "south-africa-flag-heart-badge-512.png",
+        "south-africa-flag-heart-badge-64.png"
+      ],
+      "zm": [
+        "zambia-flag-heart-badge-128.png",
+        "zambia-flag-heart-badge-512.png",
+        "zambia-flag-heart-badge-64.png"
+      ],
+      "zw": [
+        "zimbabwe-flag-heart-badge-128.png",
+        "zimbabwe-flag-heart-badge-512.png",
+        "zimbabwe-flag-heart-badge-64.png"
       ]
     }
   }
